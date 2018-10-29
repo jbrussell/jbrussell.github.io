@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Research</title>
+      <link>https://jbrussell.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/home/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Skills</title>
       <link>https://jbrussell.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
@@ -67,7 +76,7 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>https://jbrussell.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -108,6 +117,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://jbrussell.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/home/cv/</guid>
       <description></description>
     </item>
     
