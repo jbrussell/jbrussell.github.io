@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Researches on Joshua Russell</title>
-    <link>https://jbrussell.github.io/research/</link>
-    <description>Recent content in Researches on Joshua Russell</description>
+    <title>inverse theory on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/inverse-theory/</link>
+    <description>Recent content in inverse theory on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://jbrussell.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbrussell.github.io/tags/inverse-theory/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>NoMelt: high-resolution constraints on oceanic lithosphere anisotropy</title>
-      <link>https://jbrussell.github.io/research/nomelt/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/nomelt/</guid>
-      <description>Under construction</description>
-    </item>
     
     <item>
       <title>OBSrange: A new tool for the precise location of ocean bottom seismometers</title>

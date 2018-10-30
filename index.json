@@ -18,29 +18,52 @@
       "seismic anisotropy",
       "surface waves"
     ],
-    "title": "High-resolution constraints on Pacific lithosphere anisotropy",
+    "title": "NoMelt: high-resolution constraints on oceanic lithosphere anisotropy",
     "type": "research"
   },
   {
     "authors": null,
     "categories": null,
-    "content": "In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for a flyer from my recent talk at the New York City College of Technology Department of Mathematics.\n",
+    "content": "Under construction\n",
     "date": 1540872000,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
     "lastmod": 1540872000,
-    "objectID": "6d2fc4ad12b23e30c0c7d67729bcf190",
-    "permalink": "https://jbrussell.github.io/other/iris_recruitment/",
+    "objectID": "b8ed4ced4e0fc19a6fbc9000dd5cbfb6",
+    "permalink": "https://jbrussell.github.io/research/obs_range/",
     "publishdate": "2018-10-30T00:00:00-04:00",
-    "relpermalink": "/other/iris_recruitment/",
-    "section": "other",
-    "summary": "As an alumni of the IRIS Internship  2018 IRIS recruitment lecture s",
+    "relpermalink": "/research/obs_range/",
+    "section": "research",
+    "summary": "Under construction",
     "tags": [
-      "Science Communication"
+      "OBS instrumentation",
+      "inverse theory"
     ],
-    "title": "IRIS Recruitment Lecture Series",
-    "type": "other"
+    "title": "OBSrange: A new tool for the precise location of ocean bottom seismometers",
+    "type": "research"
+  },
+  {
+    "authors": [],
+    "categories": null,
+    "content": "In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:\n",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "6f332f9dec62c51635c27174547ae388",
+    "permalink": "https://jbrussell.github.io/talk/iris_recruitment/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/talk/iris_recruitment/",
+    "section": "talk",
+    "summary": "In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research.",
+    "tags": [
+      "outreach",
+      "diversity"
+    ],
+    "title": "Pathways Into Geophysics and Seismology",
+    "type": "talk"
   },
   {
     "authors": null,
@@ -85,27 +108,5 @@
     ],
     "title": "Visualizing Earth's Free Oscillations",
     "type": "other"
-  },
-  {
-    "authors": [],
-    "categories": null,
-    "content": "Click on the Slides button above to view the built-in slides feature.\n Slides can be added in a few ways:\n Create slides using Academic\u0026rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.  Further talk details can easily be added to this page using Markdown and $\\rm \\LaTeX$ math code.\n",
-    "date": 1483246800,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1483246800,
-    "objectID": "6f332f9dec62c51635c27174547ae388",
-    "permalink": "https://jbrussell.github.io/talk/iris_recruitment/",
-    "publishdate": "2017-01-01T00:00:00-05:00",
-    "relpermalink": "/talk/iris_recruitment/",
-    "section": "talk",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.",
-    "tags": [
-      "outreach",
-      "diversity"
-    ],
-    "title": "Example Talk",
-    "type": "talk"
   }
 ]

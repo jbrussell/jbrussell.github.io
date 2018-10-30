@@ -12,7 +12,15 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/other/iris_recruitment/</loc>
+      <loc>https://jbrussell.github.io/research/obs_range/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/talk/iris_recruitment/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -30,14 +38,6 @@
     
       <loc>https://jbrussell.github.io/other/normal_modes/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/talk/iris_recruitment/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -78,6 +78,15 @@
     
       <loc>https://jbrussell.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/obs-instrumentation/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -130,7 +139,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/diversity/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -139,6 +148,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/free-oscillations/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/inverse-theory/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -157,7 +175,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/outreach/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
