@@ -7,9 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Science Communication</title>
+      <link>https://jbrussell.github.io/tags/science-communication/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/science-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free oscillations</title>
+      <link>https://jbrussell.github.io/tags/free-oscillations/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/free-oscillations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>normal modes</title>
+      <link>https://jbrussell.github.io/tags/normal-modes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/normal-modes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seismic anisotropy</title>
+      <link>https://jbrussell.github.io/tags/seismic-anisotropy/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/seismic-anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suface waves</title>
+      <link>https://jbrussell.github.io/tags/suface-waves/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/suface-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surface waves</title>
+      <link>https://jbrussell.github.io/tags/surface-waves/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/surface-waves/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/research/nomelt/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/other/research_as_art/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/other/normal_modes/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -45,6 +69,15 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/other/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -53,7 +86,71 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/research/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/science-communication/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/free-oscillations/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/normal-modes/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/seismic-anisotropy/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/suface-waves/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/surface-waves/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

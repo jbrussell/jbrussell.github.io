@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Under construction\n",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "a85181a6fb67bb7341d5cf7e3a178611",
+    "permalink": "https://jbrussell.github.io/research/nomelt/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/research/nomelt/",
+    "section": "research",
+    "summary": "In situ constraints on Pacific lithosphere.",
+    "tags": [
+      "seismic anisotropy",
+      "surface waves"
+    ],
+    "title": "High-resolution constraints on Pacific lithosphere anisotropy",
+    "type": "research"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Under construction\n",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "00acbbf7a31b03c7506a61b6abed9f63",
+    "permalink": "https://jbrussell.github.io/other/research_as_art/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/other/research_as_art/",
+    "section": "other",
+    "summary": "Research as Art",
+    "tags": [
+      "Science Communication"
+    ],
+    "title": "Research As Art",
+    "type": "other"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Under construction\n EarthVibrations from seismicsoundlab on Vimeo.\n",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "93a3277b888f00e79e18f9e76a174c11",
+    "permalink": "https://jbrussell.github.io/other/normal_modes/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/other/normal_modes/",
+    "section": "other",
+    "summary": "Normal modes of the Earth.",
+    "tags": [
+      "suface waves",
+      "free oscillations",
+      "normal modes"
+    ],
+    "title": "Visualizing Earth's Free Oscillations",
+    "type": "other"
+  }
+]
