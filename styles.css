@@ -1523,12 +1523,12 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-brand {
   font-weight: bold;
   font-size: 1.2em;
-  color: #4f4f4f;
+  color: #2b2b2b;
 }
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-  color: #4f4f4f;
+  color: #2b2b2b;
   background-color: transparent;
 }
 
