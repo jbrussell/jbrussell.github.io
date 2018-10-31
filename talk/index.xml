@@ -14,15 +14,6 @@
     
     <item>
       <title>Pathways Into Geophysics and Seismology</title>
-      <link>https://jbrussell.github.io/talk/agu_2016/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/talk/agu_2016/</guid>
-      <description>In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research.</description>
-    </item>
-    
-    <item>
-      <title>Pathways Into Geophysics and Seismology</title>
       <link>https://jbrussell.github.io/talk/iris_recruitment/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -31,11 +22,20 @@
     </item>
     
     <item>
-      <title>Constraints on radial anisotropy in the central Pacific upper mantle from the NoMelt OBS array</title>
+      <title>Constraints on radial anisotropy in the central Pacific</title>
       <link>https://jbrussell.github.io/talk/ssw/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/talk/ssw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on radial anisotropy in the central Pacific upper mantle from the NoMelt OBS array</title>
+      <link>https://jbrussell.github.io/talk/agu_2016/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/talk/agu_2016/</guid>
       <description></description>
     </item>
     
