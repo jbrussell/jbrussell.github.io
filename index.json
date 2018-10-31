@@ -52,6 +52,28 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540872000,
+    "objectID": "7cde61f31676dcdb859a602739187a73",
+    "permalink": "https://jbrussell.github.io/talk/agu_2016/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/talk/agu_2016/",
+    "section": "talk",
+    "summary": "In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research.",
+    "tags": [
+      "outreach",
+      "diversity"
+    ],
+    "title": "Pathways Into Geophysics and Seismology",
+    "type": "talk"
+  },
+  {
+    "authors": [],
+    "categories": null,
+    "content": "In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:\n",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
     "objectID": "6f332f9dec62c51635c27174547ae388",
     "permalink": "https://jbrussell.github.io/talk/iris_recruitment/",
     "publishdate": "2018-10-30T00:00:00-04:00",
@@ -108,5 +130,27 @@
     ],
     "title": "Visualizing Earth's Free Oscillations",
     "type": "other"
+  },
+  {
+    "authors": [],
+    "categories": null,
+    "content": "",
+    "date": 1540785600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540785600,
+    "objectID": "ac2f625793f7b4149255df334f0e80f2",
+    "permalink": "https://jbrussell.github.io/talk/ssw/",
+    "publishdate": "2018-10-29T00:00:00-04:00",
+    "relpermalink": "/talk/ssw/",
+    "section": "talk",
+    "summary": "",
+    "tags": [
+      "seismic anisotropy",
+      "oceanic lithosphere"
+    ],
+    "title": "Constraints on radial anisotropy in the central Pacific upper mantle from the NoMelt OBS array",
+    "type": "talk"
   }
 ]
