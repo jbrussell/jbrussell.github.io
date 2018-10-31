@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Listening for patterns in the Earth</title>
+      <link>https://jbrussell.github.io/talk/brown_amnh_2018/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/talk/brown_amnh_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NoMelt: high-resolution constraints on oceanic lithosphere anisotropy</title>
       <link>https://jbrussell.github.io/research/nomelt/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -50,15 +59,6 @@
       <guid>https://jbrussell.github.io/other/research_as_art/</guid>
       <description>&lt;p&gt;Under construction&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Using data to listen for patterns in the Earth</title>
-      <link>https://jbrussell.github.io/talk/brown_amnh_2018/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/talk/brown_amnh_2018/</guid>
-      <description></description>
     </item>
     
     <item>
