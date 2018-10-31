@@ -24,7 +24,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "  Seismic anisotropy offers perhaps the most direct window into convection in Earth's mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.   I use surface waves recorded on ocean bottom seismometers (OBS) at NoMelt to measure seismic anisotropy (both azimuthal and polarization, or radial, anisotropy) in detail.\n",
+    "content": "  Seismic anisotropy offers perhaps the most direct observational window into convection in Earth\u0026rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy. For the first time, we are able to observe the complete anisotropic complexity of surface waves, including Love wave anisotropy. This allows us to completely characterize the elastic structure of the oceanic lithosphere and compare it with handsample petrofabrics, bridging the gap between hand seismic and outcrop length scales.\n",
     "date": 1540872000,
     "expirydate": -62135596800,
     "kind": "page",
@@ -35,18 +35,18 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/research/nomelt/",
     "section": "research",
-    "summary": "In situ constraints on Pacific lithosphere.",
+    "summary": "The goal of this project is to comprehensively characterize the anisotropic structure of ~70 Ma oceanic lithosphere. This will help us better understand mid ocean ridge processes as well as the evolution of oceanic lithosphere.",
     "tags": [
       "seismic anisotropy",
       "surface waves"
     ],
-    "title": "NoMelt: high-resolution constraints on oceanic lithosphere anisotropy",
+    "title": "NoMelt: seismic constraints on oceanic lithosphere petrofabric",
     "type": "research"
   },
   {
     "authors": null,
     "categories": null,
-    "content": "Under construction\n",
+    "content": "   ",
     "date": 1540872000,
     "expirydate": -62135596800,
     "kind": "page",
@@ -57,7 +57,7 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/research/obs_range/",
     "section": "research",
-    "summary": "Under construction",
+    "summary": "We have developed a new tool called OBSrange for precisely locating ocean bottom seismometers (OBS) on the seafloor. The tool is written in both Python and MATLAB and is the first open source OBS location code.",
     "tags": [
       "OBS instrumentation",
       "inverse theory"
