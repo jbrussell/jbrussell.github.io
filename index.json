@@ -87,6 +87,28 @@
     "type": "other"
   },
   {
+    "authors": [],
+    "categories": null,
+    "content": "",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "372c30b6a416d76ad7fee6ce804d675b",
+    "permalink": "https://jbrussell.github.io/talk/brown_amnh_2018/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/talk/brown_amnh_2018/",
+    "section": "talk",
+    "summary": "Humans have evolved to be excellent at pattern recognition using both our eyes and ears. We explore how data (seismic, weather, oceanographic) can be sonified and visualized in order to better identify patterns, as well as why we should care about these patterns.",
+    "tags": [
+      "outreach",
+      "science communication"
+    ],
+    "title": "Using data to listen for patterns in the Earth",
+    "type": "talk"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": "Under construction\n EarthVibrations from seismicsoundlab on Vimeo.\n",
