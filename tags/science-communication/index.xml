@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Science Communication on Joshua Russell</title>
+    <title>science communication on Joshua Russell</title>
     <link>https://jbrussell.github.io/tags/science-communication/</link>
-    <description>Recent content in Science Communication on Joshua Russell</description>
+    <description>Recent content in science communication on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Research As Art</title>
-      <link>https://jbrussell.github.io/other/research_as_art/</link>
+      <title>Listening for patterns in the Earth</title>
+      <link>https://jbrussell.github.io/talk/brown_amnh_2018/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/other/research_as_art/</guid>
-      <description>Under construction</description>
+      <guid>https://jbrussell.github.io/talk/brown_amnh_2018/</guid>
+      <description></description>
     </item>
     
   </channel>
