@@ -67,6 +67,30 @@
   {
     "authors": null,
     "categories": null,
+    "content": " UNDER CONSTRUCTION\u0026hellip; ",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "17a8e3ed9106e967722e52fe6f5418b4",
+    "permalink": "https://jbrussell.github.io/other/sonification/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/other/sonification/",
+    "section": "other",
+    "summary": "Earthquakes are recorded as seismograms. When compressed in time, these seismograms are equivalent to sound waves.",
+    "tags": [
+      "data visualization",
+      "suface waves",
+      "free oscillations",
+      "normal modes"
+    ],
+    "title": "Earthquake Sonification",
+    "type": "other"
+  },
+  {
+    "authors": null,
+    "categories": null,
     "content": " CD-CAT Experiment, Central Turkey, 2015   Young Pacific ORCA, South Pacific, 2018   ",
     "date": 1540872000,
     "expirydate": -62135596800,
