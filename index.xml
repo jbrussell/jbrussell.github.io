@@ -50,7 +50,7 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with &lt;a href=&#34;http://zeilon.squarespace.com/&#34;&gt;Zach Eilon&lt;/a&gt; and &lt;a href =&#34;https://www.researchgate.net/profile/Stephen_Mosher&#34;&gt;Stephen Mosher&lt;/a&gt;, I have developed a new open-source tool called OBSrange for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties. We applied the tool to data from the 2018 Young Pacific ORCA deployment, revealing a clockwise mesoscale eddy that correlates with observed ocean currents in the region. This novel measurement of depth integrated flow through the water column is the first of its kind and could potentially be used to calibrate models of vertical shear.&lt;/p&gt;
+&lt;p&gt;Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with &lt;a href=&#34;http://zeilon.squarespace.com/&#34;&gt;Zach Eilon&lt;/a&gt; and &lt;a href =&#34;https://www.researchgate.net/profile/Stephen_Mosher&#34;&gt;Stephen Mosher&lt;/a&gt;, I have developed a new open-source tool called &lt;a href=&#34;&#34;&gt;OBSrange&lt;/a&gt; for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties. We applied the tool to data from the 2018 Young Pacific ORCA deployment, revealing a clockwise mesoscale eddy that correlates with observed ocean currents in the region. This novel measurement of depth integrated flow through the water column is the first of its kind and could potentially be used to calibrate models of vertical shear.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&#34;gyre.jpg&#34; width=&#34;1000px&#34;&gt;
@@ -93,8 +93,55 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/other/normal_modes/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/215665951&#34;&gt;EarthVibrations&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/seismicsoundlab&#34;&gt;seismicsoundlab&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;This video is a contribution by &lt;a href=&#34;https://www.celiaeddy.com/&#34; target=&#34;_blank&#34;&gt;Celia Eddy&lt;/a&gt; and I to the &lt;a href=&#34;http://www.seismicsoundlab.org/&#34; target=&#34;_blank&#34;&gt;Seismic Sound Lab&lt;/a&gt;, run by Ben Holtzman at the Lamont-Doherty Earth Observatory.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/215665951&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;After a large earthquake, Earth&amp;rsquo;s normal modes vibrate like waves on a guitar string. If the earthquake is large enough, the Earth can &amp;lsquo;ring&amp;rsquo; for days or weeks. This video demonstrates both visually and sonically these free oscillations of the Earth after the M6.9 earthquake that occurred off the coast of Fiji on 2/24/2017.&lt;/p&gt;
+
+&lt;p&gt;The video is composed of three separate but related animations. Each animation show how the waves travel along the surface of the earth, displayed as a circular ring. This 2-dimensional ring is made up of 2,000 points on the Earth&amp;rsquo;s surface that display ground motion for 48 hours after the earthquake.&lt;/p&gt;
+
+&lt;h2 id=&#34;animation-1-surface-waves&#34;&gt;Animation 1: Surface waves&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AUDIO :&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VIDEO :&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;comb.jpg&#34; width=&#34;700px&#34;&gt;
+&lt;figcaption&gt;
+  &lt;font color=&#34;gray&#34;&gt;
+  &lt;small&gt;
+      Fig 1. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+  &lt;/small&gt;
+  &lt;/font&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;peaks.jpg&#34; width=&#34;700px&#34;&gt;
+&lt;figcaption&gt;
+  &lt;font color=&#34;gray&#34;&gt;
+  &lt;small&gt;
+      Fig 2. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+  &lt;/small&gt;
+  &lt;/font&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;envelopes.jpg&#34; width=&#34;700px&#34;&gt;
+&lt;figcaption&gt;
+  &lt;font color=&#34;gray&#34;&gt;
+  &lt;small&gt;
+      Fig 3. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+  &lt;/small&gt;
+  &lt;/font&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;After a large earthquake, waves bounce around inside the earth for hours and sometimes days. These audio-visualizations show how these waves travel along the surface of the earth, displayed as a ring. This 2-dimensional ring is made up of 2,000 points on the earth&amp;rsquo;s surface that display ground motion after an earthquake.&lt;/p&gt;
 
