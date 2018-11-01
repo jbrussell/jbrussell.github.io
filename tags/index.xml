@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Love waves</title>
+      <link>https://jbrussell.github.io/tags/love-waves/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/love-waves/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OBS instrumentation</title>
@@ -27,6 +36,15 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/tags/science-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ambient noise</title>
+      <link>https://jbrussell.github.io/tags/ambient-noise/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/ambient-noise/</guid>
       <description></description>
     </item>
     
@@ -94,6 +112,15 @@
     </item>
     
     <item>
+      <title>overtones</title>
+      <link>https://jbrussell.github.io/tags/overtones/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/overtones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>science communication</title>
       <link>https://jbrussell.github.io/tags/science-communication/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -126,6 +153,15 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/tags/surface-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wave propagation</title>
+      <link>https://jbrussell.github.io/tags/wave-propagation/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/wave-propagation/</guid>
       <description></description>
     </item>
     

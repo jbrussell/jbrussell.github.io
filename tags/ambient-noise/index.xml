@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>seismic anisotropy on Joshua Russell</title>
-    <link>https://jbrussell.github.io/tags/seismic-anisotropy/</link>
-    <description>Recent content in seismic anisotropy on Joshua Russell</description>
+    <title>ambient noise on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/ambient-noise/</link>
+    <description>Recent content in ambient noise on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://jbrussell.github.io/tags/seismic-anisotropy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbrussell.github.io/tags/ambient-noise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,24 +28,6 @@
       
       <guid>https://jbrussell.github.io/research/nomelt/</guid>
       <description>Seismic anisotropy offers perhaps the most direct observational window into convection in Earth&amp;rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy.</description>
-    </item>
-    
-    <item>
-      <title>Constraints on radial anisotropy of ~70 Ma oceanic lithosphere</title>
-      <link>https://jbrussell.github.io/talk/ssw/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/talk/ssw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constraints on radial anisotropy in the central Pacific upper mantle from the NoMelt OBS array</title>
-      <link>https://jbrussell.github.io/talk/agu_2016/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/talk/agu_2016/</guid>
-      <description></description>
     </item>
     
   </channel>

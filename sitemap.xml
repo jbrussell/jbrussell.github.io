@@ -4,7 +4,23 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/research/love_overtones/</loc>
+      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/photography/birds/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/research/enam/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -125,6 +141,15 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/tags/love-waves/</loc>
+      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/obs-instrumentation/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -161,7 +186,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/research/</loc>
-      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,6 +204,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/</loc>
+      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/ambient-noise/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -250,6 +284,15 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/tags/overtones/</loc>
+      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/science-communication/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -279,6 +322,15 @@
     
       <loc>https://jbrussell.github.io/tags/surface-waves/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/wave-propagation/</loc>
+      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

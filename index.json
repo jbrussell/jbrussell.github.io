@@ -2,6 +2,29 @@
   {
     "authors": null,
     "categories": null,
+    "content": " UNDER CONSTRUCTION\u0026hellip; ",
+    "date": 1541044800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541044800,
+    "objectID": "5694190403e98ab37af2dd8b7aaf510d",
+    "permalink": "https://jbrussell.github.io/research/love_overtones/",
+    "publishdate": "2018-11-01T00:00:00-04:00",
+    "relpermalink": "/research/love_overtones/",
+    "section": "research",
+    "summary": "Love wave propagation is complex in oceanic environments due to the pronounced low velocity zone (LVZ). I work to better understand these complexities in order to make use of Love wave observations in oceanic environments.",
+    "tags": [
+      "wave propagation",
+      "Love waves",
+      "overtones"
+    ],
+    "title": "Wave propagation: Love wave Overtone interference",
+    "type": "research"
+  },
+  {
+    "authors": null,
+    "categories": null,
     "content": "          ",
     "date": 1540872000,
     "expirydate": -62135596800,
@@ -17,6 +40,29 @@
     "tags": [],
     "title": "Birds",
     "type": "photography"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": " UNDER CONSTRUCTION\u0026hellip; ",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "0cb256d910588cd0f791e6db6b40978f",
+    "permalink": "https://jbrussell.github.io/research/enam/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/research/enam/",
+    "section": "research",
+    "summary": "The goal of this project is to better understand the anisotropic structure of old Atlantic lithosphere.",
+    "tags": [
+      "seismic anisotropy",
+      "surface waves",
+      "ambient noise"
+    ],
+    "title": "ENAM: Seismic anisotropy offshore eastern North America",
+    "type": "research"
   },
   {
     "authors": null,
@@ -62,7 +108,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "  Seismic anisotropy offers perhaps the most direct observational window into convection in Earth\u0026rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy. For the first time, we are able to observe the complete anisotropic complexity of surface waves, including Love wave anisotropy. This allows us to completely characterize the elastic structure of the oceanic lithosphere and compare it with handsample petrofabrics, bridging the gap between hand seismic and outcrop length scales.\n",
+    "content": "   Seismic anisotropy offers perhaps the most direct observational window into convection in Earth\u0026rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy. For the first time, we are able to observe the complete anisotropic complexity of surface waves, including Love wave anisotropy. This allows us to completely characterize the elastic structure of the oceanic lithosphere and compare it with handsample petrofabrics.\nComparing to Petrofabrics By measuring the complete set of anisotropic parameters for both Rayleigh and Love waves, we can for the first time compare the seismically derived elastic behavior of oceanic lithosphere with that directly measured from lithospheric rocks. We find excellent agreement in the anisotropic terms (see below) suggesting that we have truly bridged the gap between surface-wave and handsample length scales.\n   Comparison of the NoMelt anisotropic behavior from our study in black, versus three handsample petrofabrics in color.     ",
     "date": 1540872000,
     "expirydate": -62135596800,
     "kind": "page",
@@ -76,7 +122,8 @@
     "summary": "The goal of this project is to comprehensively characterize the anisotropic structure of ~70 Ma oceanic lithosphere. This will help us better understand mid ocean ridge processes as well as the evolution of oceanic lithosphere.",
     "tags": [
       "seismic anisotropy",
-      "surface waves"
+      "surface waves",
+      "ambient noise"
     ],
     "title": "NoMelt: seismic constraints on oceanic lithosphere petrofabric",
     "type": "research"

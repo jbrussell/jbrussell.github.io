@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wave propagation: Love wave Overtone interference</title>
+      <link>https://jbrussell.github.io/research/love_overtones/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
+      <description> UNDER CONSTRUCTION&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
+      <link>https://jbrussell.github.io/research/enam/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/enam/</guid>
+      <description> UNDER CONSTRUCTION&amp;hellip; </description>
+    </item>
     
     <item>
       <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>

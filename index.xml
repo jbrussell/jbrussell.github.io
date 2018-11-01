@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Wave propagation: Love wave Overtone interference</title>
+      <link>https://jbrussell.github.io/research/love_overtones/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
+      <description>
+
+&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Birds</title>
       <link>https://jbrussell.github.io/photography/birds/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -97,6 +109,18 @@
     </item>
     
     <item>
+      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
+      <link>https://jbrussell.github.io/research/enam/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/enam/</guid>
+      <description>
+
+&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fieldwork</title>
       <link>https://jbrussell.github.io/photography/fieldwork/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -155,11 +179,30 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/research/nomelt/</guid>
-      <description>&lt;p&gt;&lt;div&gt;
+      <description>
+
+&lt;p&gt;&lt;div&gt;
   &lt;p style=&#34;float:right;&#34;&gt;&lt;img src=&#34;featured.jpg&#34; width=&#34;400px&#34;&gt;&lt;/p&gt;
   &lt;p&gt; Seismic anisotropy offers perhaps the most direct observational window into convection in Earth&amp;rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction. &lt;/p&gt;
 &lt;/div&gt;
-I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy. For the first time, we are able to observe the complete anisotropic complexity of surface waves, including Love wave anisotropy. This allows us to completely characterize the elastic structure of the oceanic lithosphere and compare it with handsample petrofabrics, bridging the gap between hand seismic and outcrop length scales.&lt;/p&gt;
+I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy. For the first time, we are able to observe the complete anisotropic complexity of surface waves, including Love wave anisotropy. This allows us to completely characterize the elastic structure of the oceanic lithosphere and compare it with handsample petrofabrics.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;comparing-to-petrofabrics&#34;&gt;Comparing to Petrofabrics&lt;/h2&gt;
+
+&lt;p&gt;By measuring the complete set of anisotropic parameters for both Rayleigh and Love waves, we can for the first time compare the seismically derived elastic behavior of oceanic lithosphere with that directly measured from lithospheric rocks. We find excellent agreement in the anisotropic terms (see below) suggesting that we have truly bridged the gap between surface-wave and handsample length scales.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;petrofabrics.jpg&#34; width=&#34;500px&#34;&gt;
+&lt;figcaption&gt;
+  &lt;font color=&#34;gray&#34;&gt;
+  &lt;small&gt;
+      Comparison of the NoMelt anisotropic behavior from our study in black, versus three handsample petrofabrics in color.
+  &lt;/small&gt;
+  &lt;/font&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
