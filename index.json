@@ -2,7 +2,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "test\n         ",
+    "content": "          ",
     "date": 1540872000,
     "expirydate": -62135596800,
     "kind": "page",
@@ -13,7 +13,7 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/photography/birds/",
     "section": "photography",
-    "summary": "In addition to seismology, I am also an avid birder.",
+    "summary": "In addition to being a grad student, I am also an avid birder.",
     "tags": [],
     "title": "Birds",
     "type": "photography"
@@ -32,9 +32,9 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/photography/fieldwork/",
     "section": "photography",
-    "summary": "In addition to seismology, I am also an avid birder.",
+    "summary": "          ",
     "tags": [],
-    "title": "Birds",
+    "title": "Fieldwork",
     "type": "photography"
   },
   {
