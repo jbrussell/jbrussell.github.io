@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/photography/birds/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/photography/fieldwork/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/talk/brown_amnh_2018/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
@@ -119,6 +135,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/other/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/photography/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>

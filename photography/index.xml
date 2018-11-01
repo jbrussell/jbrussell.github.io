@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photographies on Joshua Russell</title>
+    <link>https://jbrussell.github.io/photography/</link>
+    <description>Recent content in Photographies on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Birds</title>
+      <link>https://jbrussell.github.io/photography/birds/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/photography/birds/</guid>
+      <description>test
+         </description>
+    </item>
+    
+    <item>
+      <title>Birds</title>
+      <link>https://jbrussell.github.io/photography/fieldwork/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/photography/fieldwork/</guid>
+      <description>          </description>
+    </item>
+    
+  </channel>
+</rss>
