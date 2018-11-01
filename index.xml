@@ -39,10 +39,29 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/research/obs_range/</guid>
-      <description>&lt;div&gt;
-  &lt;p style=&#34;float:right;&#34;&gt;&lt;img src=&#34;featured.jpg&#34; width=&#34;1000px&#34;&gt;&lt;/p&gt;
-  &lt;p&gt; &lt;/p&gt;
-&lt;/div&gt;
+      <description>&lt;figure&gt;
+  &lt;img src=&#34;featured.jpg&#34; width=&#34;600px&#34;&gt;
+&lt;figcaption&gt;
+  &lt;font color=&#34;gray&#34;&gt;
+  &lt;small&gt;
+      Fig 1. Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].
+  &lt;/small&gt;
+  &lt;/font&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with &lt;a href=&#34;http://zeilon.squarespace.com/&#34;&gt;Zach Eilon&lt;/a&gt; and &lt;a href =&#34;https://www.researchgate.net/profile/Stephen_Mosher&#34;&gt;Stephen Mosher&lt;/a&gt;, I have developed a new open-source tool called OBSrange for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties. We applied the tool to data from the 2018 Young Pacific ORCA deployment, revealing a clockwise mesoscale eddy that correlates with observed ocean currents in the region. This novel measurement of depth integrated flow through the water column is the first of its kind and could potentially be used to calibrate models of vertical shear.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;gyre.jpg&#34; width=&#34;1000px&#34;&gt;
+&lt;figcaption&gt;
+  &lt;font color=&#34;gray&#34;&gt;
+  &lt;small&gt;
+      Fig 2. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+  &lt;/small&gt;
+  &lt;/font&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 </description>
     </item>
     

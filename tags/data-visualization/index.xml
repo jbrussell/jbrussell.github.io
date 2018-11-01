@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualization on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/data-visualization/</link>
+    <description>Recent content in data visualization on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualizing Earth&#39;s Free Oscillations</title>
+      <link>https://jbrussell.github.io/other/normal_modes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/other/normal_modes/</guid>
+      <description>EarthVibrations from seismicsoundlab on Vimeo.
+After a large earthquake, waves bounce around inside the earth for hours and sometimes days. These audio-visualizations show how these waves travel along the surface of the earth, displayed as a ring. This 2-dimensional ring is made up of 2,000 points on the earth&amp;rsquo;s surface that display ground motion after an earthquake.
+Audiovisual of the M6.9 earthquake that occurred off the coast of Fiji on 2/24/2017.</description>
+    </item>
+    
+  </channel>
+</rss>
