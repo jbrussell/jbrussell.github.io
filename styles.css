@@ -40,7 +40,7 @@ body {
 }
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
-    margin-top: 51px; /* Offset body content by navbar height. */
+    margin-top: 0px; /* Offset body content by navbar height. */
   }
 }
 
@@ -1422,7 +1422,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: rgba(50,50,50,1) !important;
+  background: rgba(0,0,0,0.7) !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1489,7 +1489,7 @@ nav#navbar-main li.nav-item {
 }
 
 .dropdown-menu {
-  background-color: rgba(50,50,50,1) !important;
+  background-color: rgba(0,0,0,0.7) !important;
 }
 
 .dropdown-menu > li > a {
@@ -1506,13 +1506,13 @@ nav#navbar-main li.nav-item {
 .dropdown-menu>li>a:hover {
   color: #4091f9;
   text-decoration: none;
-  background-color: rgba(50,50,50,1);
+  background-color: rgba(0,0,0,0.7);
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: rgba(50,50,50,1);
+  color: rgba(0,0,0,0.7);
   text-decoration: none;
   background-color: #4091f9;
   outline: 0;
@@ -1523,7 +1523,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
   color: rgba(250,250,250,0.9) !important;
-  background-color: rgba(50,50,50,1) !important;
+  background-color: rgba(0,0,0,0.7) !important;
 }
 
 .navbar-light .navbar-brand {

@@ -27,3 +27,19 @@
   transition: all 300ms ease-in-out;
   text-decoration: none;
 }
+
+/* Project cards */
+
+.card .card-text p {
+  color: rgba(0,0,0,0.9);
+  font-size: 0.75rem;
+}
+
+.card .card-image.hover-overlay:after {
+  content: none;
+}
+
+/* Main Font */
+html {
+  color: rgba(0,0,0,0.8);
+}
