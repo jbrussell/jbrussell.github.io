@@ -36,10 +36,16 @@
 }
 
 .card .card-image.hover-overlay:after {
-  content: none;
+  content: "";
 }
 
 /* Main Font */
 html {
   color: rgba(0,0,0,0.8);
+}
+
+@media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
+  body {
+    margin-top: 51px; /* Offset body content by navbar height. */
+  }
 }
