@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Wave propagation: Love wave overtone interference</title>
-      <link>https://jbrussell.github.io/research/love_overtones/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
-      <description> UNDER CONSTRUCTION&amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
-      <link>https://jbrussell.github.io/research/enam/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/enam/</guid>
-      <description> UNDER CONSTRUCTION&amp;hellip; </description>
-    </item>
     
     <item>
       <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>
@@ -46,6 +28,24 @@
       
       <guid>https://jbrussell.github.io/research/obs_range/</guid>
       <description>Fig 1. Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].     Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with Zach Eilon and Stephen Mosher, I have developed a new open-source tool called OBSrange for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties.</description>
+    </item>
+    
+    <item>
+      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
+      <link>https://jbrussell.github.io/research/enam/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/enam/</guid>
+      <description> UNDER CONSTRUCTION&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Wave propagation: Love wave overtone interference</title>
+      <link>https://jbrussell.github.io/research/love_overtones/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
+      <description> UNDER CONSTRUCTION&amp;hellip; </description>
     </item>
     
   </channel>

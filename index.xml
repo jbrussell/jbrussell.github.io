@@ -11,18 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Wave propagation: Love wave overtone interference</title>
-      <link>https://jbrussell.github.io/research/love_overtones/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
-      <description>
-
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Birds</title>
       <link>https://jbrussell.github.io/photography/birds/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -105,30 +93,6 @@
   &lt;/a&gt;
   
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
-      <link>https://jbrussell.github.io/research/enam/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/enam/</guid>
-      <description>
-
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Earthquake Sonification</title>
-      <link>https://jbrussell.github.io/other/sonification/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/other/sonification/</guid>
-      <description>
-
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
 </description>
     </item>
     
@@ -263,16 +227,6 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
     </item>
     
     <item>
-      <title>Research As Art</title>
-      <link>https://jbrussell.github.io/other/research_as_art/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/other/research_as_art/</guid>
-      <description>&lt;p&gt;Under construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Visualizing Earth&#39;s Free Oscillations</title>
       <link>https://jbrussell.github.io/other/normal_modes/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -344,12 +298,58 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
     </item>
     
     <item>
+      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
+      <link>https://jbrussell.github.io/research/enam/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/enam/</guid>
+      <description>
+
+&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earthquake Sonification</title>
+      <link>https://jbrussell.github.io/other/sonification/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/other/sonification/</guid>
+      <description>
+
+&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Constraints on radial anisotropy in the central Pacific upper mantle from the NoMelt OBS array</title>
       <link>https://jbrussell.github.io/talk/agu_2016/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/talk/agu_2016/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Research As Art</title>
+      <link>https://jbrussell.github.io/other/research_as_art/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/other/research_as_art/</guid>
+      <description>&lt;p&gt;Under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wave propagation: Love wave overtone interference</title>
+      <link>https://jbrussell.github.io/research/love_overtones/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
+      <description>
+
+&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

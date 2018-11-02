@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
-      <link>https://jbrussell.github.io/research/enam/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/enam/</guid>
-      <description> UNDER CONSTRUCTION&amp;hellip; </description>
-    </item>
-    
-    <item>
       <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>
       <link>https://jbrussell.github.io/research/nomelt/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/research/nomelt/</guid>
       <description>Seismic anisotropy offers perhaps the most direct observational window into convection in Earth&amp;rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  I use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy.</description>
+    </item>
+    
+    <item>
+      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
+      <link>https://jbrussell.github.io/research/enam/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/enam/</guid>
+      <description> UNDER CONSTRUCTION&amp;hellip; </description>
     </item>
     
   </channel>
