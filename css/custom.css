@@ -14,8 +14,8 @@
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -400%);
-  border-color: {{ .Get "primary" }};
-  background: {{ .Get "primary" }};
+  border-color: #fff;
+  background: transparent;
   transition: all 200ms;
 }
 /* Add a rollover background colour but keep the text white */
