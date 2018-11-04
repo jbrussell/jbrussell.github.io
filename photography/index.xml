@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>Birds</title>
-      <link>https://jbrussell.github.io/photography/birds/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/photography/birds/</guid>
-      <description>          </description>
-    </item>
-    
-    <item>
       <title>Fieldwork</title>
       <link>https://jbrussell.github.io/photography/fieldwork/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/photography/fieldwork/</guid>
       <description> CD-CAT Experiment, Central Turkey, 2015   Young Pacific ORCA, South Pacific, 2018   </description>
+    </item>
+    
+    <item>
+      <title>Wildlife</title>
+      <link>https://jbrussell.github.io/photography/birds/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/photography/birds/</guid>
+      <description>          </description>
     </item>
     
   </channel>
