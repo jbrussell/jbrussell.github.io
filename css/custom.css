@@ -49,3 +49,10 @@ html {
     margin-top: 51px; /* Offset body content by navbar height. */
   }
 }
+
+/* Navigation bar */
+.navbar {
+  min-height: 51px !important;
+  height: 51px;
+}
+

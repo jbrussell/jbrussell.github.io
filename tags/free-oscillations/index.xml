@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>free oscillations on Joshua Russell</title>
+    <title>Free Oscillations on Joshua Russell</title>
     <link>https://jbrussell.github.io/tags/free-oscillations/</link>
-    <description>Recent content in free oscillations on Joshua Russell</description>
+    <description>Recent content in Free Oscillations on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -20,15 +20,6 @@
       <guid>https://jbrussell.github.io/other/normal_modes/</guid>
       <description>This video is a contribution by Celia Eddy and I to the Seismic Sound Lab, run by Ben Holtzman at the Lamont-Doherty Earth Observatory.
  After a large earthquake, the Earth vibrates like waves on a guitar string &amp;ndash; These discrete modes of vibration are called normal modes or free oscillations. If the earthquake is large enough, the Earth can &amp;lsquo;ring&amp;rsquo; for days or weeks. This video uses synthetic waveform simulations to demonstrate both visually and sonically these free oscillations of the Earth after the M6.</description>
-    </item>
-    
-    <item>
-      <title>Earthquake Sonification</title>
-      <link>https://jbrussell.github.io/other/sonification/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/other/sonification/</guid>
-      <description> UNDER CONSTRUCTION&amp;hellip; </description>
     </item>
     
   </channel>

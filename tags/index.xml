@@ -7,40 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Love waves</title>
-      <link>https://jbrussell.github.io/tags/love-waves/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/tags/love-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OBS instrumentation</title>
-      <link>https://jbrussell.github.io/tags/obs-instrumentation/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/tags/obs-instrumentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science Communication</title>
-      <link>https://jbrussell.github.io/tags/science-communication/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/tags/science-communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ambient noise</title>
+      <title>Ambient Noise</title>
       <link>https://jbrussell.github.io/tags/ambient-noise/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -49,7 +22,16 @@
     </item>
     
     <item>
-      <title>data visualization</title>
+      <title>Data Sonification</title>
+      <link>https://jbrussell.github.io/tags/data-sonification/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/data-sonification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
       <link>https://jbrussell.github.io/tags/data-visualization/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -58,7 +40,7 @@
     </item>
     
     <item>
-      <title>diversity</title>
+      <title>Diversity</title>
       <link>https://jbrussell.github.io/tags/diversity/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -67,7 +49,7 @@
     </item>
     
     <item>
-      <title>free oscillations</title>
+      <title>Free Oscillations</title>
       <link>https://jbrussell.github.io/tags/free-oscillations/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -76,7 +58,7 @@
     </item>
     
     <item>
-      <title>inverse theory</title>
+      <title>Inverse Theory</title>
       <link>https://jbrussell.github.io/tags/inverse-theory/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -85,7 +67,16 @@
     </item>
     
     <item>
-      <title>normal modes</title>
+      <title>Love Waves</title>
+      <link>https://jbrussell.github.io/tags/love-waves/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/love-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normal Modes</title>
       <link>https://jbrussell.github.io/tags/normal-modes/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -94,7 +85,16 @@
     </item>
     
     <item>
-      <title>oceanic lithosphere</title>
+      <title>OBS Instrumentation</title>
+      <link>https://jbrussell.github.io/tags/obs-instrumentation/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/obs-instrumentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oceanic Lithosphere</title>
       <link>https://jbrussell.github.io/tags/oceanic-lithosphere/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -103,7 +103,7 @@
     </item>
     
     <item>
-      <title>outreach</title>
+      <title>Outreach</title>
       <link>https://jbrussell.github.io/tags/outreach/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -112,7 +112,7 @@
     </item>
     
     <item>
-      <title>overtones</title>
+      <title>Overtones</title>
       <link>https://jbrussell.github.io/tags/overtones/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -121,7 +121,7 @@
     </item>
     
     <item>
-      <title>science communication</title>
+      <title>Science Communication</title>
       <link>https://jbrussell.github.io/tags/science-communication/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -130,7 +130,7 @@
     </item>
     
     <item>
-      <title>seismic anisotropy</title>
+      <title>Seismic Anisotropy</title>
       <link>https://jbrussell.github.io/tags/seismic-anisotropy/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -139,7 +139,7 @@
     </item>
     
     <item>
-      <title>suface waves</title>
+      <title>Suface Waves</title>
       <link>https://jbrussell.github.io/tags/suface-waves/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -148,7 +148,7 @@
     </item>
     
     <item>
-      <title>surface waves</title>
+      <title>Surface Waves</title>
       <link>https://jbrussell.github.io/tags/surface-waves/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -157,7 +157,7 @@
     </item>
     
     <item>
-      <title>wave propagation</title>
+      <title>Wave Propagation</title>
       <link>https://jbrussell.github.io/tags/wave-propagation/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
       

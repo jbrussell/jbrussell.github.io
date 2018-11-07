@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>outreach on Joshua Russell</title>
+    <title>Outreach on Joshua Russell</title>
     <link>https://jbrussell.github.io/tags/outreach/</link>
-    <description>Recent content in outreach on Joshua Russell</description>
+    <description>Recent content in Outreach on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -28,6 +28,15 @@
       
       <guid>https://jbrussell.github.io/talk/iris_recruitment/</guid>
       <description>In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research.</description>
+    </item>
+    
+    <item>
+      <title>Research As Art</title>
+      <link>https://jbrussell.github.io/other/research_as_art/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/other/research_as_art/</guid>
+      <description>Under construction</description>
     </item>
     
   </channel>

@@ -132,6 +132,15 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/tags/ambient-noise/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -140,87 +149,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/tags/love-waves/</loc>
-      <lastmod>2018-10-28T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/tags/obs-instrumentation/</loc>
-      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/other/</loc>
-      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/photography/</loc>
-      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/research/</loc>
-      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/tags/science-communication/</loc>
-      <lastmod>2018-10-28T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/tags/</loc>
-      <lastmod>2018-10-28T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://jbrussell.github.io/tags/ambient-noise/</loc>
+      <loc>https://jbrussell.github.io/tags/data-sonification/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -265,7 +194,34 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/love-waves/</loc>
+      <lastmod>2018-10-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/normal-modes/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/obs-instrumentation/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -276,6 +232,15 @@
     
       <loc>https://jbrussell.github.io/tags/oceanic-lithosphere/</loc>
       <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/other/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -294,6 +259,32 @@
     
       <loc>https://jbrussell.github.io/tags/overtones/</loc>
       <lastmod>2018-10-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/photography/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/research/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -329,6 +320,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/surface-waves/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>

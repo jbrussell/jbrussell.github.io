@@ -110,7 +110,7 @@ a,
 h3.article-title a:hover {
   color: #4091f9;
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: color 0.6s ease;
 }
 
 a:hover,
@@ -298,7 +298,7 @@ small,
 
 .form-control:focus {
   border-color: #4091f9;
-  box-shadow: 0 0 0 .2rem #768fff;
+  box-shadow: 0 0 0 .2rem #68a0e8;
 }
 
 /*************************************************
@@ -449,7 +449,7 @@ a[data-fancybox] img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  animation: intro 0.4s both;
+  animation: intro 0.3s both;
   animation-delay: 0s;
   animation-delay: 0.25s;
 }
@@ -482,12 +482,7 @@ a[data-fancybox] img {
 }
 
 .hero-overlay .btn-lg {
-  font-size: 1.5rem;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  /* bring your own prefixes */
-  transform: translate(-50%, -550%);
+  font-size: 1.1rem;
 }
 
 /*************************************************
@@ -705,6 +700,12 @@ article {
   margin-left: auto;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+/* Prevent FA's line height of 1 causing FA button links to be taller than other button links. */
+.btn-links .fab,
+.btn-links .fas {
+  line-height: inherit !important;
 }
 
 .split-header-image {
@@ -970,7 +971,7 @@ article .article-metadata {
   line-height: 30px; /* Match share bar line height. */
 }
 
-.pub .pub-row-heading {
+.pub-row-heading {
   font-weight: bold;
 }
 
@@ -996,7 +997,7 @@ article .article-metadata {
   color: rgba(255,255,255,0.54);
 }
 
-.pub-list-item .pub-links {
+.pub-list-item .btn-links {
   padding-top: 10px;
 }
 
@@ -1095,6 +1096,14 @@ article .article-metadata {
 
 .project-item {
   margin-bottom: 1.5rem;
+}
+
+.project-showcase .project-item {
+  margin-bottom: 3rem;
+}
+
+.project-item:last-of-type {
+  margin-bottom: 0;
 }
 
 .isotope-item {
@@ -1398,18 +1407,18 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #768fff !important;
+  background-color: #68a0e8 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #0039cb !important;
+  background-color: #275796 !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem #768fff;
+  box-shadow: 0 0 0 .2rem #68a0e8;
 }
 
 /*************************************************
@@ -1418,7 +1427,6 @@ a.badge:hover {
 
 .navbar {
   min-height: 70px !important;
-  height: 51px;
 }
 
 .navbar-light {
@@ -1769,7 +1777,7 @@ div.alert a {
 
 .docs-search .form-control:focus {
   border-color: #4091f9;
-  box-shadow: 0 0 0 3px #768fff;
+  box-shadow: 0 0 0 3px #68a0e8;
 }
 
 /* Docs sidebar. */
@@ -1968,7 +1976,7 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: #0039cb;
+  color: #275796;
   transition: color .16s linear;
 }
 
@@ -1998,7 +2006,7 @@ body.dark,
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
   border-color: #4091f9;
-  box-shadow: 0 0 0 .2rem #0039cb;
+  box-shadow: 0 0 0 .2rem #275796;
 }
 
 .dark h1,
