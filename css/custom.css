@@ -1,3 +1,4 @@
+/* Button for hero */
 .button {
   display: inline-block;
   padding: 0.5px 13px;
@@ -18,10 +19,42 @@
   background: transparent;
   transition: all 200ms;
 }
+
 /* Add a rollover background colour but keep the text white */
 .button:hover,
 .button:focus,
 .button:active {
+  background: rgba(0,0,0,0.5);
+  color: #4091f9;
+  transition: all 300ms ease-in-out;
+  text-decoration: none;
+}
+
+/* Button for hero, version 2 */
+.button2 {
+  display: inline-block;
+  padding: 0.5px 13px;
+  border-radius: 4px;
+  border: 1px solid #e6e6e6;
+  width: 190px;
+  text-align: center;
+  text-transform: uppercase;
+  background: transparent;
+  color: #e6e6e6;
+  font-size: 1.5rem;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  border-color: #fff;
+  background: transparent;
+  transition: all 200ms;
+}
+
+.button2:hover,
+.button2:focus,
+.button2:active {
   background: rgba(0,0,0,0.5);
   color: #4091f9;
   transition: all 300ms ease-in-out;
@@ -47,6 +80,7 @@ html {
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
     margin-top: 51px; /* Offset body content by navbar height. */
+    min-height: 51px !important;
   }
 }
 
