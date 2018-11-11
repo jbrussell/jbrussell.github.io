@@ -48,14 +48,44 @@
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   border-color: #fff;
-  background: transparent;
+  background: rgba(0,0,0,0.5);
   transition: all 200ms;
+  color: #e6e6e6;
 }
 
 .button2:hover,
 .button2:focus,
 .button2:active {
   background: rgba(0,0,0,0.5);
+  color: #4091f9;
+  transition: all 300ms ease-in-out;
+  text-decoration: none;
+}
+
+/* Button for hero, version 3 */
+.button3 {
+  display: inline-block;
+  padding: 10px 13px;
+  border-radius: 4px;
+  text-align: center;
+  width: 110%;
+  text-transform: uppercase;
+  background: rgb(0,0,0,0.5);
+  color: #e6e6e6;
+  font-size: 2rem;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  border-color: #e6e6e6;
+  transition: all 200ms;
+}
+
+.button3:hover,
+.button3:focus,
+.button3:active {
+  background: rgb(0,0,0,0.5);
   color: #4091f9;
   transition: all 300ms ease-in-out;
   text-decoration: none;
