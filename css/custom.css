@@ -119,3 +119,32 @@ html {
   height: 51px;
 }
 
+/* Reduce size of figure captions and lighten the color */
+figcaption {
+  display: block;
+  margin-top: 0.75em;
+  line-height: 1.25;
+  font-size: 0.8rem;
+  margin-bottom: 1.65rem;
+  font-family: '{{ .Get "body_font" }}', sans-serif;
+  color: rgba(0,0,0,0.5);
+}
+
+figcaption.numbered:before {
+  font-weight: 700;
+  text-transform: uppercase;
+  content: attr(data-pre) counter(captions) attr(data-post);
+}
+
+figcaption.numbered {
+  counter-increment: captions;
+}
+
+figcaption h4 {
+  display: inline;
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin: 0;
+  font-family: '{{ .Get "body_font" }}', sans-serif;
+  color: rgba(0,0,0,0.5);
+}

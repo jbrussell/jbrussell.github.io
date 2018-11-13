@@ -33,6 +33,15 @@
 
   
   
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34;  href=&#34;https://farm8.staticflickr.com/7741/18211198151_ed72a9f0d9_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm8.staticflickr.com/7741/18211198151_ed72a9f0d9_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
 &lt;/div&gt;
 
 &lt;h3 id=&#34;young-pacific-orca-south-pacific-2018&#34;&gt;Young Pacific ORCA, South Pacific, 2018&lt;/h3&gt;
@@ -68,15 +77,20 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
 
 &lt;p&gt;By measuring the complete set of anisotropic parameters for both Rayleigh and Love waves, we can for the first time compare the seismically derived elastic behavior of oceanic lithosphere with that directly measured from lithospheric rocks. We find excellent agreement in the anisotropic terms (see below) suggesting that we have truly bridged the gap between surface-wave and handsample length scales.&lt;/p&gt;
 
+
+
+
 &lt;figure&gt;
-&lt;img src=&#34;petrofabrics.jpg&#34; width=&#34;500px&#34;&gt;
-&lt;figcaption&gt;
-  &lt;font color=&#34;gray&#34;&gt;
-  &lt;small&gt;
-      Comparison of the NoMelt anisotropic behavior from our study in black, versus three handsample petrofabrics in color.
-  &lt;/small&gt;
-  &lt;/font&gt;
+
+&lt;img src=&#34;petrofabrics.jpg&#34; width=&#34;75%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Comparison of the NoMelt anisotropic behavior from our study in black, versus three handsample petrofabrics in color.&lt;/h4&gt;
+  
 &lt;/figcaption&gt;
+
 &lt;/figure&gt;
 </description>
     </item>
@@ -87,28 +101,38 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/research/obs_range/</guid>
-      <description>&lt;figure&gt;
-  &lt;img src=&#34;featured.jpg&#34; width=&#34;600px&#34;&gt;
-&lt;figcaption&gt;
-  &lt;font color=&#34;gray&#34;&gt;
-  &lt;small&gt;
-      Fig 1. Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].
-  &lt;/small&gt;
-  &lt;/font&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
+      <description>
 
-&lt;p&gt;Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with &lt;a href=&#34;http://zeilon.squarespace.com/&#34;&gt;Zach Eilon&lt;/a&gt; and &lt;a href =&#34;https://www.researchgate.net/profile/Stephen_Mosher&#34;&gt;Stephen Mosher&lt;/a&gt;, I have developed a new open-source tool called &lt;a href=&#34;&#34;&gt;OBSrange&lt;/a&gt; for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties. We applied the tool to data from the 2018 Young Pacific ORCA deployment, revealing a clockwise mesoscale eddy that correlates with observed ocean currents in the region. This novel measurement of depth integrated flow through the water column is the first of its kind and could potentially be used to calibrate models of vertical shear.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&#34;gyre.jpg&#34; width=&#34;1000px&#34;&gt;
-&lt;figcaption&gt;
-  &lt;font color=&#34;gray&#34;&gt;
-  &lt;small&gt;
-      Fig 2. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre is observed that correlates in space and time with geostrophic flow patterns.
-  &lt;/small&gt;
-  &lt;/font&gt;
+
+&lt;img src=&#34;featured.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].&lt;/h4&gt;
+  
 &lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with &lt;a href=&#34;http://zeilon.squarespace.com/&#34;&gt;Zach Eilon&lt;/a&gt; and &lt;a href =&#34;https://www.researchgate.net/profile/Stephen_Mosher&#34;&gt;Stephen Mosher&lt;/a&gt;, we have developed a new open-source tool called &lt;a href=&#34;&#34;&gt;OBSrange&lt;/a&gt; for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties. We applied the tool to data from the 2018 Young Pacific ORCA deployment, revealing a clockwise mesoscale eddy that correlates with observed ocean currents in the region. This novel measurement of depth integrated flow through the water column is the first of its kind and could potentially be used to calibrate models of vertical shear.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;gyre.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre is observed that correlates in space and time with geostrophic flow patterns.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
 &lt;/figure&gt;
 </description>
     </item>
@@ -143,46 +167,63 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
 
 &lt;h2 id=&#34;animation-1-surface-and-body-waves&#34;&gt;Animation 1: Surface and Body Waves&lt;/h2&gt;
 
-&lt;p&gt;We are &lt;em&gt;listening&lt;/em&gt; to a waveform at the antipode of the Earth from the M6.9 in Fiji. The synthetic waveforms are calculated using &lt;a href=&#34;http://instaseis.net/&#34; target=&#34;_blank&#34;&gt;Instaseis&lt;/a&gt;. To make the sound, many narrow band filters are used to decompose the seismic waveform into its constituent frequency components (&lt;strong&gt;Fig. 1&lt;/strong&gt;). Each individual waveform is then assigned to an oscillator of a specific frequency.
+&lt;p&gt;We are &lt;em&gt;listening&lt;/em&gt; to a waveform at the antipode of the Earth from the M6.9 in Fiji. The synthetic waveforms are calculated using &lt;a href=&#34;http://instaseis.net/&#34; target=&#34;_blank&#34;&gt;Instaseis&lt;/a&gt;. To make the sound, many narrow band filters are used to decompose the seismic waveform into its constituent frequency components (&lt;strong&gt;Fig. 1&lt;/strong&gt;). Each individual waveform is then assigned to an oscillator of a specific frequency.&lt;/p&gt;
+
+
+
+
 &lt;figure&gt;
-&lt;img src=&#34;comb.jpg&#34; width=&#34;700px&#34;&gt;
-&lt;figcaption&gt;
-  &lt;font color=&#34;gray&#34;&gt;
-  &lt;small&gt;
-      &lt;b&gt;Fig 1.&lt;/b&gt; Narrow band filtered seismograms.
-  &lt;/small&gt;
-  &lt;/font&gt;
+
+&lt;img src=&#34;comb.jpg&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Narrow band filtered seismograms.&lt;/h4&gt;
+  
 &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
+
+&lt;/figure&gt;
 
 &lt;h2 id=&#34;animation-2-normal-modes&#34;&gt;Animation 2: Normal Modes&lt;/h2&gt;
 
 &lt;p&gt;The first 8 gravest (lowest frequency) spheroidal modes are extracted from 48 hour seismograms (&lt;strong&gt;Fig. 2&lt;/strong&gt;). This animation shows the shapes of these modes in color and the superposition of the modes in white, starting from the lowest frequency and incrementally adding higher modes. Each mode is mapped to a tone that we can hear, where the relative frequencies of the tones are preserved. By the end of the animation, you can begin to see surface waves propagating back and forth.&lt;/p&gt;
 
+
+
+
 &lt;figure&gt;
-&lt;img src=&#34;peaks.jpg&#34; width=&#34;700px&#34;&gt;
-&lt;figcaption&gt;
-  &lt;font color=&#34;gray&#34;&gt;
-  &lt;small&gt;
-     &lt;b&gt;Fig 2.&lt;/b&gt; Discrete frequencies for the 8 gravest modes.
-  &lt;/small&gt;
-  &lt;/font&gt;
+
+&lt;img src=&#34;peaks.jpg&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Discrete frequencies for the 8 gravest modes.&lt;/h4&gt;
+  
 &lt;/figcaption&gt;
+
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;animation-3-attenuation&#34;&gt;Animation 3: Attenuation&lt;/h2&gt;
 
-&lt;p&gt;This animation is similar to &lt;strong&gt;Animation 2&lt;/strong&gt; except this time, all the modes are played at once. The tone of each mode is modulated in time by the amplitude envelopes in &lt;strong&gt;Fig. 3&lt;/strong&gt;. Through time, the high frequencies die out due to anelastic attenuation and all that is left are the lowest frequency modes. In this video, you can actually hear this attenuation!
+&lt;p&gt;This animation is similar to &lt;strong&gt;Animation 2&lt;/strong&gt; except this time, all the modes are played at once. The tone of each mode is modulated in time by the amplitude envelopes in &lt;strong&gt;Fig. 3&lt;/strong&gt;. Through time, the high frequencies die out due to anelastic attenuation and all that is left are the lowest frequency modes. In this video, you can actually hear this attenuation!&lt;/p&gt;
+
+
+
+
 &lt;figure&gt;
-&lt;img src=&#34;envelopes.jpg&#34; width=&#34;700px&#34;&gt;
-&lt;figcaption&gt;
-  &lt;font color=&#34;gray&#34;&gt;
-  &lt;small&gt;
-      &lt;b&gt;Fig 3.&lt;/b&gt; Amplitude envelopes from each of the modes from Fig 2.
-  &lt;/small&gt;
-  &lt;/font&gt;
+
+&lt;img src=&#34;envelopes.jpg&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Amplitude envelopes from each of the modes from Fig 2.&lt;/h4&gt;
+  
 &lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
+
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -235,6 +276,78 @@ I use surface waves from ambient seismic noise recorded on ocean bottom seismome
   
   
 
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Red-vented Bulbul, Honolulu, HI&#34; href=&#34;https://farm1.staticflickr.com/613/31262395574_61efed8695_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm1.staticflickr.com/613/31262395574_61efed8695_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Black-crowned Night Heron, Honolulu, HI&#34; href=&#34;https://farm1.staticflickr.com/303/31733188791_86e884c393_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm1.staticflickr.com/303/31733188791_86e884c393_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Mallard, Central Park, NYC&#34; href=&#34;https://farm8.staticflickr.com/7610/27232265176_3220b561e4_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm8.staticflickr.com/7610/27232265176_3220b561e4_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Red-crested Cardinal &amp;amp; Pacific Golden Plover, Honolulu, HI&#34; href=&#34;https://farm2.staticflickr.com/1495/25782607681_5ddb9218ef_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm2.staticflickr.com/1495/25782607681_5ddb9218ef_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Laysan Albatross, Kaena Point, HI&#34; href=&#34;https://farm1.staticflickr.com/364/31039941453_f653ec1bca_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm1.staticflickr.com/364/31039941453_f653ec1bca_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Arctic Tern, Anchorage, AK&#34; href=&#34;https://farm5.staticflickr.com/4166/33879474783_e04d9d52f2_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm5.staticflickr.com/4166/33879474783_e04d9d52f2_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Yellow-throated Vireo, Springfield, MO&#34; href=&#34;https://farm8.staticflickr.com/7788/17782152553_9633789276_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm8.staticflickr.com/7788/17782152553_9633789276_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Roseate Spoonbill, Houston, TX&#34; href=&#34;https://farm5.staticflickr.com/4225/34427746054_be53018fbb_z.jpg&#34;&gt;
+    &lt;img src=&#34;https://farm5.staticflickr.com/4225/34427746054_be53018fbb_z.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
   
   
 &lt;/div&gt;
