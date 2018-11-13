@@ -103,7 +103,7 @@
 
 /* Main Font */
 html {
-  color: rgba(0,0,0,0.8);
+  color: rgba(0,0,0,0.6) !important;
 }
 
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
