@@ -124,9 +124,9 @@ figcaption {
   display: block;
   margin-top: 0.75em;
   line-height: 1.25;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   margin-bottom: 1.65rem;
-  font-family: '{{ .Get "body_font" }}', sans-serif;
+/*   font-family: lato; */
   color: rgba(0,0,0,0.5);
 }
 
@@ -142,9 +142,9 @@ figcaption.numbered {
 
 figcaption h4 {
   display: inline;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 400;
   margin: 0;
-  font-family: '{{ .Get "body_font" }}', sans-serif;
+/*   font-family: lato; */
   color: rgba(0,0,0,0.5);
 }
