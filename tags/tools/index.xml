@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/tools/</link>
+    <description>Recent content in Tools on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OBSrange: A new tool for the precise location of ocean bottom seismometers</title>
+      <link>https://jbrussell.github.io/research/obs_range/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/obs_range/</guid>
+      <description>Fig 1. Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].     Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with Zach Eilon and Stephen Mosher, I have developed a new open-source tool called OBSrange for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties.</description>
+    </item>
+    
+  </channel>
+</rss>
