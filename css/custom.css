@@ -152,6 +152,6 @@ figcaption h4 {
 /* ********* Remove Footer ********* */
 footer p {
 /*   font-size: 0.75rem; */
-  font-size: 0rem;
+  font-size: 0rem !important;
   text-align: center;
 }
