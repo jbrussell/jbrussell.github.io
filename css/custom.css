@@ -149,7 +149,7 @@ figcaption h4 {
   color: rgba(0,0,0,0.5);
 }
 
-/* ********* Remove Footer ********* */
+/* ********* Remove Footer by setting fontsize to zero ********* */
 footer p {
 /*   font-size: 0.75rem; */
   font-size: 0rem !important;
