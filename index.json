@@ -227,6 +227,28 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540699200,
+    "objectID": "645d6e9147a08d8ce34302898b5082cf",
+    "permalink": "https://jbrussell.github.io/talk/agu_2018/",
+    "publishdate": "2018-10-28T00:00:00-04:00",
+    "relpermalink": "/talk/agu_2018/",
+    "section": "talk",
+    "summary": "The frozen-in lattice preferred orientation (LPO) of olivine in oceanic lithosphere provides insight into paleo-ridge dynamics as well as subsequent thermal evolution of the plate. Elastic properties of peridotites from ocean environments offer direct observations of lithospheric LPO fabric but rely on assumptions about the structural reference frame of the sample. In situ petrofabric constraints free of reference-frame assumptions require high-resolution, co-located compressional- and shear-wave observations that probe the full elastic behavior of the lithosphere. Using high-frequency (5–7.5 s) Rayleigh and Love waves and active-source Pn sampling 65-75 Ma Pacific lithosphere, we solve for shear and compressional velocities and anisotropy, directly constraining 9 elastic parameters in the upper ~25 km of the lithosphere. Observations of the 4θ azimuthal variability of Love-wave velocities yield the first local constraints on E. Scaling relations derived from oceanic peridotites from the literature provide the remaining 4 parameters, resulting in the first in situ estimate of the complete elastic tensor for oceanic lithosphere. We find strong azimuthal anisotropy with G (4–6%) and B (6–6.5%) parallel to the fossil-spreading direction (FSD) and E (~2.5%) parallel to FSD + 45º, consistent with oceanic peridotites and elastic models of olivine. The magnitude of G and B suggest nearly complete alignment of fabric observed at the hand-sample scale, and G is parallel to the FSD down to ~80 km depth, implying that corner flow dominates near-ridge deformation pattern approximately to the base of the melting zone. Relatively weak radial anisotropy is observed in the lithosphere with Vsh  Vsv by ~2%. We calculate all 13 parameters of the equivalent elastic stiffness tensor, Cij, and the combination of strong azimuthal anisotropy and weak radial anisotropy results in either E-type LPO fabric or A-type fabric with the fast axis ([100]) rotated out of the shear plane. We will discuss the implication of these fabrics for models of mid-ocean ridge dynamics.",
+    "tags": [
+      "Seismic Anisotropy",
+      "Oceanic Lithosphere"
+    ],
+    "title": "Comprehensive in situ constraints on LPO fabric of fast-spreading oceanic lithosphere from seismic anisotropy",
+    "type": "talk"
+  },
+  {
+    "authors": [],
+    "categories": null,
+    "content": "",
+    "date": 1540699200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540699200,
     "objectID": "7cde61f31676dcdb859a602739187a73",
     "permalink": "https://jbrussell.github.io/talk/agu_2016/",
     "publishdate": "2018-10-28T00:00:00-04:00",
