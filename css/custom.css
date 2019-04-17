@@ -132,7 +132,7 @@ html {
 .navbar {
   min-height: 71px !important;
   height: 71px;
-  background: rgba(30,30,30,0.9) !important;
+  background: rgba(40,40,40,1) !important;
 /*   color: #e6e6e6 !important; */
 }
 
