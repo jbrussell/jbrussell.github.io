@@ -117,7 +117,7 @@ html {
 .navbar {
   min-height: 51px !important;
   height: 51px;
-  background: rgba(0.3,0.3,0.3,1) !important;
+  background: rgba(0.5,0.5,0.5,1) !important;
 }
 
 /* ********* Reduce size of figure captions and lighten the color ********* */
