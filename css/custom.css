@@ -1,3 +1,18 @@
+/*************************************************
+ *  Hero Widget
+ **************************************************/
+
+.hero-overlay {
+  padding: 3em 0;
+  clear: both;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: intro 0.3s both;
+  animation-delay: 0s;
+  animation-delay: 0.25s;
+}
+
 /* ********* Button for hero ********* */
 .button {
   display: inline-block;
@@ -115,8 +130,8 @@ html {
 
 /* ********* Navigation ********* bar */
 .navbar {
-  min-height: 51px !important;
-  height: 51px;
+  min-height: 71px !important;
+  height: 71px;
   background: rgba(0.5,0.5,0.5,1) !important;
 }
 
