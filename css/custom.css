@@ -108,8 +108,8 @@ html {
 
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
-    margin-top: 100px; /* Offset body content by navbar height. */
-    min-height: 100px !important;
+    margin-top: 51px; /* Offset body content by navbar height. */
+    min-height: 51px !important;
   }
 }
 
@@ -117,6 +117,7 @@ html {
 .navbar {
   min-height: 51px !important;
   height: 51px;
+  background: rgba(0,0,0,1) !important;
 }
 
 /* ********* Reduce size of figure captions and lighten the color ********* */
