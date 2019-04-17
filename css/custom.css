@@ -108,8 +108,8 @@ html {
 
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
-    margin-top: 51px; /* Offset body content by navbar height. */
-    min-height: 51px !important;
+    margin-top: 100px; /* Offset body content by navbar height. */
+    min-height: 100px !important;
   }
 }
 
