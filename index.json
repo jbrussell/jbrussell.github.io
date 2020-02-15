@@ -1,5 +1,64 @@
 [
   {
+    "authors": [
+      "Joshua B. Russell",
+      "Hannah F. Mark",
+      "James B. Gaherty",
+      "Pei-Ying (Patty) Lin",
+      "Daniel Lizarralde",
+      "John A. Collins",
+      "Greg Hirth",
+      "Rob L. Evans"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1578805200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1578805200,
+    "objectID": "600a76b353baca23dc0bb6ae34bccd80",
+    "permalink": "https://jbrussell.github.io/talk/icool/",
+    "publishdate": "2020-01-12T00:00:00-05:00",
+    "relpermalink": "/talk/icool/",
+    "section": "talk",
+    "summary": "Seismic anisotropy of the oceanic lithosphere offers a window into mid-ocean ridge processes, lithosphere evolution, and the state of Earth's upper mantle. Natural and laboratory olivine samples deformed under various conditions exhibit a range of lattice-preferred orientation (LPO) fabrics that provide a direct link between seismic observables and upper mantle conditions. However, interpreting seismic anisotropy in the context of LPO fabric data has proven challenging due to incomplete seismic constraints and vast differences in length scale. Here, we bridge this gap by estimating the complete orthorhombic elastic tensor of unperturbed ~70 Ma Pacific lithosphere directly beneath the Moho using high-resolution ocean bottom seismic observations sensitive to Vp and Vs anisotropy. We then utilize natural and laboratory petrofabrics from the literature to infer LPO fabric type and shear strain accumulated within the shallow lithosphere. Our findings indicate alternative (D-type) fabric and high strain accumulation (400%) in the oceanic lithosphere, challenging conventional assumptions of the prevalence of A-type fabric and suggesting D-type may be more ubiquitous in oceanic lithosphere than previously thought. Furthermore, D-type fabric indicates a dehydrated lithosphere and deformation by dislocation-accommodated grain boundary sliding (DisGBS) near the ridge. This study represents a first in situ estimate of fabric type and strain accumulation in the oceanic lithosphere that will inform future geodynamic modeling of LPO evolution in ocean basins.",
+    "tags": [
+      "Seismic Anisotropy",
+      "Oceanic Lithosphere"
+    ],
+    "title": "Seismic evidence for alternative (D-type) olivine fabric in fast-spreading lithosphere",
+    "type": "talk"
+  },
+  {
+    "authors": [
+      "Joshua B. Russell",
+      "James B. Gaherty",
+      "Zachary Eilon",
+      "Donald W. Forsyth",
+      "Göran Ekström"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1575867600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1575867600,
+    "objectID": "9ce4a08838f17af986ca8abe84e38dc2",
+    "permalink": "https://jbrussell.github.io/talk/agu_2019/",
+    "publishdate": "2019-12-09T00:00:00-05:00",
+    "relpermalink": "/talk/agu_2019/",
+    "section": "talk",
+    "summary": "Observations of seismic anisotropy in the ocean basins provide key constraints on present-day asthenospheric flow as well as relic fabric recorded in the lithosphere during its formation near the ridge. The international collaboration PacificArray seeks to advance understanding of the Pacific lithosphere-asthenosphere system using focused ocean bottom seismometer (OBS) arrays. A particular goal of this initiative is to elucidate the extent and role played by small-scale convection (SSC) in plate and asthenosphere evolution. Here, we present initial results from the Young ORCA (OBS Research into Convecting Asthenosphere) array, consisting of 30 broadband OBS situated on ~40 Ma seafloor in the south Pacific. We measure ambient-noise Rayleigh- and Love-wave phase velocities from 5–25 s and 3–9 s period, respectively. Fundamental mode Rayleigh waves are observed from 14–25 s period. At shorter periods (5–10 s), we isolate the first-overtone Rayleigh wave from the fundamental-mode water-column arrival by removing the coherent pressure signal from the vertical channel. Love-wave mode content is fundamental mode at periods ",
+    "tags": [
+      "Seismic Anisotropy",
+      "Oceanic Lithosphere"
+    ],
+    "title": "Surface-wave constraints on upper mantle petrofabric and flow beneath ~40 Ma seafloor in the south Pacific",
+    "type": "talk"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": " UNDER CONSTRUCTION\u0026hellip; CD-CAT Experiment, Central Turkey, 2015   Young Pacific ORCA, South Pacific, 2018 ",
@@ -19,7 +78,11 @@
     "type": "photography"
   },
   {
-    "authors": [],
+    "authors": [
+      "Joshua B. Russell",
+      "Genevieve Coffey",
+      "Ben Holtzman"
+    ],
     "categories": null,
     "content": "",
     "date": 1540872000,
@@ -87,7 +150,9 @@
     "type": "research"
   },
   {
-    "authors": [],
+    "authors": [
+      "Joshua B. Russell"
+    ],
     "categories": null,
     "content": "In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS and UNAVCO RESESS emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the IRIS Recruitment Lecture Series. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:\n",
     "date": 1540872000,
@@ -197,7 +262,16 @@
     "type": "photography"
   },
   {
-    "authors": [],
+    "authors": [
+      "Joshua B. Russell",
+      "Hannah F. Mark",
+      "James B. Gaherty",
+      "Pei-Ying (Patty) Lin",
+      "Daniel Lizarralde",
+      "John A. Collins",
+      "Greg Hirth",
+      "Rob L. Evans"
+    ],
     "categories": null,
     "content": "",
     "date": 1540699200,
