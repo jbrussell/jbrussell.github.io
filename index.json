@@ -134,28 +134,6 @@
     "type": "other"
   },
   {
-    "authors": [],
-    "categories": null,
-    "content": "",
-    "date": 1540785600,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1540785600,
-    "objectID": "ac2f625793f7b4149255df334f0e80f2",
-    "permalink": "https://jbrussell.github.io/talk/ssw/",
-    "publishdate": "2018-10-29T00:00:00-04:00",
-    "relpermalink": "/talk/ssw/",
-    "section": "talk",
-    "summary": "",
-    "tags": [
-      "Seismic Anisotropy",
-      "Oceanic Lithosphere"
-    ],
-    "title": "Constraints on radial anisotropy of ~70 Ma oceanic lithosphere",
-    "type": "talk"
-  },
-  {
     "authors": null,
     "categories": null,
     "content": " UNDER CONSTRUCTION\u0026hellip; ",
@@ -238,28 +216,6 @@
       "Oceanic Lithosphere"
     ],
     "title": "Comprehensive in situ constraints on LPO fabric of fast-spreading oceanic lithosphere from seismic anisotropy",
-    "type": "talk"
-  },
-  {
-    "authors": [],
-    "categories": null,
-    "content": "",
-    "date": 1540699200,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1540699200,
-    "objectID": "7cde61f31676dcdb859a602739187a73",
-    "permalink": "https://jbrussell.github.io/talk/agu_2016/",
-    "publishdate": "2018-10-28T00:00:00-04:00",
-    "relpermalink": "/talk/agu_2016/",
-    "section": "talk",
-    "summary": "Observations of seismic anisotropy in ocean basins are important for constraining deformation and melting processes in the upper mantle. The NoMelt OBS array was deployed on relatively pristine, 70-Ma seafloor in the central Pacific with the aim of constraining upper-mantle circulation and the evolution of the lithosphere-asthenosphere system. Azimuthal variations in Rayleigh-wave velocity suggest strong anisotropic fabric both in the lithosphere and deep in the asthenosphere, and we aim to evaluate whether radial anisotropy shows a similar pattern. We use a combination of Love waves from earthquakes (20-100 s) as well as high-frequency ambient noise (5-10 s) to estimate Vsh in the upper 300 km beneath the NoMelt array. Waveform fitting of the ambient-noise cross spectra provide phase-velocity estimates that are sensitive to the upper ~50 km of the mantle. To constrain structure beneath the lid, we employ an array-based approach to measure Love-wave phase velocities across the array using seven shallow-focus events (60 s) are mostly dominated by fundamental mode energy. Through forward modeling of Love wave Fréchet kernels, we find an extremely strong nonlinearity in individual mode-branch sensitivity that is dependent on the relative velocity difference between the low-velocity zone (LVZ) and the overlying Pacific lid. For the fundamental mode in the presence of a strong LVZ, intermediate periods (20-50 s) have little sensitivity within the lithospheric mantle with peak sensitivity pushed to the base of the LVZ. This peak sensitivity migrates to much shallower depth as the lid/LVZ contrast is reduced. Therefore, we use a Monte Carlo approach to systematically explore the model space and identify the most robust model features required to minimize phase-velocity misfit of the full multimode Love wave arrivals. The resulting Vsh model is combined with the NoMelt Vsv model to obtain estimates of radial anisotropy for the top 300km of the central Pacific upper-mantle.",
-    "tags": [
-      "Seismic Anisotropy",
-      "Oceanic Lithosphere"
-    ],
-    "title": "Constraints on radial anisotropy in the central Pacific upper mantle from the NoMelt OBS array",
     "type": "talk"
   },
   {
