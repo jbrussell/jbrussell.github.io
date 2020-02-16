@@ -224,15 +224,6 @@
     </item>
     
     <item>
-      <title>Listening for patterns in the Earth</title>
-      <link>https://jbrussell.github.io/talk/brown_amnh_2018/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/talk/brown_amnh_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>
       <link>https://jbrussell.github.io/project/nomelt/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -325,6 +316,15 @@ We use surface waves from ambient seismic noise recorded on ocean bottom seismom
     </item>
     
     <item>
+      <title>Sounds of Seismology</title>
+      <link>https://jbrussell.github.io/talk/brown_amnh_2018/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/talk/brown_amnh_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visualizing Earth&#39;s Free Oscillations</title>
       <link>https://jbrussell.github.io/other/normal_modes/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
@@ -403,67 +403,14 @@ We use surface waves from ambient seismic noise recorded on ocean bottom seismom
     </item>
     
     <item>
-      <title>ENAM: Seismic anisotropy of the Eastern North American Margin</title>
-      <link>https://jbrussell.github.io/project/enam/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/project/enam/</guid>
-      <description>&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;array.png&#34; width=&#34;70%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Magnetic anomalies of the ENAM-CSE region with broadband OBS shown as circles and colored by depth. East Coast Magnetic Anomaly (ECMA); Blake Spur Magnetic Anomaly (BSMA); Inner Magnetic Quiet Zone (IMQZ); Outer Magnetic Quiet Zone (OMQZ).&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-The eastern north American margin (ENAM) formed during the early breakup of the supercontinent Pangaea ~200 Ma. Therefore, the structure of this passive margin holds the keys to understanding continental breakup. The ENAM Community Seismic Experiment (ENAM-CSE) consisted of an active source seismic experiment as well as a deployment of 28 broadband ocean bottom seismometers (OBS) from April 2014 &amp;ndash; May 2015 that aim to answer these questions.&lt;/p&gt;
-
-&lt;p&gt;My research involves using ambient noise Rayleigh waves to image the relic flow patterns recorded in the lithosphere during continental breakup. We find azimuthal anisotropy with the fast direction parallel to the coastline, 90º rotated from the paleo-spreading direction. This is at odds with the commonly accepted idea that the lithosphere records anisotropy parallel to the paleo-spreading direction. Our observations may be indicative of margin-parallel flow during the continental breakup. Alternatively, fast translation of the overall system relative to the slower breakup could have caused overprinting of the spreading signal by the plate motion signal.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;anisotropy.png&#34; width=&#34;100%&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Seismic anisotropy from the ENAM experiment. Fast directions are parallel to the margin rather than the paleo-spreading direction.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Earthquake Sonification</title>
-      <link>https://jbrussell.github.io/other/sonification/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/other/sonification/</guid>
-      <description>
-
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wildlife</title>
+      <title>Birds</title>
       <link>https://jbrussell.github.io/photography/birds/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/photography/birds/</guid>
-      <description>
+      <description>&lt;p&gt;My passion for birds was born in high school during a summer field biology class centered around bird banding in southwestern Missouri. While in college as a physics student, I continued to go birdwatching (or simply &amp;ldquo;birding&amp;rdquo;) as often as I could and even took an ornithology course in my final year. More recently, I&amp;rsquo;ve become interested in the photography side of birding and take my camera everywhere I go, whether it&amp;rsquo;s for fieldwork, a conference, or vacation.&lt;/p&gt;
+
+
 
 &lt;div class=&#34;gallery&#34;&gt;
 
@@ -547,6 +494,61 @@ The eastern north American margin (ENAM) formed during the early breakup of the 
   
   
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ENAM: Seismic anisotropy of the Eastern North American Margin</title>
+      <link>https://jbrussell.github.io/project/enam/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/project/enam/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;array.png&#34; width=&#34;70%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Magnetic anomalies of the ENAM-CSE region with broadband OBS shown as circles and colored by depth. East Coast Magnetic Anomaly (ECMA); Blake Spur Magnetic Anomaly (BSMA); Inner Magnetic Quiet Zone (IMQZ); Outer Magnetic Quiet Zone (OMQZ).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+The eastern north American margin (ENAM) formed during the early breakup of the supercontinent Pangaea ~200 Ma. Therefore, the structure of this passive margin holds the keys to understanding continental breakup. The ENAM Community Seismic Experiment (ENAM-CSE) consisted of an active source seismic experiment as well as a deployment of 28 broadband ocean bottom seismometers (OBS) from April 2014 &amp;ndash; May 2015 that aim to answer these questions.&lt;/p&gt;
+
+&lt;p&gt;My research involves using ambient noise Rayleigh waves to image the relic flow patterns recorded in the lithosphere during continental breakup. We find azimuthal anisotropy with the fast direction parallel to the coastline, 90º rotated from the paleo-spreading direction. This is at odds with the commonly accepted idea that the lithosphere records anisotropy parallel to the paleo-spreading direction. Our observations may be indicative of margin-parallel flow during the continental breakup. Alternatively, fast translation of the overall system relative to the slower breakup could have caused overprinting of the spreading signal by the plate motion signal.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;anisotropy.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Seismic anisotropy from the ENAM experiment. Fast directions are parallel to the margin rather than the paleo-spreading direction.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earthquake Sonification</title>
+      <link>https://jbrussell.github.io/other/sonification/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/other/sonification/</guid>
+      <description>
+
+&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
 </description>
     </item>
     

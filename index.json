@@ -178,36 +178,10 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/photography/fieldwork/",
     "section": "photography",
-    "summary": "Fieldwork photos from Central Turkey to the South Pacific.",
+    "summary": "Photos from adventures in the field.",
     "tags": [],
     "title": "Fieldwork",
     "type": "photography"
-  },
-  {
-    "authors": [
-      "Joshua B. Russell",
-      "Genevieve Coffey",
-      "Ben Holtzman"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1540872000,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1540872000,
-    "objectID": "372c30b6a416d76ad7fee6ce804d675b",
-    "permalink": "https://jbrussell.github.io/talk/brown_amnh_2018/",
-    "publishdate": "2018-10-30T00:00:00-04:00",
-    "relpermalink": "/talk/brown_amnh_2018/",
-    "section": "talk",
-    "summary": "Humans have evolved excellent pattern recognition skills using both our eyes and ears, often performing better than computers. We explore how data (seismic, weather, oceanographic) can be sonified and visualized in order to better identify patterns, as well as why we should care about these patterns.",
-    "tags": [
-      "Outreach",
-      "Science Communication"
-    ],
-    "title": "Listening for patterns in the Earth",
-    "type": "talk"
   },
   {
     "authors": null,
@@ -280,6 +254,32 @@
     "type": "talk"
   },
   {
+    "authors": [
+      "Joshua B. Russell",
+      "Genevieve Coffey",
+      "Ben Holtzman"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1540872000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540872000,
+    "objectID": "372c30b6a416d76ad7fee6ce804d675b",
+    "permalink": "https://jbrussell.github.io/talk/brown_amnh_2018/",
+    "publishdate": "2018-10-30T00:00:00-04:00",
+    "relpermalink": "/talk/brown_amnh_2018/",
+    "section": "talk",
+    "summary": "Humans have evolved excellent pattern recognition skills using both our eyes and ears, often performing better than computers. We explore how data (seismic, weather, oceanographic) can be sonified and visualized in order to better identify patterns, as well as why we should care about these patterns.",
+    "tags": [
+      "Outreach",
+      "Science Communication"
+    ],
+    "title": "Sounds of Seismology",
+    "type": "talk"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": " This video is a contribution by Celia Eddy and I to the Seismic Sound Lab, run by Ben Holtzman at the Lamont-Doherty Earth Observatory.\n After a large earthquake, the Earth vibrates like waves on a guitar string \u0026ndash; These discrete modes of vibration are called normal modes or free oscillations. If the earthquake is large enough, the Earth can \u0026lsquo;ring\u0026rsquo; for days or weeks. This video uses synthetic waveform simulations to demonstrate both visually and sonically these free oscillations of the Earth after the M6.9 earthquake that occurred off the coast of Fiji on 2/24/2017.\nThe video is composed of three separate-but-related animations. Each animation show how the waves travel along the surface of the earth, displayed as a circular ring. This 2-dimensional ring is made up of 2,000 points on the Earth\u0026rsquo;s surface that display ground motion for 48 hours after the earthquake.\nAnimation 1: Surface and Body Waves We are listening to a waveform at the antipode of the Earth from the M6.9 in Fiji. The synthetic waveforms are calculated using Instaseis. To make the sound, many narrow band filters are used to decompose the seismic waveform into its constituent frequency components (Fig. 1). Each individual waveform is then assigned to an oscillator of a specific frequency.\n Narrow band filtered seismograms.   Animation 2: Normal Modes The first 8 gravest (lowest frequency) spheroidal modes are extracted from 48 hour seismograms (Fig. 2). This animation shows the shapes of these modes in color and the superposition of the modes in white, starting from the lowest frequency and incrementally adding higher modes. Each mode is mapped to a tone that we can hear, where the relative frequencies of the tones are preserved. By the end of the animation, you can begin to see surface waves propagating back and forth.\n Discrete frequencies for the 8 gravest modes.   Animation 3: Attenuation This animation is similar to Animation 2 except this time, all the modes are played at once. The tone of each mode is modulated in time by the amplitude envelopes in Fig. 3. Through time, the high frequencies die out due to anelastic attenuation and all that is left are the lowest frequency modes. In this video, you can actually hear this attenuation!\n Amplitude envelopes for each of the modes in Fig 2.   ",
@@ -303,6 +303,25 @@
     ],
     "title": "Visualizing Earth's Free Oscillations",
     "type": "other"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "My passion for birds was born in high school during a summer field biology class centered around bird banding in southwestern Missouri. While in college as a physics student, I continued to go birdwatching (or simply \u0026ldquo;birding\u0026rdquo;) as often as I could and even took an ornithology course in my final year. More recently, I\u0026rsquo;ve become interested in the photography side of birding and take my camera everywhere I go, whether it\u0026rsquo;s for fieldwork, a conference, or vacation.\n         ",
+    "date": 1540785600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1540785600,
+    "objectID": "d801e6114c22b27f904bc9ac1240c159",
+    "permalink": "https://jbrussell.github.io/photography/birds/",
+    "publishdate": "2018-10-29T00:00:00-04:00",
+    "relpermalink": "/photography/birds/",
+    "section": "photography",
+    "summary": "Birds from around the world.",
+    "tags": [],
+    "title": "Birds",
+    "type": "photography"
   },
   {
     "authors": null,
@@ -347,25 +366,6 @@
     ],
     "title": "Earthquake Sonification",
     "type": "other"
-  },
-  {
-    "authors": null,
-    "categories": null,
-    "content": "          ",
-    "date": 1540785600,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1540785600,
-    "objectID": "d801e6114c22b27f904bc9ac1240c159",
-    "permalink": "https://jbrussell.github.io/photography/birds/",
-    "publishdate": "2018-10-29T00:00:00-04:00",
-    "relpermalink": "/photography/birds/",
-    "section": "photography",
-    "summary": "          ",
-    "tags": [],
-    "title": "Wildlife",
-    "type": "photography"
   },
   {
     "authors": [

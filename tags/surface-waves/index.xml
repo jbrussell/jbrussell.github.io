@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surface Waves on Joshua Russell</title>
+    <title>surface waves on Joshua Russell</title>
     <link>https://jbrussell.github.io/tags/surface-waves/</link>
-    <description>Recent content in Surface Waves on Joshua Russell</description>
+    <description>Recent content in surface waves on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/tags/surface-waves/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Young ORCA: Searching for small-scale convection in the south Pacific</title>
-      <link>https://jbrussell.github.io/project/youngorca/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <title>High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy</title>
+      <link>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://jbrussell.github.io/project/youngorca/</guid>
-      <description>Introduction At a broad scale, evolution of the oceanic lithosphere-asthenosphere system follows a relatively simple half-space cooling model with a rigid plate overlying weaker asthenosphere that thickens with distance from the ridge. However, in detail observations such as seafloor shallowing relative to half-space cooling at ages &amp;gt;70 Ma and seafloor gravity lineations suggest deviations from this simple model. One candidate to explain these observations is small-scale convection, which has been proposed in the form of so-called &amp;ldquo;Richter rolls&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>
-      <link>https://jbrussell.github.io/project/nomelt/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/project/nomelt/</guid>
-      <description>Seismic anisotropy offers perhaps the most direct observational window into convection in Earth&amp;rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  We use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy.</description>
-    </item>
-    
-    <item>
-      <title>ENAM: Seismic anisotropy of the Eastern North American Margin</title>
-      <link>https://jbrussell.github.io/project/enam/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/project/enam/</guid>
-      <description>Magnetic anomalies of the ENAM-CSE region with broadband OBS shown as circles and colored by depth. East Coast Magnetic Anomaly (ECMA); Blake Spur Magnetic Anomaly (BSMA); Inner Magnetic Quiet Zone (IMQZ); Outer Magnetic Quiet Zone (OMQZ).   The eastern north American margin (ENAM) formed during the early breakup of the supercontinent Pangaea ~200 Ma. Therefore, the structure of this passive margin holds the keys to understanding continental breakup.</description>
+      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</guid>
+      <description></description>
     </item>
     
   </channel>
