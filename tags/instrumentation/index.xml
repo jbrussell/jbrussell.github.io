@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>instrumentation on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/instrumentation/</link>
+    <description>Recent content in instrumentation on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/tags/instrumentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers</title>
+      <link>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

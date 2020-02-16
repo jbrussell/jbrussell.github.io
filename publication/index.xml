@@ -12,5 +12,23 @@
 	<atom:link href="https://jbrussell.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers</title>
+      <link>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy</title>
+      <link>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -12,11 +12,56 @@
     
     <item>
       <title>Young ORCA: Searching for small-scale convection in the south Pacific</title>
-      <link>https://jbrussell.github.io/research/youngorca/</link>
+      <link>https://jbrussell.github.io/project/youngorca/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://jbrussell.github.io/research/youngorca/</guid>
-      <description>&lt;p&gt;UNDER CONSTRUCTION&lt;/p&gt;
+      <guid>https://jbrussell.github.io/project/youngorca/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;At a broad scale, evolution of the oceanic lithosphere-asthenosphere system follows a relatively simple half-space cooling model with a rigid plate overlying weaker asthenosphere that thickens with distance from the ridge. However, in detail observations such as &lt;a href=&#34;https://www.nature.com/articles/359123a0&#34; target=&#34;_blank&#34;&gt;seafloor shallowing relative to half-space cooling&lt;/a&gt; at ages &amp;gt;70 Ma and seafloor &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB091iB03p03507&#34; target=&#34;_blank&#34;&gt;gravity lineations&lt;/a&gt; suggest deviations from this simple model. One candidate to explain these observations is small-scale convection, which has been proposed in the form of so-called &lt;a href=&#34;http://www.mantleplumes.org/images3/SSCFig1_550.jpg&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Richter rolls&amp;rdquo;&lt;/a&gt;. These convective cells are estimated to be ~200 km in diameter and bring hot material toward the Earth&amp;rsquo;s surface.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-youngorca-experiment&#34;&gt;The YoungORCA experiment&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://pacificorca.wordpress.com/2018/04/09/young-pacific-orca-sets-sail/&#34; target=&#34;_blank&#34;&gt;YoungORCA&lt;/a&gt; project consists of an array of 30 broadband ocean-bottom seismometers (OBS) and aims to directly image small-scale convection.  Located at ~40 Ma seafloor in the south Pacific, the array sits on distinct gravity undulations of ~200 km wavelength that may indicate convective cells in the current-day asthenosphere.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;array.png&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Map of the YoungORCA array with high-pass filtered free-air gravity anomaly in the background. Note the northwest-southeast trending gravity anomalies.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;My research utilizes surface waves (Rayleigh and Love) to investigate the physical, chemical, and thermal structure of the uppermost mantle beneath the array. These waves range in sensitivity from the crust down to ~300 km depth in the uppermost asthenosphere. From surface-wave observations of phase velocity, we constrain the shear velocity structure in the upper mantle, as well as seismic anisotropy.&lt;/p&gt;
+
+&lt;h2 id=&#34;preliminary-findings&#34;&gt;Preliminary findings&lt;/h2&gt;
+
+&lt;p&gt;We find evidence for small-scale convection beneath the YoungORCA array. Seismic anisotropy in the asthensophere reveals a fast direction rotated significantly (~25º) from the absolute plate motion (APM) direction, at odds with the predicted large-scale mantle circulation pattern. This clockwise rotation in anisotropy relative to APM may be explained by pressure-drive flow associated with the South Pacific Superswell. As hot mantle material upwells and impinges on the lithosphere, mantle should flow radially away from the plume head, producing a secondary flow direction that is consistent with what we observe.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.png&#34; width=&#34;90%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Elastic structure of the uppermantle beneath the YoungORCA array. Seismic anisotropy in the asthenosphere is rotated from the absolute plate motion, indicating small-scale convection.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -26,7 +71,31 @@
       <pubDate>Sun, 12 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>https://jbrussell.github.io/talk/icool/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;ICOOL 2020 Poster&#34;&gt;&lt;/p&gt;
+      <description>&lt;!-- &lt;img src=&#34;featured.png&#34; alt=&#34;ICOOL 2020 Poster&#34;&gt; --&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-poster&#34; href=&#34;https://jbrussell.github.io/talk/icool/poster/poster.png&#34; data-caption=&#34;ICOOL 2020 Poster&#34;&gt;
+  &lt;img src=&#34;https://jbrussell.github.io/talk/icool/poster/poster.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
 </description>
     </item>
     
@@ -36,8 +105,84 @@
       <pubDate>Mon, 09 Dec 2019 00:00:00 -0500</pubDate>
       
       <guid>https://jbrussell.github.io/talk/agu_2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;AGU 2019 Poster&#34;&gt;&lt;/p&gt;
+      <description>&lt;!-- &lt;img src=&#34;featured.png&#34; alt=&#34;AGU 2019 Poster&#34;&gt; --&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-poster&#34; href=&#34;https://jbrussell.github.io/talk/agu_2019/poster/poster.png&#34; data-caption=&#34;AGU 2019 Poster&#34;&gt;
+  &lt;img src=&#34;https://jbrussell.github.io/talk/agu_2019/poster/poster.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers</title>
+      <link>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface-wave anisotropy of the Eastern North American Margin (ENAM)</title>
+      <link>https://jbrussell.github.io/talk/geoprisms_2020/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/talk/geoprisms_2020/</guid>
+      <description>&lt;!-- &lt;img src=&#34;featured.png&#34; alt=&#34;GeoPRISMS TEI 2019 Poster&#34;&gt; --&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-poster&#34; href=&#34;https://jbrussell.github.io/talk/geoprisms_2020/poster/poster.png&#34; data-caption=&#34;GeoPRISMS TEI 2019 Poster&#34;&gt;
+  &lt;img src=&#34;https://jbrussell.github.io/talk/geoprisms_2020/poster/poster.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy</title>
+      <link>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -89,10 +234,10 @@
     
     <item>
       <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>
-      <link>https://jbrussell.github.io/research/nomelt/</link>
+      <link>https://jbrussell.github.io/project/nomelt/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/research/nomelt/</guid>
+      <guid>https://jbrussell.github.io/project/nomelt/</guid>
       <description>
 
 &lt;p&gt;&lt;div&gt;
@@ -127,10 +272,10 @@ We use surface waves from ambient seismic noise recorded on ocean bottom seismom
     
     <item>
       <title>OBSrange: A new tool for the precise location of ocean bottom seismometers</title>
-      <link>https://jbrussell.github.io/research/obs_range/</link>
+      <link>https://jbrussell.github.io/project/obs_range/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/research/obs_range/</guid>
+      <guid>https://jbrussell.github.io/project/obs_range/</guid>
       <description>
 
 
@@ -259,13 +404,44 @@ We use surface waves from ambient seismic noise recorded on ocean bottom seismom
     
     <item>
       <title>ENAM: Seismic anisotropy of the Eastern North American Margin</title>
-      <link>https://jbrussell.github.io/research/enam/</link>
+      <link>https://jbrussell.github.io/project/enam/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/research/enam/</guid>
-      <description>
+      <guid>https://jbrussell.github.io/project/enam/</guid>
+      <description>&lt;p&gt;
 
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;array.png&#34; width=&#34;70%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Magnetic anomalies of the ENAM-CSE region with broadband OBS shown as circles and colored by depth. East Coast Magnetic Anomaly (ECMA); Blake Spur Magnetic Anomaly (BSMA); Inner Magnetic Quiet Zone (IMQZ); Outer Magnetic Quiet Zone (OMQZ).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+The eastern north American margin (ENAM) formed during the early breakup of the supercontinent Pangaea ~200 Ma. Therefore, the structure of this passive margin holds the keys to understanding continental breakup. The ENAM Community Seismic Experiment (ENAM-CSE) consisted of an active source seismic experiment as well as a deployment of 28 broadband ocean bottom seismometers (OBS) from April 2014 &amp;ndash; May 2015 that aim to answer these questions.&lt;/p&gt;
+
+&lt;p&gt;My research involves using ambient noise Rayleigh waves to image the relic flow patterns recorded in the lithosphere during continental breakup. We find azimuthal anisotropy with the fast direction parallel to the coastline, 90º rotated from the paleo-spreading direction. This is at odds with the commonly accepted idea that the lithosphere records anisotropy parallel to the paleo-spreading direction. Our observations may be indicative of margin-parallel flow during the continental breakup. Alternatively, fast translation of the overall system relative to the slower breakup could have caused overprinting of the spreading signal by the plate motion signal.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;anisotropy.png&#34; width=&#34;100%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Seismic anisotropy from the ENAM experiment. Fast directions are parallel to the margin rather than the paleo-spreading direction.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 </description>
     </item>
     
@@ -371,37 +547,6 @@ We use surface waves from ambient seismic noise recorded on ocean bottom seismom
   
   
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Comprehensive in situ constraints on LPO fabric of fast-spreading oceanic lithosphere from seismic anisotropy</title>
-      <link>https://jbrussell.github.io/talk/agu_2018/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/talk/agu_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research As Art</title>
-      <link>https://jbrussell.github.io/other/research_as_art/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/other/research_as_art/</guid>
-      <description>&lt;p&gt;Under construction&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wave propagation: Love wave overtone interference</title>
-      <link>https://jbrussell.github.io/research/love_overtones/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/research/love_overtones/</guid>
-      <description>
-
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
 </description>
     </item>
     

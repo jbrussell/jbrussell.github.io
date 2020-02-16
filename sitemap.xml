@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/youngorca/</loc>
+      <loc>https://jbrussell.github.io/project/youngorca/</loc>
       <lastmod>2020-02-16T00:00:00-05:00</lastmod>
     </url>
     
@@ -28,6 +28,30 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/publication/russell_et_al_2019_srl/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/talk/geoprisms_2020/</loc>
+      <lastmod>2019-02-09T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</loc>
+      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/photography/fieldwork/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
@@ -44,7 +68,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/nomelt/</loc>
+      <loc>https://jbrussell.github.io/project/nomelt/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,7 +76,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/obs_range/</loc>
+      <loc>https://jbrussell.github.io/project/obs_range/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -84,7 +108,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/enam/</loc>
+      <loc>https://jbrussell.github.io/project/enam/</loc>
       <lastmod>2018-10-29T00:00:00-04:00</lastmod>
     </url>
     
@@ -132,7 +156,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/love_overtones/</loc>
+      <loc>https://jbrussell.github.io/project/love_overtones/</loc>
       <lastmod>2018-10-28T00:00:00-04:00</lastmod>
     </url>
     
@@ -158,6 +182,15 @@
     
       <loc>https://jbrussell.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/publication_types/2/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -307,7 +340,8 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/publication_types/</loc>
+      <loc>https://jbrussell.github.io/project/</loc>
+      <lastmod>2020-02-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -315,8 +349,8 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/</loc>
-      <lastmod>2020-02-16T00:00:00-05:00</lastmod>
+      <loc>https://jbrussell.github.io/publication_types/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,6 +414,60 @@
     
       <loc>https://jbrussell.github.io/tags/wave-propagation/</loc>
       <lastmod>2018-10-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/instrumentation/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/ocean-bottom-seismology/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/oceanic-lithosphere/</loc>
+      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/open-source-software/</loc>
+      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/seismic-anisotropy/</loc>
+      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/surface-waves/</loc>
+      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -2,25 +2,25 @@
   {
     "authors": null,
     "categories": null,
-    "content": "UNDER CONSTRUCTION\n",
+    "content": " Introduction At a broad scale, evolution of the oceanic lithosphere-asthenosphere system follows a relatively simple half-space cooling model with a rigid plate overlying weaker asthenosphere that thickens with distance from the ridge. However, in detail observations such as seafloor shallowing relative to half-space cooling at ages \u0026gt;70 Ma and seafloor gravity lineations suggest deviations from this simple model. One candidate to explain these observations is small-scale convection, which has been proposed in the form of so-called \u0026ldquo;Richter rolls\u0026rdquo;. These convective cells are estimated to be ~200 km in diameter and bring hot material toward the Earth\u0026rsquo;s surface.\nThe YoungORCA experiment The YoungORCA project consists of an array of 30 broadband ocean-bottom seismometers (OBS) and aims to directly image small-scale convection. Located at ~40 Ma seafloor in the south Pacific, the array sits on distinct gravity undulations of ~200 km wavelength that may indicate convective cells in the current-day asthenosphere.  Map of the YoungORCA array with high-pass filtered free-air gravity anomaly in the background. Note the northwest-southeast trending gravity anomalies.  \nMy research utilizes surface waves (Rayleigh and Love) to investigate the physical, chemical, and thermal structure of the uppermost mantle beneath the array. These waves range in sensitivity from the crust down to ~300 km depth in the uppermost asthenosphere. From surface-wave observations of phase velocity, we constrain the shear velocity structure in the upper mantle, as well as seismic anisotropy.\nPreliminary findings We find evidence for small-scale convection beneath the YoungORCA array. Seismic anisotropy in the asthensophere reveals a fast direction rotated significantly (~25º) from the absolute plate motion (APM) direction, at odds with the predicted large-scale mantle circulation pattern. This clockwise rotation in anisotropy relative to APM may be explained by pressure-drive flow associated with the South Pacific Superswell. As hot mantle material upwells and impinges on the lithosphere, mantle should flow radially away from the plume head, producing a secondary flow direction that is consistent with what we observe.\n Elastic structure of the uppermantle beneath the YoungORCA array. Seismic anisotropy in the asthenosphere is rotated from the absolute plate motion, indicating small-scale convection.   ",
     "date": 1581829200,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
     "lastmod": 1581829200,
-    "objectID": "867ea00c5eef7494a10987be191cfe77",
-    "permalink": "https://jbrussell.github.io/research/youngorca/",
+    "objectID": "d36a01e1f6c244c051a0680273573549",
+    "permalink": "https://jbrussell.github.io/project/youngorca/",
     "publishdate": "2020-02-16T00:00:00-05:00",
-    "relpermalink": "/research/youngorca/",
-    "section": "research",
-    "summary": "UNDER CONSTRUCTION",
+    "relpermalink": "/project/youngorca/",
+    "section": "project",
+    "summary": "Small-scale convection, if it exists, should be detectable using high resolution ocean-bottom seismology. We use surface-wave imaging to investigate mantle flow patterns and evaluate whether SSC persists.",
     "tags": [
       "Seismic Anisotropy",
       "Surface Waves",
       "Ambient Noise"
     ],
     "title": "Young ORCA: Searching for small-scale convection in the south Pacific",
-    "type": "research"
+    "type": "project"
   },
   {
     "authors": [
@@ -34,7 +34,7 @@
       "Rob L. Evans"
     ],
     "categories": null,
-    "content": "",
+    "content": "--   ",
     "date": 1578805200,
     "expirydate": -62135596800,
     "kind": "page",
@@ -62,7 +62,7 @@
       "Göran Ekström"
     ],
     "categories": null,
-    "content": "",
+    "content": "--   ",
     "date": 1575867600,
     "expirydate": -62135596800,
     "kind": "page",
@@ -80,6 +80,89 @@
     ],
     "title": "Surface-wave constraints on upper mantle petrofabric and flow beneath ~40 Ma seafloor in the south Pacific",
     "type": "talk"
+  },
+  {
+    "authors": [
+      "**J.B. Russell**",
+      "Z. Eilon",
+      "S.G. Mosher"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1564632000,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1564632000,
+    "objectID": "1ae2ab1c61dd04ace6abef1a727f499c",
+    "permalink": "https://jbrussell.github.io/publication/russell_et_al_2019_srl/",
+    "publishdate": "2019-08-01T00:00:00-04:00",
+    "relpermalink": "/publication/russell_et_al_2019_srl/",
+    "section": "publication",
+    "summary": "Reliable instrument recoverability and data quality rely on accurate estimates of instrument locations on the seafloor. However, freely available software for this estimation does not currently exist. We present OBSrange, an open-source tool for robustly locating ocean-bottom seismometers (OBSs) on the seafloor using acoustic transponder ranging data. Available in both MATLAB and Python (see Data and Resources), the algorithm inverts two-way acoustic ranging travel-time data for instrument location, depth, and average water sound speed with the ability to accurately account for ship velocity, ray refraction through the water column specific to the region, and a known lateral offset between the ship’s Global Positioning System (GPS) receiver and acoustic transponder. The tool provides comprehensive estimates of model parameter uncertainty including bootstrap uncertainties for all four parameters as well as an F-test grid search providing a 3D confidence ellipsoid around each station. \n\n We validate the tool using a synthetic travel-time dataset and find average horizontal location errors on the order of ∼4 m for an instrument at 5000 m depth. An exploration of survey geometries shows significant variation in location precision depending on the pattern chosen. We explore the trade-off between survey length and location uncertainty to quantitatively inform cruise planning strategies. The optimal survey radius for resolving instrument location depends on water depth and desired precision and nominally ranges from 0.75–1 nautical mile (NM) at 5000 m water depth to ∼0.25 NM at 500 m depth. Radial legs toward and away from the instrument are crucial for resolving the depth-water velocity trade-off, and thus circle surveys should be avoided. Line surveys, common for active source experiments, are unable to resolve the instrument location orthogonal to the survey line. \n\n We apply our tool to the 2018 Young Pacific OBS Research into Convecting Asthenosphere (ORCA) deployment in the south Pacific yielding an average root mean square data misfit of 1.96 ms with an average instrument drift of ∼170 m. Observed drifts reveal a clockwise rotation pattern of ∼500 km diameter that resembles a cyclonic mesoscale gyre observed in the geostrophic flow field, suggesting a potential application of accurate instrument drifts as a novel proxy for depth-integrated flow through the water column.",
+    "tags": [
+      "ocean bottom seismology",
+      "instrumentation",
+      "open-source software"
+    ],
+    "title": "OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Joshua B. Russell",
+      "James B. Gaherty"
+    ],
+    "categories": null,
+    "content": "--   ",
+    "date": 1549688400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1549688400,
+    "objectID": "98ffc6d54296aaeeca093f699d9e7355",
+    "permalink": "https://jbrussell.github.io/talk/geoprisms_2020/",
+    "publishdate": "2019-02-09T00:00:00-05:00",
+    "relpermalink": "/talk/geoprisms_2020/",
+    "section": "talk",
+    "summary": "The eastern North American margin (ENAM) formed during the breakup of Pangaea 175–200 Ma, recording the onset of rifting. The ENAM Community Seismic Experiment (2014–2015) consisted of an onshore/offshore broadband and short-period ocean bottom seismometer (OBS) deployment aimed at better characterizing this relatively understudied region. In this study, we utilize the 28 ENAM broadband OBS to measure Rayleigh-wave phase velocities from ambient-noise (15-40 s period) and teleseisms (40-150 s). Tilt noise is especially high due to the Gulf Stream current; thus, tilt is removed from the vertical component of both teleseismic and ambient-noise waveforms. We observe Rayleigh-wave azimuthal anisotropy of ~2–3% from 15-40 s period with margin-parallel fast directions, orthogonal to predictions of olivine alignment generated by corner-flow at the paleo-ridge. Previous shear-wave splitting observations showed similar margin-parallel splitting, which was attributed to present-day margin-parallel asthenospheric flow. Our measurements are mostly sensitive to the lithosphere, suggesting that this signal is not purely due to present-day asthenospheric flow, but instead, is embedded in the fossilized fabric of the oceanic lithosphere. This observation has implications for the mantle flow field during and immediately after the rifting of Pangaea and subsequent opening of the Atlantic Ocean.",
+    "tags": [
+      "Seismic Anisotropy",
+      "Oceanic Lithosphere"
+    ],
+    "title": "Surface-wave anisotropy of the Eastern North American Margin (ENAM)",
+    "type": "talk"
+  },
+  {
+    "authors": [
+      "**J.B. Russell**",
+      "J.B. Gaherty",
+      "P.Y. Lin",
+      "D. Lizarralde",
+      "J.A. Collins",
+      "G. Hirth",
+      "R.L. Evans"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1547701200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1547701200,
+    "objectID": "8d4e418d9667b204e1f06c6c1d955241",
+    "permalink": "https://jbrussell.github.io/publication/russell_et_al_2019_jgr/",
+    "publishdate": "2019-01-17T00:00:00-05:00",
+    "relpermalink": "/publication/russell_et_al_2019_jgr/",
+    "section": "publication",
+    "summary": "Lithospheric seismic anisotropy illuminates mid-ocean ridge dynamics and the thermal evolution of oceanic plates. We utilize short-period (5–7.5 s) ambient-noise surface waves and 15- to 150-s Rayleigh waves measured across the NoMelt ocean-bottom array to invert for the complete radial and azimuthal anisotropy in the upper ∼35 km of ∼70-Ma Pacific lithospheric mantle, and azimuthal anisotropy through the underlying asthenosphere. Strong azimuthal variations in Rayleigh- and Love-wave velocity are observed, including the first clearly measured Love-wave 2𝜃 and 4𝜃 variations. Inversion of averaged dispersion requires radial anisotropy in the shallow mantle (2-3%) and the lower crust (4-5%), with horizontal velocities (Vsh) faster than vertical velocities (Vsv). Azimuthal anisotropy is strong in the mantle, with 4.5–6% 2𝜃 variation in VSV with fast propagation parallel to the fossil-spreading direction (FSD), and 2–2.5% 4𝜃 variation in Vsh with a fast direction 45º from FSD. The relative behavior of 2𝜃, 4𝜃, and radial anisotropy in the mantle are consistent with ophiolite petrofabrics, linking outcrop and surface-wave length scales. Vsv remains fast parallel to FSD to ∼80km depth where the direction changes, suggesting spreading-dominated deformation at the ridge. The transition at ∼80 km perhaps marks the dehydration boundary and base of the lithosphere. Azimuthal anisotropy strength increases from the Moho to ∼30 km depth, consistent with flow models of passive upwelling at the ridge. Strong azimuthal anisotropy suggests extremely coherent olivine fabric. Weaker radial anisotropy implies slightly nonhorizontal fabric or the presence of alternative (so-called E-type) peridotite fabric. Presence of radial anisotropy in the crust suggests subhorizontal layering and/or shearing during crustal accretion.",
+    "tags": [
+      "seismic anisotropy",
+      "surface waves",
+      "oceanic lithosphere"
+    ],
+    "title": "High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy",
+    "type": "publication"
   },
   {
     "authors": null,
@@ -135,11 +218,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540872000,
-    "objectID": "a85181a6fb67bb7341d5cf7e3a178611",
-    "permalink": "https://jbrussell.github.io/research/nomelt/",
+    "objectID": "8dd1cc6ae57c3c8f675f729fba3eaaed",
+    "permalink": "https://jbrussell.github.io/project/nomelt/",
     "publishdate": "2018-10-30T00:00:00-04:00",
-    "relpermalink": "/research/nomelt/",
-    "section": "research",
+    "relpermalink": "/project/nomelt/",
+    "section": "project",
     "summary": "We have comprehensively characterized the anisotropic structure of ~70 Ma oceanic lithosphere. This has helped us better understand mid-ocean ridge processes and the evolution of oceanic basins.",
     "tags": [
       "Seismic Anisotropy",
@@ -147,7 +230,7 @@
       "Ambient Noise"
     ],
     "title": "NoMelt: seismic constraints on oceanic lithosphere petrofabric",
-    "type": "research"
+    "type": "project"
   },
   {
     "authors": null,
@@ -158,19 +241,19 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540872000,
-    "objectID": "b8ed4ced4e0fc19a6fbc9000dd5cbfb6",
-    "permalink": "https://jbrussell.github.io/research/obs_range/",
+    "objectID": "c19ffe57c1c489780ea994692a74b2f5",
+    "permalink": "https://jbrussell.github.io/project/obs_range/",
     "publishdate": "2018-10-30T00:00:00-04:00",
-    "relpermalink": "/research/obs_range/",
-    "section": "research",
-    "summary": "OBSrange is a robust, efficient, open-source OBS location code available in both MATLAB and Python.",
+    "relpermalink": "/project/obs_range/",
+    "section": "project",
+    "summary": "A robust, efficient, open-source OBS location tool available in both MATLAB and Python.",
     "tags": [
       "Tools",
       "OBS Instrumentation",
       "Inverse Theory"
     ],
     "title": "OBSrange: A new tool for the precise location of ocean bottom seismometers",
-    "type": "research"
+    "type": "project"
   },
   {
     "authors": [
@@ -224,17 +307,17 @@
   {
     "authors": null,
     "categories": null,
-    "content": " UNDER CONSTRUCTION\u0026hellip; ",
+    "content": "  Magnetic anomalies of the ENAM-CSE region with broadband OBS shown as circles and colored by depth. East Coast Magnetic Anomaly (ECMA); Blake Spur Magnetic Anomaly (BSMA); Inner Magnetic Quiet Zone (IMQZ); Outer Magnetic Quiet Zone (OMQZ).   The eastern north American margin (ENAM) formed during the early breakup of the supercontinent Pangaea ~200 Ma. Therefore, the structure of this passive margin holds the keys to understanding continental breakup. The ENAM Community Seismic Experiment (ENAM-CSE) consisted of an active source seismic experiment as well as a deployment of 28 broadband ocean bottom seismometers (OBS) from April 2014 \u0026ndash; May 2015 that aim to answer these questions.\nMy research involves using ambient noise Rayleigh waves to image the relic flow patterns recorded in the lithosphere during continental breakup. We find azimuthal anisotropy with the fast direction parallel to the coastline, 90º rotated from the paleo-spreading direction. This is at odds with the commonly accepted idea that the lithosphere records anisotropy parallel to the paleo-spreading direction. Our observations may be indicative of margin-parallel flow during the continental breakup. Alternatively, fast translation of the overall system relative to the slower breakup could have caused overprinting of the spreading signal by the plate motion signal.\n Seismic anisotropy from the ENAM experiment. Fast directions are parallel to the margin rather than the paleo-spreading direction.   ",
     "date": 1540785600,
     "expirydate": -62135596800,
     "kind": "page",
     "lang": "en",
     "lastmod": 1540785600,
-    "objectID": "0cb256d910588cd0f791e6db6b40978f",
-    "permalink": "https://jbrussell.github.io/research/enam/",
+    "objectID": "ce5130894c8dba15f26589da76fe3945",
+    "permalink": "https://jbrussell.github.io/project/enam/",
     "publishdate": "2018-10-29T00:00:00-04:00",
-    "relpermalink": "/research/enam/",
-    "section": "research",
+    "relpermalink": "/project/enam/",
+    "section": "project",
     "summary": "This project aims to better understand mantle dynamic associated with breakup of Pangaea from relic fabrics recorded in the oceanic lithosphere.",
     "tags": [
       "Seismic Anisotropy",
@@ -242,7 +325,7 @@
       "Ambient Noise"
     ],
     "title": "ENAM: Seismic anisotropy of the Eastern North American Margin",
-    "type": "research"
+    "type": "project"
   },
   {
     "authors": null,
@@ -346,11 +429,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540699200,
-    "objectID": "5694190403e98ab37af2dd8b7aaf510d",
-    "permalink": "https://jbrussell.github.io/research/love_overtones/",
+    "objectID": "b94e99d24f235fba34bb688670cbe0be",
+    "permalink": "https://jbrussell.github.io/project/love_overtones/",
     "publishdate": "2018-10-28T00:00:00-04:00",
-    "relpermalink": "/research/love_overtones/",
-    "section": "research",
+    "relpermalink": "/project/love_overtones/",
+    "section": "project",
     "summary": "Love wave propagation is complex in ocean environments consisting of strong overtone interference. We aim to utilize these higher modes in order to image velocity structure to deeper depths.",
     "tags": [
       "Wave Propagation",
@@ -358,6 +441,6 @@
       "Overtones"
     ],
     "title": "Wave propagation: Love wave overtone interference",
-    "type": "research"
+    "type": "project"
   }
 ]
