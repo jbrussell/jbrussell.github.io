@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Young ORCA: Searching for small-scale convection in the south Pacific</title>
+      <link>https://jbrussell.github.io/research/youngorca/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/youngorca/</guid>
+      <description>&lt;p&gt;UNDER CONSTRUCTION&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Seismic evidence for alternative (D-type) olivine fabric in fast-spreading lithosphere</title>
       <link>https://jbrussell.github.io/talk/icool/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 -0500</pubDate>
@@ -248,7 +258,7 @@ We use surface waves from ambient seismic noise recorded on ocean bottom seismom
     </item>
     
     <item>
-      <title>ENAM: Seismic anisotropy offshore eastern North America</title>
+      <title>ENAM: Seismic anisotropy of the Eastern North American Margin</title>
       <link>https://jbrussell.github.io/research/enam/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       

@@ -1,5 +1,28 @@
 [
   {
+    "authors": null,
+    "categories": null,
+    "content": "UNDER CONSTRUCTION\n",
+    "date": 1581829200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1581829200,
+    "objectID": "867ea00c5eef7494a10987be191cfe77",
+    "permalink": "https://jbrussell.github.io/research/youngorca/",
+    "publishdate": "2020-02-16T00:00:00-05:00",
+    "relpermalink": "/research/youngorca/",
+    "section": "research",
+    "summary": "UNDER CONSTRUCTION",
+    "tags": [
+      "Seismic Anisotropy",
+      "Surface Waves",
+      "Ambient Noise"
+    ],
+    "title": "Young ORCA: Searching for small-scale convection in the south Pacific",
+    "type": "research"
+  },
+  {
     "authors": [
       "Joshua B. Russell",
       "Hannah F. Mark",
@@ -117,7 +140,7 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/research/nomelt/",
     "section": "research",
-    "summary": "The goal of this project is to comprehensively characterize the anisotropic structure of ~70 Ma oceanic lithosphere. This will help us better understand mid ocean ridge processes as well as the evolution of oceanic lithosphere.",
+    "summary": "We have comprehensively characterized the anisotropic structure of ~70 Ma oceanic lithosphere. This has helped us better understand mid-ocean ridge processes and the evolution of oceanic basins.",
     "tags": [
       "Seismic Anisotropy",
       "Surface Waves",
@@ -140,7 +163,7 @@
     "publishdate": "2018-10-30T00:00:00-04:00",
     "relpermalink": "/research/obs_range/",
     "section": "research",
-    "summary": "We have developed a new tool called OBSrange for precisely locating ocean bottom seismometers (OBS) on the seafloor. The tool is written in both Python and MATLAB and open for use by the scientific community.",
+    "summary": "OBSrange is a robust, efficient, open-source OBS location code available in both MATLAB and Python.",
     "tags": [
       "Tools",
       "OBS Instrumentation",
@@ -212,13 +235,13 @@
     "publishdate": "2018-10-29T00:00:00-04:00",
     "relpermalink": "/research/enam/",
     "section": "research",
-    "summary": "The goal of this project is to better understand the anisotropic structure of old Atlantic lithosphere.",
+    "summary": "This project aims to better understand mantle dynamic associated with breakup of Pangaea from relic fabrics recorded in the oceanic lithosphere.",
     "tags": [
       "Seismic Anisotropy",
       "Surface Waves",
       "Ambient Noise"
     ],
-    "title": "ENAM: Seismic anisotropy offshore eastern North America",
+    "title": "ENAM: Seismic anisotropy of the Eastern North American Margin",
     "type": "research"
   },
   {
@@ -328,7 +351,7 @@
     "publishdate": "2018-10-28T00:00:00-04:00",
     "relpermalink": "/research/love_overtones/",
     "section": "research",
-    "summary": "Love wave propagation is complex in oceanic environments due to the pronounced low velocity zone (LVZ). I work to better understand these complexities in order to make use of Love wave observations in oceanic environments.",
+    "summary": "Love wave propagation is complex in ocean environments consisting of strong overtone interference. We aim to utilize these higher modes in order to image velocity structure to deeper depths.",
     "tags": [
       "Wave Propagation",
       "Love Waves",
