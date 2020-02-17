@@ -130,8 +130,8 @@ html {
 
 /* ********* Navigation ********* bar */
 .navbar {
-  min-height: 71px !important;
-  height: 71px;
+  min-height: 51px !important;
+  height: 51px;
   background: rgba(40,40,40,1) !important;
 /*   color: #e6e6e6 !important; */
 }
@@ -171,4 +171,38 @@ footer p {
 /*   font-size: 0.75rem; */
   font-size: 0rem !important;
   text-align: center;
+}
+
+/* ********* Header behavior ********* */
+.article-header {
+  position: relative; /* Required for caption positioning */
+  clear: both;
+}
+
+.fixed{
+  position: fixed;
+  top: 10;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://jbrussell.github.io/img/headers/darkOBS3_NoMelt2_vignette2.png");
+}
+/* .content{margin-top:57px;} */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.item {
+    width: 100%;
+    min-height: 120px;
+    max-height: auto;
+    left: 0px; 
+    top: 50px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    z-index: -1;
+    background-color: "black"
 }
