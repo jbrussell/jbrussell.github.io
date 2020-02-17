@@ -29,7 +29,7 @@
     if($(target).length) {
       $('body').addClass('scrolling');
       $('html, body').animate({
-        scrollTop: $(target).offset().top - navbar_offset + 5
+        scrollTop: $(target).offset().top - navbar_offset
       }, 600, function () {
         $('body').removeClass('scrolling');
       });
