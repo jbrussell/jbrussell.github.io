@@ -10,12 +10,14 @@
    * --------------------------------------------------------------------------- */
 
   // Dynamically get responsive navigation bar offset.
-  function getNavBarHeight() {
-    let $navbar = $('#navbar-main');
-    let navbar_offset = $navbar.outerHeight();
-    console.debug('Navbar height: ' + navbar_offset);
-    return navbar_offset;
-  }
+  let $navbar = $('.navbar');
+  let navbar_offset = $navbar.innerHeight();
+  // function getNavBarHeight() {
+  //   let $navbar = $('#navbar-main');
+  //   let navbar_offset = $navbar.outerHeight();
+  //   console.debug('Navbar height: ' + navbar_offset);
+  //   return navbar_offset;
+  // }
 
   /**
    * Responsive hash scrolling.
@@ -32,12 +34,12 @@
     // If target element exists, scroll to it taking into account fixed navigation bar offset.
     if($(target).length) {
       
-      let elementOffset = Math.ceil($(target).offset().top - getNavBarHeight()) + 1;  // Round up to highlight right ID!
+      // let elementOffset = Math.ceil($(target).offset().top - getNavBarHeight()) + 1;  // Round up to highlight right ID!
       
       $('body').addClass('scrolling');
       $('html, body').animate({
-        // scrollTop: $(target).offset().top - navbar_offset
-        scrollTop: elementOffset
+        scrollTop: $(target).offset().top - navbar_offset + 50
+        // scrollTop: elementOffset
       }, 600, function () {
         $('body').removeClass('scrolling');
       });
