@@ -10,12 +10,8 @@
    * --------------------------------------------------------------------------- */
 
   // Dynamically get responsive navigation bar offset.
-  function getNavBarHeight() {
-    let $navbar = $('#navbar-main');
-    let navbar_offset = $navbar.outerHeight();
-    console.debug('Navbar height: ' + navbar_offset);
-    return navbar_offset;
-  }
+  let $navbar = $('.navbar');
+  let navbar_offset = $navbar.innerHeight();
 
   /**
    * Responsive hash scrolling.
@@ -31,13 +27,9 @@
 
     // If target element exists, scroll to it taking into account fixed navigation bar offset.
     if($(target).length) {
-      
-      let elementOffset = Math.ceil($(target).offset().top - getNavBarHeight())+1;  // Round up to highlight right ID!
-      
       $('body').addClass('scrolling');
       $('html, body').animate({
-        // scrollTop: $(target).offset().top - navbar_offset
-        scrollTop: elementOffset
+        scrollTop: $(target).offset().top - navbar_offset
       }, 600, function () {
         $('body').removeClass('scrolling');
       });
@@ -49,8 +41,7 @@
     let $body = $('body');
     let data = $body.data('bs.scrollspy');
     if (data) {
-      // data._config.offset = navbar_offset;
-      data._config.offset = getNavBarHeight();
+      data._config.offset = navbar_offset;
       $body.data('bs.scrollspy', data);
       $body.scrollspy('refresh');
     }
@@ -74,15 +65,8 @@
 
       // Use jQuery's animate() method for smooth page scrolling.
       // The numerical parameter specifies the time (ms) taken to scroll to the specified hash.
-      let elementOffset = Math.ceil($(hash).offset().top - getNavBarHeight()) + 1;  // Round up to highlight right ID!
-
-      // Uncomment to debug.
-      // let scrollTop = $(window).scrollTop();
-      // let scrollDelta = (elementOffset - scrollTop);
-      // console.debug('Scroll Delta: ' + scrollDelta);
       $('html, body').animate({
-        // scrollTop: $(hash).offset().top - navbar_offset
-        scrollTop: elementOffset
+        scrollTop: $(hash).offset().top - navbar_offset
       }, 800);
     }
   });
@@ -270,9 +254,6 @@
    * --------------------------------------------------------------------------- */
 
   $(window).on('load', function() {
-    // Re-initialize Scrollspy with dynamic navbar height offset.
-    fixScrollspy();
-
     if (window.location.hash) {
       // When accessing homepage from another page and `#top` hash is set, show top of page (no hash).
       if (window.location.hash == "#top") {
@@ -286,9 +267,9 @@
       }
     }
 
-    // // Initialize Scrollspy.
-    // let $body = $('body');
-    // $body.scrollspy({offset: navbar_offset });
+    // Initialize Scrollspy.
+    let $body = $('body');
+    $body.scrollspy({offset: navbar_offset });
 
     // Call `fixScrollspy` when window is resized.
     let resizeTimer;
@@ -383,34 +364,6 @@
     // Print latest Academic version if necessary.
     if ($('#academic-release').length > 0)
       printLatestRelease('#academic-release', $('#academic-release').data('repo'));
-  
-    // Re-initialize Scrollspy with dynamic navbar height offset.
-    fixScrollspy();
-
-    if (window.location.hash) {
-      // When accessing homepage from another page and `#top` hash is set, show top of page (no hash).
-      if (window.location.hash == "#top") {
-        window.location.hash = ""
-      } else if (!$('.projects-container').length) {
-        // If URL contains a hash and there are no dynamically loaded images on the page,
-        // immediately scroll to target ID taking into account responsive offset.
-        // Otherwise, wait for `imagesLoaded()` to complete before scrolling to hash to prevent scrolling to wrong
-        // location.
-        scrollToAnchor();
-      }
-    }
-
-    // // Initialize Scrollspy.
-    // let $body = $('body');
-    // $body.scrollspy({offset: navbar_offset });
-
-    // Call `fixScrollspy` when window is resized.
-    let resizeTimer;
-    $(window).resize(function() {
-      clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(fixScrollspy, 200);
-    });
-
   });
 
 })(jQuery);
