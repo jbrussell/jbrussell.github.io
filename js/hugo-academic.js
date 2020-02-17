@@ -383,6 +383,34 @@
     // Print latest Academic version if necessary.
     if ($('#academic-release').length > 0)
       printLatestRelease('#academic-release', $('#academic-release').data('repo'));
+  
+    // Re-initialize Scrollspy with dynamic navbar height offset.
+    fixScrollspy();
+
+    if (window.location.hash) {
+      // When accessing homepage from another page and `#top` hash is set, show top of page (no hash).
+      if (window.location.hash == "#top") {
+        window.location.hash = ""
+      } else if (!$('.projects-container').length) {
+        // If URL contains a hash and there are no dynamically loaded images on the page,
+        // immediately scroll to target ID taking into account responsive offset.
+        // Otherwise, wait for `imagesLoaded()` to complete before scrolling to hash to prevent scrolling to wrong
+        // location.
+        scrollToAnchor();
+      }
+    }
+
+    // // Initialize Scrollspy.
+    // let $body = $('body');
+    // $body.scrollspy({offset: navbar_offset });
+
+    // Call `fixScrollspy` when window is resized.
+    let resizeTimer;
+    $(window).resize(function() {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(fixScrollspy, 200);
+    });
+
   });
 
 })(jQuery);
