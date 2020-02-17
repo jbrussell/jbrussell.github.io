@@ -66,7 +66,7 @@
       // Use jQuery's animate() method for smooth page scrolling.
       // The numerical parameter specifies the time (ms) taken to scroll to the specified hash.
       $('html, body').animate({
-        scrollTop: $(hash).offset().top - navbar_offset
+        scrollTop: $(hash).offset().top - navbar_offset + 5
       }, 800);
     }
   });
