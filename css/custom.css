@@ -123,15 +123,15 @@ html {
 
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
   body {
-    margin-top: 71px; /* Offset body content by navbar height. */
-    min-height: 71px !important;
+    margin-top: 70px; /* Offset body content by navbar height. */
+    min-height: 70px !important;
   }
 }
 
 /* ********* Navigation ********* bar */
 .navbar {
-  min-height: 71px !important;
-  height: 71px;
+  min-height: 70px !important;
+  height: 70px;
   background: rgba(40,40,40,1) !important;
 /*   color: #e6e6e6 !important; */
 }
