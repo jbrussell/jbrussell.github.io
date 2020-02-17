@@ -362,7 +362,8 @@
     "section": "other",
     "summary": "Earthquakes produce seismic waves that are recorded by seismometers. I work with the Seismic Sound Lab at Columbia University to turn these seismic data into sound!",
     "tags": [
-      "Data Sonification"
+      "Data Sonification",
+      "Science Communication"
     ],
     "title": "Earthquake Sonification",
     "type": "other"
