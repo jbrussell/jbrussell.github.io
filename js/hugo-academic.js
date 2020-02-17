@@ -38,7 +38,7 @@
       
       $('body').addClass('scrolling');
       $('html, body').animate({
-        scrollTop: $(target).offset().top - navbar_offset + 50
+        scrollTop: $(target).offset().top - navbar_offset
         // scrollTop: elementOffset
       }, 600, function () {
         $('body').removeClass('scrolling');
