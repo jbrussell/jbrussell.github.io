@@ -238,8 +238,9 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: {{ .Get "menu_text_active" }};
+  /* color: {{ .Get "menu_text_active" }}; */
   background-color: transparent;
+  color: rgba(255,255,255,0.6);
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
