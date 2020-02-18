@@ -84,7 +84,8 @@
   text-align: center;
   width: auto;
   text-transform: uppercase;
-  background: rgb(0,0,0,0.7);
+  text-shadow: 2px 2px 50px #4191f9;
+  background: rgb(0,0,0,0);
   color: #d6d6d6 !important;
   font-size: 2rem;
   position: relative;
@@ -99,7 +100,8 @@
 .button3:hover,
 .button3:focus,
 .button3:active {
-  background: rgb(0,0,0,0.7);
+  background: rgb(0,0,0,0);
+  text-shadow: 2px 2px 50px #4191f9;
   color: #e6e6e6 !important;
   transition: all 300ms ease-in-out;
   text-decoration: none;
@@ -205,7 +207,7 @@ img {
     padding: 0px;
     position: absolute;
     z-index: -1;
-    /* filter: blur(3px); */
+    filter: blur(2px);
     
 }
 #overlay {
@@ -216,7 +218,7 @@ img {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
