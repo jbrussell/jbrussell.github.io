@@ -185,14 +185,14 @@ img {
     height: auto;
     
     /* to improve speed due to blurring*/
-    -webkit-backface-visibility: hidden;
+    /* -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000;
     -webkit-transform: translate3d(0,0,0);
     -webkit-transform: translateZ(0);
     backface-visibility: hidden;
     perspective: 1000;
     transform: translate3d(0,0,0);
-    transform: translateZ(0);
+    transform: translateZ(0); */
 }
 .item {
     width: 100%;
@@ -205,7 +205,8 @@ img {
     padding: 0px;
     position: fixed;
     z-index: -1;
-    filter: blur(3px);
+    /* filter: blur(3px); */
+    
 }
 #overlay {
   position: fixed;
@@ -218,3 +219,4 @@ img {
   background-color: rgba(0, 0, 0, 0.1);
   z-index: 1;
 }
+
