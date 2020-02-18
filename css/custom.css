@@ -240,7 +240,6 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
   color: {{ .Get "menu_text_active" }};
   background-color: transparent;
-  font-weight: 400; !important;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
