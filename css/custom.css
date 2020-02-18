@@ -222,3 +222,33 @@ img {
   z-index: 1;
 }
 
+/* ********* NAVBAR ********* */
+navbar-light .navbar-nav>.nav-item>.nav-link,
+.navbar-light .navbar-nav>.nav-item>.nav-link:focus,
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  white-space: nowrap;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+  color: {{ .Get "menu_text" }};
+  font-weight: 600; !important;
+}
+
+.navbar-light .navbar-nav>.nav-item>.nav-link:focus {
+  color: {{ .Get "menu_text" }};
+  background-color: transparent;
+}
+
+.navbar-light .navbar-nav>.nav-item>.nav-link:hover {
+  color: {{ .Get "menu_text_active" }};
+  background-color: transparent;
+  font-weight: 400; !important;
+}
+
+.navbar-light .navbar-nav>li.nav-item>a.active,
+.navbar-light .navbar-nav>li.nav-item>a.active:focus,
+.navbar-light .navbar-nav>li.nav-item>a.active:hover {
+  color: {{ .Get "menu_text_active" }};
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
