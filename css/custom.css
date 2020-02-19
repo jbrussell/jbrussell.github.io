@@ -222,6 +222,20 @@ img {
 }
 
 /* ********* NAVBAR ********* */
+.navbar-toggler {
+  color: {{ .Get "menu_text" }} !important;
+}
+
+.navbar-light .navbar-toggler:focus,
+.navbar-light .navbar-toggler:hover {
+  background-color: transparent;
+}
+
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: {{ .Get "font_size_small" }}px;
+}
+
 navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus,
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
@@ -229,25 +243,27 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
-  font-weight: 600; !important;
+  font-weight: 400; !important;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
   color: {{ .Get "menu_text" }};
   background-color: transparent;
+  font-weight: 400; !important;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
   /* color: {{ .Get "menu_text_active" }}; */
   background-color: transparent;
   color: rgba(255,255,255,0.6);
+  font-weight: 400; !important;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
   color: {{ .Get "menu_text_active" }};
-  font-weight: 700;
+  font-weight: 400;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
