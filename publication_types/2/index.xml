@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shear Attenuation and Anelastic Mechanisms in the Central Pacific Upper Mantle</title>
+      <link>https://jbrussell.github.io/publication/ma_et_al_2020_epsl/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/ma_et_al_2020_epsl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers</title>

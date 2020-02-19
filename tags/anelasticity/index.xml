@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>surface waves on Joshua Russell</title>
-    <link>https://jbrussell.github.io/tags/surface-waves/</link>
-    <description>Recent content in surface waves on Joshua Russell</description>
+    <title>anelasticity on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/anelasticity/</link>
+    <description>Recent content in anelasticity on Joshua Russell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 19 Feb 2020 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://jbrussell.github.io/tags/surface-waves/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbrussell.github.io/tags/anelasticity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 19 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://jbrussell.github.io/publication/ma_et_al_2020_epsl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy</title>
-      <link>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jbrussell.github.io/publication/russell_et_al_2019_jgr/</guid>
       <description></description>
     </item>
     

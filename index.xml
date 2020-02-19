@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Shear Attenuation and Anelastic Mechanisms in the Central Pacific Upper Mantle</title>
+      <link>https://jbrussell.github.io/publication/ma_et_al_2020_epsl/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/ma_et_al_2020_epsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Young ORCA: Searching for small-scale convection in the south Pacific</title>
       <link>https://jbrussell.github.io/project/youngorca/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
@@ -537,18 +546,6 @@ The eastern north American margin (ENAM) formed during the early breakup of the 
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Earthquake Sonification</title>
-      <link>https://jbrussell.github.io/other/sonification/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/other/sonification/</guid>
-      <description>
-
-&lt;h3 id=&#34;under-construction&#34;&gt;UNDER CONSTRUCTION&amp;hellip;&lt;/h3&gt;
 </description>
     </item>
     

@@ -1,5 +1,36 @@
 [
   {
+    "authors": [
+      "Z. Ma",
+      "C.A. Dalton",
+      "**J.B. Russell**",
+      "J.B. Gaherty",
+      "G. Hirth",
+      "D.W. Forsyth"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1582088400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1582088400,
+    "objectID": "234252a7ada8e32eb3a30e990a0456b0",
+    "permalink": "https://jbrussell.github.io/publication/ma_et_al_2020_epsl/",
+    "publishdate": "2020-02-19T00:00:00-05:00",
+    "relpermalink": "/publication/ma_et_al_2020_epsl/",
+    "section": "publication",
+    "summary": "We determine the mantle attenuation (1/Qμ) structure beneath 70 Myr seafloor in the central Pacific. We use long-period (33-100 sec) Rayleigh waves recorded by the NoMelt array of broadband ocean-bottom seismometers. After the removal of tilt and compliance noise, we are able to measure Rayleigh wave phase and amplitude for 125 earthquakes. The compliance correction for ocean wave pressure on the seafloor is particularly important for improving signal-to-noise at periods longer than 55 sec. Attenuation and azimuthally anisotropic phase velocity in the study area are determined by approximating the wavefield as the interference of two plane waves. We find that the amplitude decay of Rayleigh waves across the NoMelt array can be adequately explained using a two-layer model: Q μ = 1400 in the shallow layer, Q μ = 110 in the deeper layer, and a transition depth at 70 km, although the sharpness of the transition is not well resolved by the Rayleigh wave data. Notably, Qμ observed in the NoMelt lithosphere is significantly higher than values in this area from global attenuation models. When compared with lithospheric Qμ measured at higher frequency (∼3 Hz), the frequency dependence of attenuation is very slight, revising previous interpretations. The effect of anelasticity on shear velocity (VS) is estimated from the ratio of observed velocity to the predicted anharmonic value. We use laboratory-based parameters to predict attenuation and velocity-dispersion spectra that result from the superposition of a weakly frequency dependent high-temperature background and an absorption peak. We test a large range of frequencies for the position of the absorption peak ($f_e$) and determine, at each depth, which values of fe predict Qμ and VS that can fit the NoMelt Qμ and VS values simultaneously. We show that between depths of 60 and 80 km the seismic models require an increase in fe by at least 3-4 orders of magnitude. Under the assumption that the absorption peak is caused by elastically accommodated grain-boundary sliding, this increase in fe reflects a decrease in grain-boundary viscosity of 3-4 orders of magnitude. A likely explanation is an increase in the water content of the mantle, with the base of the dehydrated lid located at ∼70-km depth.",
+    "tags": [
+      "ocean bottom seismology",
+      "anelasticity",
+      "attenuation",
+      "surface waves"
+    ],
+    "title": "Shear Attenuation and Anelastic Mechanisms in the Central Pacific Upper Mantle",
+    "type": "publication"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": " Introduction At a broad scale, evolution of the oceanic lithosphere-asthenosphere system follows a relatively simple half-space cooling model with a rigid plate overlying weaker asthenosphere that thickens with distance from the ridge. However, in detail observations such as seafloor shallowing relative to half-space cooling at ages \u0026gt;70 Ma and seafloor gravity lineations suggest deviations from this simple model. One candidate to explain these observations is small-scale convection, which has been proposed in the form of so-called \u0026ldquo;Richter rolls\u0026rdquo;. These convective cells are estimated to be ~200 km in diameter and bring hot material toward the Earth\u0026rsquo;s surface.\nThe YoungORCA experiment The YoungORCA project consists of an array of 30 broadband ocean-bottom seismometers (OBS) and aims to directly image small-scale convection. Located at ~40 Ma seafloor in the south Pacific, the array sits on distinct gravity undulations of ~200 km wavelength that may indicate convective cells in the current-day asthenosphere.  Map of the YoungORCA array with high-pass filtered free-air gravity anomaly in the background. Note the northwest-southeast trending gravity anomalies.  \nMy research utilizes surface waves (Rayleigh and Love) to investigate the physical, chemical, and thermal structure of the uppermost mantle beneath the array. These waves range in sensitivity from the crust down to ~300 km depth in the uppermost asthenosphere. From surface-wave observations of phase velocity, we constrain the shear velocity structure in the upper mantle, as well as seismic anisotropy.\nPreliminary findings We find evidence for small-scale convection beneath the YoungORCA array. Seismic anisotropy in the asthensophere reveals a fast direction rotated significantly (~25º) from the absolute plate motion (APM) direction, at odds with the predicted large-scale mantle circulation pattern. This clockwise rotation in anisotropy relative to APM may be explained by pressure-drive flow associated with the South Pacific Superswell. As hot mantle material upwells and impinges on the lithosphere, mantle should flow radially away from the plume head, producing a secondary flow direction that is consistent with what we observe.\n Elastic structure of the uppermantle beneath the YoungORCA array. Seismic anisotropy in the asthenosphere is rotated from the absolute plate motion, indicating small-scale convection.   ",
