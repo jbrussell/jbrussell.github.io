@@ -130,14 +130,6 @@ html {
   }
 }
 
-/* ********* Navigation ********* bar */
-.navbar {
-  min-height: 51px !important;
-  height: 51px;
-  background: rgba(40,40,40,1) !important;
-/*   color: #e6e6e6 !important; */
-}
-
 /* ********* Reduce size of figure captions and lighten the color ********* */
 figcaption {
   display: block;
@@ -222,6 +214,15 @@ img {
 }
 
 /* ********* NAVBAR ********* */
+
+/* ********* Navigation ********* bar */
+.navbar {
+  min-height: 51px !important;
+  height: 51px;
+  background: rgba(40,40,40,1) !important;
+/*   color: #e6e6e6 !important; */
+}
+
 .navbar-toggler {
   color: {{ .Get "menu_text" }} !important;
 }
@@ -231,11 +232,6 @@ img {
   background-color: transparent;
 }
 
-.dropdown-menu,
-nav#navbar-main li.nav-item {
-  font-size: {{ .Get "font_size_small" }}px;
-}
-
 navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus,
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
@@ -243,35 +239,55 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
-  font-weight: 600; !important;
+  font-weight: 400; !important;
+  font-size: 0.95em;
 }
 
+/* Navbar default */
+.navbar-light .navbar-nav>.nav-item>.nav-link {
+  color: {{ .Get "menu_text" }};
+  background-color: transparent;
+  font-weight: 400; !important;
+  font-size: 0.95em;
+}
+
+/* Navbar selected */
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
   color: {{ .Get "menu_text" }};
   background-color: transparent;
-  /* font-weight: 400; !important; */
+  font-weight: 400; !important;
+  font-size: 0.95em;
 }
 
+/* Navbar hover */
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
   /* color: {{ .Get "menu_text_active" }}; */
   background-color: transparent;
   color: rgba(255,255,255,0.6);
-  /* font-weight: 400; !important; */
+  font-weight: 400; !important;
+  font-size: 0.95em;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
   color: {{ .Get "menu_text_active" }};
-  font-weight: 700;
+  font-weight: 400;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
-/* Navigation bar text */
-.navbar-light {
-  font-family: '{{ .Get "nav_font" }}', sans-serif;
-  font-weight: 300;
-  line-height: 1.25;
-  text-rendering: optimizeLegibility;
+/* NAVBAR TITLE */
+.navbar-light .navbar-brand {
+  font-family: 'montserrat', sans-serif;
+  /* font-family: '{{ .Get "heading_font" }}', sans-serif; */
+  font-weight: bold;
+  font-size: 1.2em;
+  color: {{ .Get "menu_title" }};
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+  color: {{ .Get "menu_title" }};
+  background-color: transparent;
 }
 
