@@ -1459,30 +1459,24 @@ nav#navbar-main li.nav-item {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: rgba(250,250,250,0.9);
-  /* font-weight: 600; */
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
   color: rgba(250,250,250,0.9);
   background-color: transparent;
-  /* JBR */
-  font-weight: 400;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
   color: #4091f9;
   background-color: transparent;
-  /* JBR */
-  font-weight: 400;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
   color: #4091f9;
-  /* font-weight: 700; */
-  font-weight: 400;
+  font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
