@@ -18,7 +18,7 @@
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/project/obs_range/</guid>
-      <description>Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].   Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with Zach Eilon and Stephen Mosher, we have developed a new open-source tool called OBSrange for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties.</description>
+      <description>Schematic showing the ranging procedure for locating ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018].   Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with Zach Eilon and Stephen Mosher, we have developed a new open-source tool called OBSrange for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties.</description>
     </item>
     
   </channel>
