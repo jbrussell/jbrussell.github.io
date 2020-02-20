@@ -240,7 +240,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
   font-weight: 400; !important;
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 /* Navbar default */
@@ -248,7 +248,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   color: {{ .Get "menu_text" }};
   background-color: transparent;
   font-weight: 400; !important;
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 /* Navbar selected */
@@ -256,7 +256,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   color: {{ .Get "menu_text" }};
   background-color: transparent;
   font-weight: 400; !important;
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 /* Navbar hover */
@@ -265,7 +265,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   background-color: transparent;
   color: rgba(255,255,255,0.6);
   font-weight: 400; !important;
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
