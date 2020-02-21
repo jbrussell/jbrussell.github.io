@@ -307,7 +307,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 
 .codepic:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,.5);
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 /* footer font for codepic */
