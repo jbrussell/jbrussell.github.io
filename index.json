@@ -196,37 +196,6 @@
     "type": "publication"
   },
   {
-    "authors": [
-      "**J.B. Russell**",
-      "J.B. Gaherty",
-      "P.Y. Lin",
-      "D. Lizarralde",
-      "J.A. Collins",
-      "G. Hirth",
-      "R.L. Evans"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1547701200,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1547701200,
-    "objectID": "1a2e144f5d7232a08178bcf45a59b31c",
-    "permalink": "https://jbrussell.github.io/talk/publication/russell_et_al_2019_jgr/",
-    "publishdate": "2019-01-17T00:00:00-05:00",
-    "relpermalink": "/talk/publication/russell_et_al_2019_jgr/",
-    "section": "talk",
-    "summary": "Lithospheric seismic anisotropy illuminates mid-ocean ridge dynamics and the thermal evolution of oceanic plates. We utilize short-period (5–7.5 s) ambient-noise surface waves and 15- to 150-s Rayleigh waves measured across the NoMelt ocean-bottom array to invert for the complete radial and azimuthal anisotropy in the upper ∼35 km of ∼70-Ma Pacific lithospheric mantle, and azimuthal anisotropy through the underlying asthenosphere. Strong azimuthal variations in Rayleigh- and Love-wave velocity are observed, including the first clearly measured Love-wave 2𝜃 and 4𝜃 variations. Inversion of averaged dispersion requires radial anisotropy in the shallow mantle (2-3%) and the lower crust (4-5%), with horizontal velocities (Vsh) faster than vertical velocities (Vsv). Azimuthal anisotropy is strong in the mantle, with 4.5–6% 2𝜃 variation in VSV with fast propagation parallel to the fossil-spreading direction (FSD), and 2–2.5% 4𝜃 variation in Vsh with a fast direction 45º from FSD. The relative behavior of 2𝜃, 4𝜃, and radial anisotropy in the mantle are consistent with ophiolite petrofabrics, linking outcrop and surface-wave length scales. Vsv remains fast parallel to FSD to ∼80km depth where the direction changes, suggesting spreading-dominated deformation at the ridge. The transition at ∼80 km perhaps marks the dehydration boundary and base of the lithosphere. Azimuthal anisotropy strength increases from the Moho to ∼30 km depth, consistent with flow models of passive upwelling at the ridge. Strong azimuthal anisotropy suggests extremely coherent olivine fabric. Weaker radial anisotropy implies slightly nonhorizontal fabric or the presence of alternative (so-called E-type) peridotite fabric. Presence of radial anisotropy in the crust suggests subhorizontal layering and/or shearing during crustal accretion.",
-    "tags": [
-      "seismic anisotropy",
-      "surface waves",
-      "oceanic lithosphere"
-    ],
-    "title": "High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy",
-    "type": "talk"
-  },
-  {
     "authors": null,
     "categories": null,
     "content": " UNDER CONSTRUCTION\u0026hellip; CD-CAT Experiment, Central Turkey, 2015   Young Pacific ORCA, South Pacific, 2018 ",
