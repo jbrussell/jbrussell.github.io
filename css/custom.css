@@ -292,11 +292,11 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   background-color: transparent;
 }
 
-/* SET PROPERTIES OF "CODE" IMAES  */
+/* SET PROPERTIES OF "CODE" IMAGES  */
 .codepic {
   margin-bottom: 0.5rem;
   margin-top: 2rem;
-  border-radius: 10px;
+  border-radius: 8px;
   overflow: hidden;
   text-overflow: ellipsis;
   background: #fff;
@@ -310,13 +310,14 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   opacity: 0.6;
 }
 
+/* footer font for codepic */
 .smaller {
   display:inline-block;
   font-size: 0.75em;
   line-height: 1.5;
 }
 
-/* Set properties of education logos in about section */
+/******* Set properties of education logos in about section ********/
 .edulogo {
   height: 1.5rem; 
   float: left; 
