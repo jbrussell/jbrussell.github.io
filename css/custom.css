@@ -130,6 +130,7 @@ html {
   }
 }
 
+
 /* ********* Reduce size of figure captions and lighten the color ********* */
 figcaption {
   display: block;
@@ -239,7 +240,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
-  font-weight: 400; !important;
+  font-weight: 400 !important;
   font-size: 1em;
 }
 
@@ -247,7 +248,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-nav>.nav-item>.nav-link {
   color: {{ .Get "menu_text" }};
   background-color: transparent;
-  font-weight: 400; !important;
+  font-weight: 400 !important;
   font-size: 1em;
 }
 
@@ -255,7 +256,7 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
   color: {{ .Get "menu_text" }};
   background-color: transparent;
-  font-weight: 400; !important;
+  font-weight: 400 !important;
   font-size: 1em;
 }
 
@@ -291,3 +292,42 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   background-color: transparent;
 }
 
+/* SET PROPERTIES OF "CODE" IMAES  */
+.codepic {
+  margin-bottom: 0.5rem;
+  margin-top: 2rem;
+  border-radius: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.3);
+  transition: all 0.2s ease-out;
+  border: 1px solid rgba(0,0,0,0.3);
+}
+
+.codepic:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,.5);
+  opacity: 0.6;
+}
+
+.smaller {
+  display:inline-block;
+  font-size: 0.75em;
+  line-height: 1.5;
+}
+
+/* Set properties of education logos in about section */
+.edulogo {
+  height: 1.5rem; 
+  float: left; 
+  padding-top: 0.3rem; 
+  padding-right: 0.7rem;
+}
+/* height:1.5rem; float: left; padding-top: 5px; padding-right: 10px; */
+
+/****** Homepage subtitles ******/
+.section-heading p {
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: rgba(0,0,0,0.7)
+}
