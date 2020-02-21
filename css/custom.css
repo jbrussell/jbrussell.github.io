@@ -337,3 +337,8 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   font-size: 1.0rem;
   color: rgba(0,0,0,0.7)
 }
+
+/****** FIX NAVBAR DROPDOWN BACKGROUND ******/
+.dropdown-menu {
+  background-color: rgba(0,0,0,1) !important;
+}
