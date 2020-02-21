@@ -281,8 +281,8 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 .navbar-light .navbar-brand {
   font-family: 'montserrat', sans-serif;
   /* font-family: '{{ .Get "heading_font" }}', sans-serif; */
-  font-weight: bold;
-  font-size: 1.2em;
+  font-weight: 500;
+  font-size: 1.4em;
   color: {{ .Get "menu_title" }};
 }
 
@@ -307,14 +307,19 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 
 .codepic:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,.5);
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 /* footer font for codepic */
 .smaller {
   display:inline-block;
-  font-size: 0.75em;
+  font-size: 0.85em;
   line-height: 1.5;
+}
+
+/******* small text font size (i.e. cards) ********/
+.card-description{
+  font-size: 0.85em;
 }
 
 /******* Set properties of education logos in about section ********/
@@ -326,9 +331,9 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 }
 /* height:1.5rem; float: left; padding-top: 5px; padding-right: 10px; */
 
-/****** Homepage subtitles ******/
+/****** Homepage subtitles in section headings ******/
 .section-heading p {
   font-weight: 400;
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   color: rgba(0,0,0,0.7)
 }
