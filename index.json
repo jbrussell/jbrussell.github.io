@@ -1,6 +1,34 @@
 [
   {
     "authors": [
+      "W. Menke",
+      "**J.B. Russell**"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1582088400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1582088400,
+    "objectID": "1a70bc56a672f53abe17acf084d00310",
+    "permalink": "https://jbrussell.github.io/publication/menke_et_al_2020_bssa/",
+    "publishdate": "2020-02-19T00:00:00-05:00",
+    "relpermalink": "/publication/menke_et_al_2020_bssa/",
+    "section": "publication",
+    "summary": "The non-double-couple (non-DC) components of the moment tensor provide insight into the earthquake processes and anisotropy of the near-source region. We investigate the behavior of the isotropic (ISO) and compensated linear vector dipole (CLVD) components of the moment tensor for shear faulting in a transversely isotropic medium with arbitrarily oriented symmetry axis. Analytic formulas for ISO and CLVD depend on the orientation of the fault relative to the anisotropy symmetry axis as well as three anisotropic parameters, which describe deviations of the medium from isotropy. Numerical experiments are presented for the Preliminary Reference Earth Model (PREM). Both ISO and CLVD components are zero when the axis of symmetry is within the fault plane or the auxiliary plane. For any orientation in which the ISO component is zero, the CLVD component is also zero, but the opposite is not always true (e.g. for strong anisotropy). The relative signs of the non-DC components of neighboring earthquakes may help distinguish source processes from source-region anisotropy. We prove that an inversion of ISO and CLVD components of a set of earthquakes with different focal mechanisms can uniquely determine the orientation and strength of anisotropy. This study highlights the importance of the ISO component for constraining deep slab anisotropy and demonstrates that it cannot be neglected.",
+    "tags": [
+      "anisotropy",
+      "compensated linear vector dipole",
+      "moment tensor",
+      "non-double-couple components",
+      "transverse isotropy"
+    ],
+    "title": "Non-Double-Couple Components of the Moment Tensor in a Transversely Isotropic Medium",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Z. Ma",
       "C.A. Dalton",
       "**J.B. Russell**",

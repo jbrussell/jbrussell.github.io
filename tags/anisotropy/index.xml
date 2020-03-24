@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anisotropy on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/anisotropy/</link>
+    <description>Recent content in anisotropy on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/tags/anisotropy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Non-Double-Couple Components of the Moment Tensor in a Transversely Isotropic Medium</title>
+      <link>https://jbrussell.github.io/publication/menke_et_al_2020_bssa/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/publication/menke_et_al_2020_bssa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

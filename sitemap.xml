@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/publication/menke_et_al_2020_bssa/</loc>
+      <lastmod>2020-02-19T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/publication/ma_et_al_2020_epsl/</loc>
       <lastmod>2020-02-19T00:00:00-05:00</lastmod>
     </url>
@@ -446,7 +454,25 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/tags/anisotropy/</loc>
+      <lastmod>2020-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/attenuation/</loc>
+      <lastmod>2020-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/compensated-linear-vector-dipole/</loc>
       <lastmod>2020-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -457,6 +483,24 @@
     
       <loc>https://jbrussell.github.io/tags/instrumentation/</loc>
       <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/moment-tensor/</loc>
+      <lastmod>2020-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/non-double-couple-components/</loc>
+      <lastmod>2020-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -501,6 +545,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/surface-waves/</loc>
+      <lastmod>2020-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/transverse-isotropy/</loc>
       <lastmod>2020-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
