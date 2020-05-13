@@ -362,12 +362,12 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   /* font-size: .875rem */
-  font-size: 1.2rem
+  font-size: 1.5rem
 }
 .docs-toc-title {
   color: #b5b5b5;
   /* font-size: .875rem; */
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   padding-left: calc(1.5rem + 1px);
   margin-bottom: .5rem;
@@ -378,5 +378,5 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   padding: .125rem 1.5rem;
   color: #99979c;
   /* font-size: 0.7rem; */
-  font-size: 1.0rem;
+  font-size: 1.5rem;
 }
