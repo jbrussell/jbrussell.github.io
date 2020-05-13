@@ -67,11 +67,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1581829200,
-    "objectID": "d36a01e1f6c244c051a0680273573549",
-    "permalink": "https://jbrussell.github.io/project/youngorca/",
+    "objectID": "867ea00c5eef7494a10987be191cfe77",
+    "permalink": "https://jbrussell.github.io/research/youngorca/",
     "publishdate": "2020-02-16T00:00:00-05:00",
-    "relpermalink": "/project/youngorca/",
-    "section": "project",
+    "relpermalink": "/research/youngorca/",
+    "section": "research",
     "summary": "Small-scale convection, if it exists, should be detectable using high resolution ocean-bottom seismology. We use surface-wave imaging to investigate mantle flow patterns and evaluate whether SSC persists.",
     "tags": [
       "Seismic Anisotropy",
@@ -79,7 +79,7 @@
       "Ambient Noise"
     ],
     "title": "Young ORCA: Searching for small-scale convection in the south Pacific",
-    "type": "project"
+    "type": "research"
   },
   {
     "authors": [
@@ -251,11 +251,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540872000,
-    "objectID": "8dd1cc6ae57c3c8f675f729fba3eaaed",
-    "permalink": "https://jbrussell.github.io/project/nomelt/",
+    "objectID": "a85181a6fb67bb7341d5cf7e3a178611",
+    "permalink": "https://jbrussell.github.io/research/nomelt/",
     "publishdate": "2018-10-30T00:00:00-04:00",
-    "relpermalink": "/project/nomelt/",
-    "section": "project",
+    "relpermalink": "/research/nomelt/",
+    "section": "research",
     "summary": "We have comprehensively characterized the anisotropic structure of ~70 Ma oceanic lithosphere. This has helped us better understand mid-ocean ridge processes and the evolution of oceanic basins.",
     "tags": [
       "Seismic Anisotropy",
@@ -263,7 +263,7 @@
       "Ambient Noise"
     ],
     "title": "NoMelt: seismic constraints on oceanic lithosphere petrofabric",
-    "type": "project"
+    "type": "research"
   },
   {
     "authors": null,
@@ -274,11 +274,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540872000,
-    "objectID": "c19ffe57c1c489780ea994692a74b2f5",
-    "permalink": "https://jbrussell.github.io/project/obs_range/",
+    "objectID": "b8ed4ced4e0fc19a6fbc9000dd5cbfb6",
+    "permalink": "https://jbrussell.github.io/research/obs_range/",
     "publishdate": "2018-10-30T00:00:00-04:00",
-    "relpermalink": "/project/obs_range/",
-    "section": "project",
+    "relpermalink": "/research/obs_range/",
+    "section": "research",
     "summary": "A robust, efficient, open-source OBS location tool available in both MATLAB and Python.",
     "tags": [
       "Tools",
@@ -286,7 +286,7 @@
       "Inverse Theory"
     ],
     "title": "OBSrange: A new tool for the precise location of ocean bottom seismometers",
-    "type": "project"
+    "type": "research"
   },
   {
     "authors": [
@@ -391,11 +391,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540785600,
-    "objectID": "ce5130894c8dba15f26589da76fe3945",
-    "permalink": "https://jbrussell.github.io/project/enam/",
+    "objectID": "0cb256d910588cd0f791e6db6b40978f",
+    "permalink": "https://jbrussell.github.io/research/enam/",
     "publishdate": "2018-10-29T00:00:00-04:00",
-    "relpermalink": "/project/enam/",
-    "section": "project",
+    "relpermalink": "/research/enam/",
+    "section": "research",
     "summary": "This project aims to better understand mantle dynamic associated with breakup of Pangaea from relic fabrics recorded in the oceanic lithosphere.",
     "tags": [
       "Seismic Anisotropy",
@@ -403,7 +403,7 @@
       "Ambient Noise"
     ],
     "title": "ENAM: Seismic anisotropy of the Eastern North American Margin",
-    "type": "project"
+    "type": "research"
   },
   {
     "authors": null,
@@ -489,11 +489,11 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1540699200,
-    "objectID": "b94e99d24f235fba34bb688670cbe0be",
-    "permalink": "https://jbrussell.github.io/project/love_overtones/",
+    "objectID": "5694190403e98ab37af2dd8b7aaf510d",
+    "permalink": "https://jbrussell.github.io/research/love_overtones/",
     "publishdate": "2018-10-28T00:00:00-04:00",
-    "relpermalink": "/project/love_overtones/",
-    "section": "project",
+    "relpermalink": "/research/love_overtones/",
+    "section": "research",
     "summary": "Love wave propagation is complex in ocean environments consisting of strong overtone interference. We aim to utilize these higher modes in order to image velocity structure to deeper depths.",
     "tags": [
       "Wave Propagation",
@@ -501,6 +501,6 @@
       "Overtones"
     ],
     "title": "Wave propagation: Love wave overtone interference",
-    "type": "project"
+    "type": "research"
   }
 ]
