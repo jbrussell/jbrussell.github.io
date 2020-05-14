@@ -377,8 +377,8 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   display: block;
   padding: .125rem 1.5rem;
   color: #99979c;
-  /* font-size: 0.7rem; */
-  font-size: 1.0rem;
+  font-size: 0.7rem;
+  /* font-size: 1.0rem; */
 }
 /* Docs - remove date on footer by setting font size to 0px */
 .docs .body-footer {
