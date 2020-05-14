@@ -361,13 +361,13 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
   order: 2;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-  /* font-size: .875rem */
-  font-size: 1.2rem
+  font-size: .875rem
+  /* font-size: 1.2rem */
 }
 .docs-toc-title {
   color: #b5b5b5;
-  /* font-size: .875rem; */
-  font-size: 1.2rem;
+  font-size: .875rem;
+  /* font-size: 1.2rem; */
   font-weight: 600;
   padding-left: calc(1.5rem + 1px);
   margin-bottom: .5rem;
