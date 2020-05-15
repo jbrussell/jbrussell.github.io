@@ -13,22 +13,20 @@
     
     
     <item>
-      <title>Part1a</title>
-      <link>https://jbrussell.github.io/eilive2020/part1a/</link>
+      <title>Global Earthquakes</title>
+      <link>https://jbrussell.github.io/eilive2020/part1a_globalearthquakes/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/eilive2020/part1a/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+      <guid>https://jbrussell.github.io/eilive2020/part1a_globalearthquakes/</guid>
+      <description>Global seismicity         function HoloViewsWidget() { } HoloViewsWidget.prototype.init_slider = function(init_val){ if(this.load_json) { this.from_json() } else { this.update_cache(); } } HoloViewsWidget.prototype.populate_cache = function(idx){ this.cache[idx].innerHTML = this.frames[idx]; if (this.embed) { delete this.frames[idx]; } } HoloViewsWidget.prototype.process_error = function(msg){ } HoloViewsWidget.prototype.from_json = function() { var data_url = this.json_path + this.id + &#39;.json&#39;; $.getJSON(data_url, $.proxy(function(json_data) { this.frames = json_data; this.update_cache(); this.update(0); }, this)); } HoloViewsWidget.prototype.dynamic_update = function(current){ if (current === undefined) { return } this.</description>
     </item>
     
     <item>
       <title>Part1b</title>
-      <link>https://jbrussell.github.io/eilive2020/part1b/</link>
+      <link>https://jbrussell.github.io/eilive2020/part1b_seismicnoisenyc/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/eilive2020/part1b/</guid>
+      <guid>https://jbrussell.github.io/eilive2020/part1b_seismicnoisenyc/</guid>
       <description>import bokeh from bokeh.models import Line, Span, ColumnDataSource, DatetimeTickFormatter from bokeh.plotting import figure, output_notebook, show, output_file import time # Define figure attributes p = figure(x_axis_type=&#39;datetime&#39;,plot_width=800, plot_height=400, sizing_mode = &#39;scale_width&#39;, x_range=(df.t_cent.min(),df.t_cent.max()), y_range=([0, df.daily_average.max()*1e9*2]), x_axis_label=&#39;Date&#39;, y_axis_label=&#39;Average Ground Displacement (nm)&#39;, title=&#39;NYC Seismic Noise&#39;, tools=[&#39;save&#39;,&#39;box_zoom&#39;,&#39;ywheel_zoom&#39;,&#39;xwheel_zoom&#39;,&#39;reset&#39;,&#39;crosshair&#39;,&#39;pan&#39;]) # Plot lines for hourly and daily displacement p.multi_line([df.t_cent, df.t_cent], [df.disp_avg*1e9, df.daily_average*1e9], line_color=[&amp;quot;lightsteelblue&amp;quot;,&amp;quot;steelblue&amp;quot;], line_width=[2, 4]) # Plot vertical lines marking stay at home and first nyc death # First need to convert datetime to milliseconds for some reason.</description>
     </item>
     
@@ -38,8 +36,7 @@ Tip 2 &amp;hellip;</description>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/eilive2020/part2/</guid>
-      <description>Part 1 of 2: Data Storytelling in Python (Grades 10-12) Monday, May 18, 2020 | 2:00 to 3:00pm EDT
-Have you ever wondered how scientists transform data into a visual story? In this session, Josh will take you on a journey through the Python programming language from the ground up with real examples using data from the earth sciences. During this Tour de Python, you will learn about data visualization, earthquakes, plate tectonics, and even run your very own Python code!</description>
+      <description>Bokeh Plot     Bokeh.set_log_level(&#34;info&#34;);  (function(root, factory) { factory(root[&#34;Bokeh&#34;]); })(this, function(Bokeh) { var define; return (function outer(modules, entry) { if (Bokeh != null) { return Bokeh.register_plugin(modules, entry); } else { throw new Error(&#34;Cannot find Bokeh. You have to load it prior to loading plugins.&#34;); } }) ({ &#34;custom/main&#34;: function(require, module, exports) { var models = { &#34;AudioPlayerModel&#34;: require(&#34;custom/bokeh_audio_player.audio_player_model&#34;).AudioPlayerModel }; require(&#34;base&#34;).register_models(models); module.exports = models; }, &#34;custom/bokeh_audio_player.audio_player_model&#34;: function(require, module, exports) { &#34;</description>
     </item>
     
   </channel>
