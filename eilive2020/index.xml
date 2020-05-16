@@ -67,6 +67,16 @@ We can start by looking at where earthquakes occur spatially. The interactive ma
     </item>
     
     <item>
+      <title>Global Seismicity</title>
+      <link>https://jbrussell.github.io/eilive2020/part1a_globalearthquakes3/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/eilive2020/part1a_globalearthquakes3/</guid>
+      <description>Hundreds of earthquakes occur across the globe every day, but most of them are too small for people to feel. Here, we will dive into the data and explore some of the larger magnitude earthquakes (greater than M5.0) that have occurred over the past several years.
+We can start by looking at where earthquakes occur spatially. The interactive map below shows the past 5 years of earthquakes, where each circle represents a single earthquake.</description>
+    </item>
+    
+    <item>
       <title>Seismic Noise in New York City</title>
       <link>https://jbrussell.github.io/eilive2020/part1b_seismicnoisenyc/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
