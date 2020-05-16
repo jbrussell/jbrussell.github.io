@@ -423,6 +423,7 @@ Try making changes to the code and rerunning it to see how the output changes.">
 <ul>
 <li><a href="#starting-simple">Starting simple</a></li>
 </ul></li>
+<li><a href="#plot-earthquakes">Plot Earthquakes</a></li>
 </ul>
 </nav>
 
@@ -456,7 +457,23 @@ Try making changes to the code and rerunning it to see how the output changes.">
 
 <p>Try making changes to the code and rerunning it to see how the output changes.</p>
 
-<iframe src="https://trinket.io/embed/python3/bbda930e37" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/bbda930e37?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+<p></p>
+
+<h1 id="plot-earthquakes">Plot Earthquakes</h1>
+
+<p>Trinkets can also include data files. Here we have added a file called <code>earthquakes.csv</code>, which contains a comma-separated list of all earthquakes greater than magnitude 5.0 from 2015&ndash;2020. The columns of the data file are <code>time</code>, <code>latitude</code>, <code>longitude</code>, <code>depth</code>, and <code>mag</code> which can be loaded into a dataframe using a single line with pandas.</p>
+
+<pre><code class="language-python">import pandas as pd
+
+# Load earthquake data
+df = pd.read_csv(&quot;earthquakes.csv&quot;)
+</code></pre>
+
+<p>In the trinket below, the data is loaded in and plotted on top of a PNG image of the Earth. We have the option to filter the data based on magnitude (<code>min_mag</code>, <code>max_mag</code>) and depth (<code>min_depth</code>, <code>max_depth</code>).</p>
+
+<iframe src="https://trinket.io/embed/python3/67fdb9b847?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
           </div>
 
