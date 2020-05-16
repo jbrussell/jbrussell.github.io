@@ -57,6 +57,18 @@ We start by looking at where earthquakes occur spatially. The interactive map be
     </item>
     
     <item>
+      <title>Making Your Own Maps With trinket.io</title>
+      <link>https://jbrussell.github.io/eilive2020/part1a3_makeyourown/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/eilive2020/part1a3_makeyourown/</guid>
+      <description>Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run Python code directly in the browser! Just click the  button in the top bar to run the code.
+Starting simple Our first example is a simple sinusoid with frequency $f$ and amplitude $A$:
+$$ y = A \sin (f x) $$
+Try making changes to the code and rerunning it to see how the output changes.</description>
+    </item>
+    
+    <item>
       <title>Seismic Noise in New York City</title>
       <link>https://jbrussell.github.io/eilive2020/part1b_seismicnoisenyc/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
