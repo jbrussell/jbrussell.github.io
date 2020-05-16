@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run Python code directly in the browser! Just click the  button in the top bar to run the code.
+  <meta name="description" content="Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run snippets of Python code directly in your internet browser! Just click the  button in the top bar to run the code.
 Starting simple Our first example is a simple sinusoid with frequency $f$ and amplitude $A$:
 $$ y = A \sin (f x) $$
 Try making changes to the code and rerunning it to see how the output changes.">
@@ -113,7 +113,7 @@ Try making changes to the code and rerunning it to see how the output changes.">
   <meta property="og:site_name" content="Joshua Russell">
   <meta property="og:url" content="https://jbrussell.github.io/eilive2020/part1a3_makeyourown/">
   <meta property="og:title" content="Making Your Own Maps With trinket.io | Joshua Russell">
-  <meta property="og:description" content="Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run Python code directly in the browser! Just click the  button in the top bar to run the code.
+  <meta property="og:description" content="Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run snippets of Python code directly in your internet browser! Just click the  button in the top bar to run the code.
 Starting simple Our first example is a simple sinusoid with frequency $f$ and amplitude $A$:
 $$ y = A \sin (f x) $$
 Try making changes to the code and rerunning it to see how the output changes.">
@@ -419,10 +419,7 @@ Try making changes to the code and rerunning it to see how the output changes.">
 
       <nav id="TableOfContents">
 <ul>
-<li>
-<ul>
 <li><a href="#starting-simple">Starting simple</a></li>
-</ul></li>
 <li><a href="#plot-earthquakes">Plot Earthquakes</a></li>
 </ul>
 </nav>
@@ -447,23 +444,24 @@ Try making changes to the code and rerunning it to see how the output changes.">
           <div class="article-style" itemprop="articleBody">
             
 
-<p>Now we will use <a href="https://trinket.io/" target="_blank">trinket.io</a> to make our own earthquake maps with Python. Trinkets allow you to run Python code directly in the browser! Just click the <i class="fas fa-play"></i> button in the top bar to run the code.</p>
+<p>Now we will use <a href="https://trinket.io/" target="_blank">trinket.io</a> to make our own earthquake maps with Python. Trinkets allow you to run snippets of Python code directly in your internet browser! Just click the <i class="fas fa-play"></i> button in the top bar to run the code.</p>
 
-<h2 id="starting-simple">Starting simple</h2>
+<h1 id="starting-simple">Starting simple</h1>
 
 <p>Our first example is a simple sinusoid with frequency $f$ and amplitude $A$:</p>
 
 <p>$$ y = A \sin (f x) $$</p>
 
-<p>Try making changes to the code and rerunning it to see how the output changes.</p>
+<p>Try making changes to the code and rerunning it to see how the output changes. * Hint: We will be returning to waves in Part 2!</p>
 
 <iframe src="https://trinket.io/embed/python3/bbda930e37?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<p></p>
+<p><br />
+</p>
 
 <h1 id="plot-earthquakes">Plot Earthquakes</h1>
 
-<p>Trinkets can also include data files. Here we have added a file called <code>earthquakes.csv</code>, which contains a comma-separated list of all earthquakes greater than magnitude 5.0 from 2015&ndash;2020. The columns of the data file are <code>time</code>, <code>latitude</code>, <code>longitude</code>, <code>depth</code>, and <code>mag</code> which can be loaded into a dataframe using a single line with pandas.</p>
+<p>Trinkets can also include data files. Here we have added a file called <code>earthquakes.csv</code>, which contains a comma-separated list of all earthquakes greater than magnitude 5.0 from 2015&ndash;2020. The columns of the data file are <code>time</code>, <code>latitude</code>, <code>longitude</code>, <code>depth</code>, and <code>mag</code> and can be loaded into a Pandas dataframe using a single line:</p>
 
 <pre><code class="language-python">import pandas as pd
 
@@ -471,9 +469,27 @@ Try making changes to the code and rerunning it to see how the output changes.">
 df = pd.read_csv(&quot;earthquakes.csv&quot;)
 </code></pre>
 
-<p>In the trinket below, the data is loaded in and plotted on top of a PNG image of the Earth. We have the option to filter the data based on magnitude (<code>min_mag</code>, <code>max_mag</code>) and depth (<code>min_depth</code>, <code>max_depth</code>).</p>
+<p>The trinket below loads the data and plots it on top of a PNG image of the Earth. We have the option to filter the data based on depth (<code>min_depth</code>, <code>max_depth</code>) and magnitude (<code>min_mag</code>, <code>max_mag</code>).</p>
 
-<iframe src="https://trinket.io/embed/python3/67fdb9b847?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/a89c18431a?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+<p></p>
+
+<div class="alert alert-note">
+  <ul>
+<li><strong>CHALLENGE:</strong> Try building your own filter that only shows earthquakes within a specified latitude and longitude range.</li>
+</ul>
+
+<p>Hint: Try modifying these lines in the trinket code</p>
+
+<pre><code class="language-python">#--------- FILTER DATA ----------#
+index_depth = (df.depth &gt;= min_depth) &amp; (df.depth &lt;= max_depth)
+index_mag = (df.mag &gt;= min_mag) &amp; (df.mag &lt;= max_mag)
+df_filt = df[index_depth &amp; index_mag]
+</code></pre>
+
+</div>
+
 
           </div>
 

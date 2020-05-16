@@ -43,7 +43,7 @@
       
       <guid>https://jbrussell.github.io/eilive2020/part1a2_magnitudedepth/</guid>
       <description>Magnitude and depth are two key features of an earthquake that are especially important for hazards. Typically, the shallower the earthquake and larger the magnitude, the more potential for destruction.
-In the two figures below, we can explore relationships between earthquake magnitude and depth using what&amp;rsquo;s sometimes called &amp;ldquo;linking and brushing&amp;rdquo; in data science. Selecting data in one figure will highlight the corresponding point on the other. This helps to gain an understanding of multidimensional datasets.</description>
+In the two figures below, we can explore relationships between earthquake magnitude and depth using what&amp;rsquo;s sometimes called &amp;ldquo;linking and brushing&amp;rdquo;. Selecting data in one figure will highlight the corresponding point on the other. This helps to gain a grasp of complicated multidimensional datasets.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ We start by looking at where earthquakes occur spatially. The interactive map be
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/eilive2020/part1a3_makeyourown/</guid>
-      <description>Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run Python code directly in the browser! Just click the  button in the top bar to run the code.
+      <description>Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run snippets of Python code directly in your internet browser! Just click the  button in the top bar to run the code.
 Starting simple Our first example is a simple sinusoid with frequency $f$ and amplitude $A$:
 $$ y = A \sin (f x) $$
 Try making changes to the code and rerunning it to see how the output changes.</description>
