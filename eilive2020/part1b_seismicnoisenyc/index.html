@@ -356,11 +356,11 @@ In this section, we will explore data from a seismometer currently installed in 
       </li>
       
       <li >
-        <a href="/eilive2020/part1a2_magnitudedepth/">Earthquake Magnitude and Depth</a>
+        <a href="/eilive2020/part1a2_makeyourown/">Make Your Own Maps</a>
       </li>
       
       <li >
-        <a href="/eilive2020/part1a3_makeyourown/">Make Your Own Maps</a>
+        <a href="/eilive2020/part1a3_magnitudedepth/">Earthquake Magnitude and Depth</a>
       </li>
       
       <li class="active">
@@ -416,6 +416,7 @@ In this section, we will explore data from a seismometer currently installed in 
       <nav id="TableOfContents">
 <ul>
 <li><a href="#make-your-own-noise-plots">Make your own noise plots</a></li>
+<li><a href="#comparison-with-electricity-consumption">Comparison with electricity consumption</a></li>
 </ul>
 </nav>
 
@@ -447,7 +448,7 @@ In this section, we will explore data from a seismometer currently installed in 
 
 <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1Hz6JR0IILBPtMUiWBPq9jbY7c0U4x630&hl=en" width="640" height="480"></iframe> -->
 
-<p><a href="https://nbviewer.jupyter.org/github/jbrussell/EI_Live_2020/blob/master/NYC_SeismicNoise_and_Electricity/2_plot_noise_interactive.ipynb" target="_blank"><i class="fab fa-github"></i> 2_plot_noise_interactive.ipynb</a></p>
+<p><a href="https://nbviewer.jupyter.org/github/jbrussell/EI_Live_2020/blob/master/NYC_SeismicNoise_and_Electricity/2_plot_noise_interactive.ipynb" target="_blank"><i class="fab fa-github"></i> view code</a></p>
 
 <!-- layouts/partials/bokeh -->
 
@@ -541,12 +542,18 @@ In this section, we will explore data from a seismometer currently installed in 
 
 <h1 id="make-your-own-noise-plots">Make your own noise plots</h1>
 
-<iframe src="https://trinket.io/embed/python3/600f40f1cf" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/02862aa480?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <p><br />
 </p>
 
-<p><a href="https://nbviewer.jupyter.org/github/jbrussell/EI_Live_2020/blob/master/NYC_SeismicNoise_and_Electricity/4_plot_noise_NYCusage_interactive.ipynb" target="_blank"><i class="fab fa-github"></i>4_plot_noise_NYCusage_interactive.ipynb</a></p>
+<h1 id="comparison-with-electricity-consumption">Comparison with electricity consumption</h1>
+
+<p>A recent <a href="https://www.nytimes.com/interactive/2020/04/08/upshot/electricity-usage-predict-coronavirus-recession.html" target="_blank">New York Times article</a> showed a decrease in electricity consumption in NYC due to COVID-19 related shutdowns of businesses. This is important because most economic indicators are slow and require time, but electricity consumption data is typically reported hourly, providing nearly realtime information on economic status.</p>
+
+<p>Below is a figure showing hourly electricity load pulled from the <a href="http://mis.nyiso.com/public/" target="_blank">public NYC ISO database</a> with respect to the average of the previous 4 years (2016-2019), compared with the seismic noise levels at Central Park from above. Visually, there is an excellent correlation between the two. Both dropped during initial lockdown and have apparently begun to increase toward the pre-lockdown levels.</p>
+
+<p><a href="https://nbviewer.jupyter.org/github/jbrussell/EI_Live_2020/blob/master/NYC_SeismicNoise_and_Electricity/4_plot_noise_NYCusage_interactive.ipynb" target="_blank"><i class="fab fa-github"></i> view code</a></p>
 
 <!-- layouts/partials/bokeh -->
 
