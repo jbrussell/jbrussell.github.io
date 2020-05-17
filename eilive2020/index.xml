@@ -68,6 +68,7 @@ We start by looking at where earthquakes occur spatially. The interactive map be
       
       <guid>https://jbrussell.github.io/eilive2020/part1a3_makeyourown/</guid>
       <description>Now we will use trinket.io to make our own earthquake maps with Python. Trinkets allow you to run snippets of Python code directly in your internet browser! Just click the  button in the top bar to run the code.
+
 Starting simple Our first example is a simple sinusoid with frequency $f$ and amplitude $A$:
 $$ y = A \sin (f x) $$
 Try making changes to the code and rerunning it to see how the output changes.</description>
