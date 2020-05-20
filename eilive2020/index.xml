@@ -51,6 +51,15 @@ We start by looking at where earthquakes occur spatially. The interactive map be
     </item>
     
     <item>
+      <title>2011 Tohoku Earthquake</title>
+      <link>https://jbrussell.github.io/eilive2020/part2b_tohoku2011/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/eilive2020/part2b_tohoku2011/</guid>
+      <description>Bokeh Plot     Bokeh.set_log_level(&#34;info&#34;);  (function(root, factory) { factory(root[&#34;Bokeh&#34;]); })(this, function(Bokeh) { var define; return (function outer(modules, entry) { if (Bokeh != null) { return Bokeh.register_plugin(modules, entry); } else { throw new Error(&#34;Cannot find Bokeh. You have to load it prior to loading plugins.&#34;); } }) ({ &#34;custom/main&#34;: function(require, module, exports) { var models = { &#34;AudioPlayerModel&#34;: require(&#34;custom/bokeh_audio_player.audio_player_model&#34;).AudioPlayerModel }; require(&#34;base&#34;).register_models(models); module.exports = models; }, &#34;custom/bokeh_audio_player.audio_player_model&#34;: function(require, module, exports) { &#34;</description>
+    </item>
+    
+    <item>
       <title>Making Your Own Maps With trinket.io</title>
       <link>https://jbrussell.github.io/eilive2020/part1a2_makeyourown/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
@@ -74,12 +83,21 @@ Shown below is data from a seismometer currently installed in Central Park as pa
     </item>
     
     <item>
+      <title>2011 Tohoku Earthquake</title>
+      <link>https://jbrussell.github.io/eilive2020/part2c_noisenyc/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/eilive2020/part2c_noisenyc/</guid>
+      <description>UNDER CONSTRUCTION</description>
+    </item>
+    
+    <item>
       <title>Making Sounds From Data</title>
       <link>https://jbrussell.github.io/eilive2020/part2a_sonification/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/eilive2020/part2a_sonification/</guid>
-      <description>UNDER CONSTRUCTION</description>
+      <description>The human ear is hardwired to find patterns within complex sounds. Together with visual cues, we can use data sonification &amp;mdash; or turning data into sound &amp;mdash; to extract new information from complicated datasets that may be missed by just looking at the data. The Seismic Sound Lab at the Lamont-Doherty Earth Observatory works to combine both senses with audio-visuals in order to learn new things about the Earth as well as to communicate that knowledge to the general public.</description>
     </item>
     
   </channel>
