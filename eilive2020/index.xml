@@ -56,7 +56,10 @@ We start by looking at where earthquakes occur spatially. The interactive map be
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/eilive2020/part2b_tohoku2011/</guid>
-      <description>Bokeh Plot     Bokeh.set_log_level(&#34;info&#34;);  (function(root, factory) { factory(root[&#34;Bokeh&#34;]); })(this, function(Bokeh) { var define; return (function outer(modules, entry) { if (Bokeh != null) { return Bokeh.register_plugin(modules, entry); } else { throw new Error(&#34;Cannot find Bokeh. You have to load it prior to loading plugins.&#34;); } }) ({ &#34;custom/main&#34;: function(require, module, exports) { var models = { &#34;AudioPlayerModel&#34;: require(&#34;custom/bokeh_audio_player.audio_player_model&#34;).AudioPlayerModel }; require(&#34;base&#34;).register_models(models); module.exports = models; }, &#34;custom/bokeh_audio_player.audio_player_model&#34;: function(require, module, exports) { &#34;</description>
+      <description>INTRO
+In this section, we will listen to seismic data at the 3 stations shown in the map below. They represent close, intermediate, and far distances from the earthquake epicenter.
+ The Background Noise Before we listen to the earthquakes, we will first listen to the background noise levels at one of the three stations, P39A, in Salisbury, MO.
+ What do you notice about the background noise? Are there any dominant frequencies?</description>
     </item>
     
     <item>
@@ -83,16 +86,17 @@ Shown below is data from a seismometer currently installed in Central Park as pa
     </item>
     
     <item>
-      <title>2011 Tohoku Earthquake</title>
+      <title>The Sound of NYC</title>
       <link>https://jbrussell.github.io/eilive2020/part2c_noisenyc/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/eilive2020/part2c_noisenyc/</guid>
-      <description>UNDER CONSTRUCTION</description>
+      <description>Finally, we return to the ground vibrations measured in Central Park that we looked at in section Seismic Noise in NYC. However, because we need a waveform that oscillates around zero in order to turn it into sound, we remove the daily running average from the minute-by-minute measurements. The resulting waveform and spectrogram is shown below.
+The daily noise cycle due to people and traffic can be heard clearly. The daily signal is also the main feature of the waveform and appears as a bright streak along the bottom of the spectrogram.</description>
     </item>
     
     <item>
-      <title>Making Sounds From Data</title>
+      <title>Turning Data Into Sound</title>
       <link>https://jbrussell.github.io/eilive2020/part2a_sonification/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
       
