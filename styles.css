@@ -17,14 +17,14 @@
  **************************************************/
 
 html {
-  font-family: 'Muli', sans-serif;
-  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 17px;
+    font-size: 16px;
   }
 }
 
@@ -164,7 +164,7 @@ figcaption h4 {
 
 pre,
 code {
-  font-family: 'Roboto+Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   color: #c7254e;
   background-color: #f9f2f4;
 }
@@ -1449,7 +1449,7 @@ a.badge:hover {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 17px;
+  font-size: 16px;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
