@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/publication/maurer_et_al_2020_sciadv/</loc>
+      <lastmod>2020-09-16T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/publication/accardo_et_al_2020_g3/</loc>
       <lastmod>2020-05-20T00:00:00-04:00</lastmod>
     </url>
@@ -293,7 +301,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/publication_types/2/</loc>
-      <lastmod>2020-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-09-16T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -347,6 +355,15 @@
     
       <loc>https://jbrussell.github.io/tags/free-oscillations/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/glof/</loc>
+      <lastmod>2020-09-16T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -445,7 +462,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/publication_types/</loc>
-      <lastmod>2020-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-09-16T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -615,6 +632,15 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/tags/remote-sensing/</loc>
+      <lastmod>2020-09-16T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/rifting/</loc>
       <lastmod>2020-05-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -626,6 +652,15 @@
     
       <loc>https://jbrussell.github.io/tags/seismic-anisotropy/</loc>
       <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/seismology/</loc>
+      <lastmod>2020-09-16T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
