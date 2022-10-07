@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.1.0">
+  <meta name="generator" content="Hugo 0.50" />
+  <meta name="author" content="Joshua Russell">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Seismic anisotropy produced by aligned olivine in oceanic lithosphere offers a window into mid-ocean ridge dynamics. Yet, interpreting anisotropy in the context of grain-scale deformation processes and strain observed in laboratory experiments and natural olivine samples has proven challenging due to incomplete seismological constraints and length scale differences spanning orders of magnitude. To bridge this observational gap, we estimate an in situ elastic tensor for oceanic lithosphere using co-located compressional- and shear-wavespeed anisotropy observations at the NoMelt experiment located on ∼ 70 Ma seafloor. The elastic model for the upper 7 km of the mantle, NoMelt_SPani7, is characterized by a fast azimuth parallel to the fossil-spreading direction, consistent with corner-flow deformation fabric. We compare this model with a database of 123 petrofabrics from the literature to infer olivine crystallographic orientations and shear strain accumulated within the lithosphere. Direct comparison to olivine deformation experiments indicates strain accumulation of 250–400% in the shallow mantle. We find evidence for D-type olivine lattice-preferred orientation (LPO) with fast [100] parallel to the shear direction and girdled [010] and [001] crystallographic axes perpendicular to shear. D-type LPO implies similar amounts of slip on the (010)[100] and (001)[100] easy slip systems during mid-ocean ridge spreading; we hypothesize that grain-boundary sliding during dislocation creep relaxes strain compatibility, allowing D-type LPO to develop in the shallow lithosphere. Deformation dominated by dislocation-accommodated grain-boundary sliding (disGBS) has implications for in situ stress and grain size during mid-ocean ridge spreading and implies grain-size dependent deformation, in contrast to pure dislocation creep.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://jbrussell.github.io/publication/russell_et_al_2022_g3/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#4091f9">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-dark.min.css" crossorigin="anonymous">
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,600,700|Muli:400,600,700|Montserrat:400,500,600,700|Open+Sans:400,600,700|Roboto+Mono|Julius+Sans+One|Cairo:400|Ubuntu:400,700|Lato:400,600,700|Noto+Sans:400,600,700">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+  <link rel="stylesheet" href="/css/custom.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-128575065-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="https://jbrussell.github.io/index.xml" type="application/rss+xml" title="Joshua Russell">
+  <link rel="feed" href="https://jbrussell.github.io/index.xml" type="application/rss+xml" title="Joshua Russell">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://jbrussell.github.io/publication/russell_et_al_2022_g3/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@JBRussell_">
+  <meta property="twitter:creator" content="@JBRussell_">
+  
+  <meta property="og:site_name" content="Joshua Russell">
+  <meta property="og:url" content="https://jbrussell.github.io/publication/russell_et_al_2022_g3/">
+  <meta property="og:title" content="Seismological evidence for girdled olivine lattice-preferred orientation in oceanic lithosphere and implications for mantle deformation processes during seafloor spreading | Joshua Russell">
+  <meta property="og:description" content="Seismic anisotropy produced by aligned olivine in oceanic lithosphere offers a window into mid-ocean ridge dynamics. Yet, interpreting anisotropy in the context of grain-scale deformation processes and strain observed in laboratory experiments and natural olivine samples has proven challenging due to incomplete seismological constraints and length scale differences spanning orders of magnitude. To bridge this observational gap, we estimate an in situ elastic tensor for oceanic lithosphere using co-located compressional- and shear-wavespeed anisotropy observations at the NoMelt experiment located on ∼ 70 Ma seafloor. The elastic model for the upper 7 km of the mantle, NoMelt_SPani7, is characterized by a fast azimuth parallel to the fossil-spreading direction, consistent with corner-flow deformation fabric. We compare this model with a database of 123 petrofabrics from the literature to infer olivine crystallographic orientations and shear strain accumulated within the lithosphere. Direct comparison to olivine deformation experiments indicates strain accumulation of 250–400% in the shallow mantle. We find evidence for D-type olivine lattice-preferred orientation (LPO) with fast [100] parallel to the shear direction and girdled [010] and [001] crystallographic axes perpendicular to shear. D-type LPO implies similar amounts of slip on the (010)[100] and (001)[100] easy slip systems during mid-ocean ridge spreading; we hypothesize that grain-boundary sliding during dislocation creep relaxes strain compatibility, allowing D-type LPO to develop in the shallow lithosphere. Deformation dominated by dislocation-accommodated grain-boundary sliding (disGBS) has implications for in situ stress and grain size during mid-ocean ridge spreading and implies grain-size dependent deformation, in contrast to pure dislocation creep.">
+  
+  
+    
+  <meta property="og:image" content="https://jbrussell.github.io/img/headers/darkOBS3_NoMelt2_vignette2.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2022-10-06T00:00:00-04:00">
+  
+  <meta property="article:modified_time" content="2022-10-06T00:00:00-04:00">
+  
+
+  
+
+  
+
+  <title>Seismological evidence for girdled olivine lattice-preferred orientation in oceanic lithosphere and implications for mantle deformation processes during seafloor spreading | Joshua Russell</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-md py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Joshua Russell</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#research">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#talks">
+            
+            <span>Presentations</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#code">
+            
+            <span>Code</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#outreach">
+            
+            <span>Outreach</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/RussellJ_CV.pdf" target="_blank" rel="noopener">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span></span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Seismological evidence for girdled olivine lattice-preferred orientation in oceanic lithosphere and implications for mantle deformation processes during seafloor spreading</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name"><strong>J.B. Russell</strong></span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">J.B. Gaherty</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">H.F. Mark</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">G. Hirth</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">L.N. Hansen</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">D. Lizarralde</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">J.A. Collins</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">R.L. Evans</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2022-10-06 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2022-10-06 00:00:00 -0400 EDT" itemprop="dateModified">
+      Oct 6, 2022
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Joshua Russell">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Seismological%20evidence%20for%20girdled%20olivine%20lattice-preferred%20orientation%20in%20oceanic%20lithosphere%20and%20implications%20for%20mantle%20deformation%20processes%20during%20seafloor%20spreading&amp;url=https%3a%2f%2fjbrussell.github.io%2fpublication%2frussell_et_al_2022_g3%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fjbrussell.github.io%2fpublication%2frussell_et_al_2022_g3%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fjbrussell.github.io%2fpublication%2frussell_et_al_2022_g3%2f&amp;title=Seismological%20evidence%20for%20girdled%20olivine%20lattice-preferred%20orientation%20in%20oceanic%20lithosphere%20and%20implications%20for%20mantle%20deformation%20processes%20during%20seafloor%20spreading"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fjbrussell.github.io%2fpublication%2frussell_et_al_2022_g3%2f&amp;title=Seismological%20evidence%20for%20girdled%20olivine%20lattice-preferred%20orientation%20in%20oceanic%20lithosphere%20and%20implications%20for%20mantle%20deformation%20processes%20during%20seafloor%20spreading"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Seismological%20evidence%20for%20girdled%20olivine%20lattice-preferred%20orientation%20in%20oceanic%20lithosphere%20and%20implications%20for%20mantle%20deformation%20processes%20during%20seafloor%20spreading&amp;body=https%3a%2f%2fjbrussell.github.io%2fpublication%2frussell_et_al_2022_g3%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="https://doi.org/10.1029/2022GC010542" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/Russell_et_al_2022_G3.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1029/2022GC010542" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
+</div>
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Seismic anisotropy produced by aligned olivine in oceanic lithosphere offers a window into mid-ocean ridge dynamics. Yet, interpreting anisotropy in the context of grain-scale deformation processes and strain observed in laboratory experiments and natural olivine samples has proven challenging due to incomplete seismological constraints and length scale differences spanning orders of magnitude. To bridge this observational gap, we estimate an in situ elastic tensor for oceanic lithosphere using co-located compressional- and shear-wavespeed anisotropy observations at the NoMelt experiment located on ∼ 70 Ma seafloor. The elastic model for the upper 7 km of the mantle, NoMelt_SPani7, is characterized by a fast azimuth parallel to the fossil-spreading direction, consistent with corner-flow deformation fabric. We compare this model with a database of 123 petrofabrics from the literature to infer olivine crystallographic orientations and shear strain accumulated within the lithosphere. Direct comparison to olivine deformation experiments indicates strain accumulation of 250–400% in the shallow mantle. We find evidence for D-type olivine lattice-preferred orientation (LPO) with fast [100] parallel to the shear direction and girdled [010] and [001] crystallographic axes perpendicular to shear. D-type LPO implies similar amounts of slip on the (010)[100] and (001)[100] easy slip systems during mid-ocean ridge spreading; we hypothesize that grain-boundary sliding during dislocation creep relaxes strain compatibility, allowing D-type LPO to develop in the shallow lithosphere. Deformation dominated by dislocation-accommodated grain-boundary sliding (disGBS) has implications for in situ stress and grain size during mid-ocean ridge spreading and implies grain-size dependent deformation, in contrast to pure dislocation creep.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Geochemistry, Geophysics, Geosystems</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            October, 2022
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/obs/">OBS</a>
+  
+</div>
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+<div class="article-container article-widget">
+  <div class="post-nav">
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="https://jbrussell.github.io/publication/russell_dalton_2022_jgr/" rel="next">Rayleigh Wave Attenuation and Amplification Measured at Ocean-Bottom Seismometer Arrays using Helmholtz Tomography</a>
+  </div>
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="https://jbrussell.github.io/publication/eilon_et_al_2022_grl/" rel="prev">Sub-Lithospheric Small-Scale Convection Tomographically Imaged Beneath the Pacific Plate</a>
+  </div>
+  
+</div>
+
+</div>
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2018 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    
+    
+    <script src="/js/mathjax-config.500a6cbb2c0f345fcecc21b3116d6637aa78f1f11db8081ea581abe05390c2e8f3bbffe61be3cf0217baf785c40efceabe51050a4f007e69af94efd3643260e8.js" integrity="sha512-UApsuywPNF/OzCGzEW1mN6p48fEduAgepYGr4FOQwujzu//mG&#43;PPAhe694XEDvzqvlEFCk8AfmmvlO/TZDJg6A=="></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/python.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/matlab.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "Search Results",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+
