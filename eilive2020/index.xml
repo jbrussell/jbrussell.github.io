@@ -89,7 +89,7 @@ Shown below is data from a seismometer currently installed in Central Park as pa
       
       <guid>https://jbrussell.github.io/eilive2020/part2c_noisenyc/</guid>
       <description>Finally, we return to the ground vibrations measured in Central Park that we looked at in section Seismic Noise in NYC. However, because we need a waveform that oscillates around zero in order to turn it into sound, we remove the daily running average from the hourly measurements. The resulting waveform and spectrogram is shown below.
-The daily signal is the main feature of the waveform and appears as a bright streak in the spectrogram at around 100 Hz in sonified frequency (This is 1 / 24 hours = 1 / 86,400 seconds $\approx$ $1.</description>
+The daily signal is the main feature of the waveform and appears as a bright streak in the spectrogram at around 50 Hz in sonified frequency (this is 1 / 24 hours = 1 / 86,400 seconds $\approx$ $1.</description>
     </item>
     
     <item>
