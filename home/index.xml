@@ -90,15 +90,6 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://jbrussell.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Talks</title>
       <link>https://jbrussell.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -126,15 +117,6 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://jbrussell.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Outreach &amp; Other Projects</title>
       <link>https://jbrussell.github.io/home/outreach/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -145,11 +127,29 @@ Most recently, I have been involved with the Career Opportunities and Research i
     </item>
     
     <item>
+      <title>Recent Posts</title>
+      <link>https://jbrussell.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://jbrussell.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jbrussell.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/home/publications/</guid>
       <description></description>
     </item>
     
