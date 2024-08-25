@@ -1412,7 +1412,7 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #000E54 !important;
+  background-color: #D74100 !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -1976,7 +1976,7 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: #000E54;
+  color: #D74100;
   transition: color .16s linear;
 }
 
@@ -2006,7 +2006,7 @@ body.dark,
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
   border-color: #F76900;
-  box-shadow: 0 0 0 .2rem #000E54;
+  box-shadow: 0 0 0 .2rem #D74100;
 }
 
 .dark h1,
