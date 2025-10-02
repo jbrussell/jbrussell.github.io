@@ -50,7 +50,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/home/about/</guid>
-      <description>Our seismology group in the Department of Earth and Environmental Sciences at Syracuse University focuses on imaging Earth&amp;rsquo;s crust and upper mantle using seismic waves to understand tectonic processes. We are interested in questions pertaining to the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth&amp;rsquo;s thermodynamic state and how it contributes to and reflects mantle dynamics. We study these processes by building tomographic models of Earth&amp;rsquo;s interior that incorporate geochemical, geodynamic, and mineral physics constraints.</description>
+      <description>The seismology group in the Department of Earth and Environmental Sciences at Syracuse University focuses on using seismic waves to image Earth&amp;rsquo;s crust and upper mantle to understand tectonic processes. We are interested in questions pertaining to the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth&amp;rsquo;s thermodynamic and rheological state and how it contributes to and reflects mantle dynamics.</description>
     </item>
     
     <item>
@@ -86,6 +86,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://jbrussell.github.io/home/team/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/home/team/</guid>
       <description></description>
     </item>
     

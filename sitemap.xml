@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/team/isacc_rotimi/</loc>
+      <lastmod>2025-10-02T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/team/</loc>
+      <lastmod>2025-10-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/publication/janiszewski_et_al_2023_gji/</loc>
       <lastmod>2023-03-04T00:00:00-05:00</lastmod>
     </url>
@@ -367,6 +383,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/current/</loc>
+      <lastmod>2025-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
