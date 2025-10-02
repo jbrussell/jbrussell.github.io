@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/past/</link>
+    <description>Recent content in Past on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/tags/past/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charles Drew</title>
+      <link>https://jbrussell.github.io/team/charles_drew/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/team/charles_drew/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
