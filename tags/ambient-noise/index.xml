@@ -7,36 +7,75 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/tags/ambient-noise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System</title>
+      <link>https://jbrussell.github.io/research/oceanic_las/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/oceanic_las/</guid>
+      <description>Oceanic lithosphere covers a majority of the Earth&amp;rsquo;s surface, but the oceans are still largely unexplored compared to the continents. This work requires us to travel to unexplored regions of the ocean basins, placing seismometers on the seafloor to map temperature, composition, and flow in the mantle to probe plate tectonic processes at a variety of scales.
+
+
+Rheology and Flow of the Oceanic Mantle  What dynamic processes occur in the upper mantle?</description>
+    </item>
+    
+    <item>
+      <title>Continental Breakup &amp; Mid-Ocean Ridge Dynamics</title>
+      <link>https://jbrussell.github.io/research/extensional_environments/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/extensional_environments/</guid>
+      <description>Rift-to-Drift  Continental breakup leads to the formation of spreading centers, which are the factories that generate new oceanic lithosphere, are key contributors to the release of heat and volatiles from the planet’s interior, and are drivers of plate tectonics. Yet, questions remain regarding the fundamental rift-to-drift process, modes of mantle deformation in extensional settings, crustal accretion processes, and extent and degree of melting. Oceanic lithosphere provides a window into mid-ocean ridge processes via structures preserved within it.</description>
+    </item>
+    
+    <item>
       <title>Young ORCA: Searching for small-scale convection in the south Pacific</title>
-      <link>https://jbrussell.github.io/research/youngorca/</link>
+      <link>https://jbrussell.github.io/research_old/youngorca/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://jbrussell.github.io/research/youngorca/</guid>
+      <guid>https://jbrussell.github.io/research_old/youngorca/</guid>
       <description>Introduction At a broad scale, evolution of the oceanic lithosphere-asthenosphere system follows a relatively simple half-space cooling model with a rigid plate overlying weaker asthenosphere that thickens with distance from the ridge. However, in detail observations such as seafloor shallowing relative to half-space cooling at ages &amp;gt;70 Ma and seafloor gravity lineations suggest deviations from this simple model. One candidate to explain these observations is small-scale convection, which has been proposed in the form of so-called &amp;ldquo;Richter rolls&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>NoMelt: seismic constraints on oceanic lithosphere petrofabric</title>
-      <link>https://jbrussell.github.io/research/nomelt/</link>
+      <link>https://jbrussell.github.io/research_old/nomelt/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/research/nomelt/</guid>
+      <guid>https://jbrussell.github.io/research_old/nomelt/</guid>
       <description>Seismic anisotropy offers perhaps the most direct observational window into convection in Earth&amp;rsquo;s mantle as well as the structure and formation of oceanic plates. The NoMelt experiment, located ~1000 km southeast of Hawaii, was designed to better understand the fundamental plate tectonic processes involved in the formation and evolution of oceanic plates by looking at a region far from complications due to upwelling or subduction.  We use surface waves from ambient seismic noise recorded on ocean bottom seismometers (OBS) at NoMelt to measure both azimuthal and polarization anisotropy.</description>
     </item>
     
     <item>
       <title>ENAM: Seismic anisotropy of the Eastern North American Margin</title>
-      <link>https://jbrussell.github.io/research/enam/</link>
+      <link>https://jbrussell.github.io/research_old/enam/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://jbrussell.github.io/research/enam/</guid>
+      <guid>https://jbrussell.github.io/research_old/enam/</guid>
       <description>Magnetic anomalies of the ENAM-CSE region with broadband OBS shown as circles and colored by depth. East Coast Magnetic Anomaly (ECMA); Blake Spur Magnetic Anomaly (BSMA); Inner Magnetic Quiet Zone (IMQZ); Outer Magnetic Quiet Zone (OMQZ).   The eastern north American margin (ENAM) formed during the early breakup of the supercontinent Pangaea ~200 Ma. Therefore, the structure of this passive margin holds the keys to understanding continental breakup.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Seismology, Ambient Noise, and Ground Motion</title>
+      <link>https://jbrussell.github.io/research/environmental_seismology_noise/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/environmental_seismology_noise/</guid>
+      <description>Environmental Seismology  How can seismology tell us about environmental processes? Seismometers measure vibrations occuring at Earth&#39;s surface due to people, cars, earthquakes, ocean waves, and a range of other environmental phoenomena. Therefore, seismology can be used as an effective tool for understanding interactions between the solid Earth, cryosphere, hydrosphere, and atmosphere. Many of the tools we develop for imaging the Earth&#39;s deep interior using seismic noise can be shifted to higher frequency and repurposed for studying near-surface and environmental problems.</description>
+    </item>
+    
+    <item>
+      <title>Inverse Theory, Imaging Methods, and Community Tools</title>
+      <link>https://jbrussell.github.io/research/methods_development/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/methods_development/</guid>
+      <description>Imaging Methods &amp;amp; Inverse Theory  Making new discoveries about Earth&#39;s interior requires innovating methods to probe regions deep within the Earth that are otherwise inaccessible. Our group leverages multiple seismological datatypes to better image Earth structure. Bayesian inversion for seismic attenuation.    Figure 4 from Russell &amp; Dalton (2022) showing corrections for elastic focusing.    Wave travel-time information is commonly used to produce models of seismic velocity, which are sensitive to temperature and composition, but an observed change in seismic velocity can be explained equally well by multiple physical mechanisms.</description>
     </item>
     
   </channel>

@@ -38,6 +38,104 @@
     </item>
     
     <item>
+      <title>Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System</title>
+      <link>https://jbrussell.github.io/research/oceanic_las/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/oceanic_las/</guid>
+      <description>
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;maps.png&#34; width=&#34;100%&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Oceanic lithosphere covers a majority of the Earth&amp;rsquo;s surface, but the oceans are still largely unexplored compared to the continents. This work requires us to travel to unexplored regions of the ocean basins, placing seismometers on the seafloor to map temperature, composition, and flow in the mantle to probe plate tectonic processes at a variety of scales.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;rheology-and-flow-of-the-oceanic-mantle&#34;&gt;&lt;strong&gt;Rheology and Flow of the Oceanic Mantle&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;p&gt;
+    What dynamic processes occur in the upper mantle? To answer this fundamental question, we need to understand how mantle rocks deform and flow. As the mantle flows, the rheological and thermodynamic conditions control what kind of petrologic fabrics form. We can use seismology to infer these fabrics to learn about the dyanmic conditions that produced them. Seismic wave speeds and amplitudes change depending on the temperature, pressure, melt fraction, and volatile content of a mantle rock. Therefore, we can use these observations to constrain the mantle&#39;s physical state.
+  &lt;/p&gt;
+  &lt;figure style=&#34;margin: 0; text-align: center; flex-shrink: 0;&#34;&gt;
+    &lt;img src=&#34;featured.png&#34; alt=&#34;&#34; 
+         style=&#34;width:300px; height:auto; margin-right:15px; object-fit:cover;&#34;&gt;
+    &lt;figcaption style=&#34;margin-top:8px; font-size:14px; color:#555; max-width:300px; white-space:normal;&#34;&gt;
+      Figure from Russell et al (in prep) showing an interpretation of oceanic upper mantle processes.
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Related publications:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2018JB016598&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;J.B. Russell&lt;/strong&gt;, J.B. Gaherty, P.Y. Lin, D. Lizarralde, J.A. Collins, G. Hirth, R.L. Evans (2019). High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy. Journal of Geophysical Research: Solid Earth.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2021JB022955&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;J.B. Russell&lt;/strong&gt;, J.B. Gaherty. Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research, 2021.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2025GC012289&#34; target=&#34;_blank&#34;&gt;Dannberg, Z. Eilon, &lt;strong&gt;J.B. Russell&lt;/strong&gt;, R. Gassmöller (2025). Understanding Sub-Lithospheric Small-Scale Convection By Linking Models of Grain Size Evolution, Mantle Convection and Seismic Tomography. Geochemistry, Geophysics, Geosystems.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022GL100351&#34; target=&#34;_blank&#34;&gt; Z.C. Eilon, L. Zhang, J.B. Gaherty, D.W. Forsyth, &lt;strong&gt;J.B. Russell&lt;/strong&gt; (2022). Sub-Lithospheric Small-Scale Convection Tomographically Imaged Beneath the Pacific Plate. Geophysical Research Letters.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.epsl.2020.116148&#34; target=&#34;_blank&#34;&gt;Z. Ma, C.A. Dalton, &lt;strong&gt;J.B. Russell&lt;/strong&gt;, J.B. Gaherty, G. Hirth, D.W. Forsyth (2020). Shear Attenuation and Anelastic Mechanisms in the Central Pacific Upper Mantle. Earth &amp;amp; Planetary Science Letters.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;constraining-grain-scale-mechanisms-of-deformation&#34;&gt;&lt;strong&gt;Constraining Grain-Scale Mechanisms of Deformation&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;p&gt;
+    We combine seismic observations with laboratory and field data to infer grain-scale processing occuring in the upper mantle. This pushes the boundaries of traditional seismology and requires working alongside rock deformation experts. This work has allowed us to ask questions that challenge paradigms such as: Which deformation mechanism(s) are most active in the oceanic upper mantle? Is there melt in the oceanic asthenosphere? If not, what causes the oceanic asthenosphere to be week in some places and not others?
+  &lt;/p&gt;
+  &lt;figure style=&#34;margin: 0; text-align: center; flex-shrink: 0;&#34;&gt;
+    &lt;img src=&#34;regime.png&#34; alt=&#34;&#34; 
+         style=&#34;width:350px; height:auto; margin-right:15px; object-fit:cover;&#34;&gt;
+    &lt;figcaption style=&#34;margin-top:8px; font-size:14px; color:#555; max-width:350px; white-space:normal;&#34;&gt;
+      Figure 5 from Russell et al. (2022) showing how in-situ observations of anisotropy at NoMelt compare to laboratory and field samples.
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Related publications:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022GC010542&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;J.B. Russell&lt;/strong&gt;, J.B. Gaherty, H.F. Mark, G. Hirth, L.N. Hansen, D. Lizarralde, J.A. Collins, R.L. Evans (2022). Seismological evidence for girdled olivine lattice-preferred orientation in oceanic lithosphere and implications for mantle deformation processes during seafloor spreading. Geochemistry, Geophysics, Geosystems.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;prep&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;J.B. Russell&lt;/strong&gt;, C.A. Dalton, Z. Eilon, J.B. Gaherty, C. Havlin, B. Holtzman, J. Phillips, A. Hariharan, D.W. Forsyth. Seismic attenuation reveals large viscosity variations with little melt beneath Pacific plate. (in prep)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Understanding Sub-Lithospheric Small-Scale Convection By Linking Models of Grain Size Evolution, Mantle Convection and Seismic Tomography</title>
       <link>https://jbrussell.github.io/publication/janiszewski_russell_2025_srl/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 -0500</pubDate>
@@ -92,6 +190,85 @@
     </item>
     
     <item>
+      <title>Continental Breakup &amp; Mid-Ocean Ridge Dynamics</title>
+      <link>https://jbrussell.github.io/research/extensional_environments/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/extensional_environments/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;rift-to-drift&#34;&gt;&lt;strong&gt;Rift-to-Drift&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;p&gt;
+    Continental breakup leads to the formation of spreading centers, which are the factories that generate new oceanic lithosphere, are key contributors to the release of heat and volatiles from the planet’s interior, and are drivers of plate tectonics. Yet, questions remain regarding the fundamental rift-to-drift process, modes of mantle deformation in extensional settings, crustal accretion processes, and extent and degree of melting. Oceanic lithosphere provides a window into mid-ocean ridge processes via structures preserved within it.
+  &lt;/p&gt;
+  &lt;figure style=&#34;margin: 0; text-align: center; flex-shrink: 0;&#34;&gt;
+    &lt;img src=&#34;featured.png&#34; alt=&#34;&#34; 
+         style=&#34;width:350px; height:auto; margin-right:15px; object-fit:cover;&#34;&gt;
+    &lt;figcaption style=&#34;margin-top:8px; font-size:14px; color:#555; max-width:350px; white-space:normal;&#34;&gt;
+      Figures from Russell &amp; Gaherty (2021) showing upper mantle structure at seismic anisotropy at the ENAM-CSU experiment.
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;
+  &lt;figure style=&#34;margin: 0; text-align: center; flex-shrink: 0;&#34;&gt;
+    &lt;img src=&#34;enam_flow.png&#34; alt=&#34;&#34; 
+         style=&#34;width:350px; height:auto; margin-right:15px; object-fit:cover;&#34;&gt;
+    &lt;figcaption style=&#34;margin-top:8px; font-size:14px; color:#555; max-width:350px; white-space:normal;&#34;&gt;
+      Interpretation from Russell &amp; Gaherty (2021) demonstrating how mantle flow may be modified by the overriding plate motion.
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;p&gt;
+    A key outstanding question pertaining to the rift-to-drift process is how the asthenosphere (re)organizes during the transition from the late stages of rifting to early stages of seafloor spreading. We can learn a lot from investigating passive margins, the remnants of lithosphere left over from continental breakup and successful rifting. For example, at the Eastern North American Margin Community Seismic Experiment (ENAM-CSE) we found anisotropy that is oriented parallel to the margine (perpendicular to what is epected) indicating that mantle flow during the earliest stages of seafloor spreading is not what we previously thought.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Related publications:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2021JB022955&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;J.B. Russell&lt;/strong&gt;, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GC008843&#34; target=&#34;_blank&#34;&gt;N.J. Accardo, J.B. Gaherty, D.J. Shillington, E.Hopper, A.A. Nyblade, C.J. Ebinger, C.A. Scholz, P.R.N. Chindandali, R. Wambura-Ferdinand, G. Mbogoni, &lt;strong&gt;J.B. Russell&lt;/strong&gt;, B.K. Holtzman, C. Havlin, C. Class (2020). Thermo‐chemical modification of the Upper Mantle beneath the Northern Malawi Rift Constrained from Shear Velocity Imaging. Geochemistry, Geophysics, Geosystems.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;mid-ocean-ridge-dynamics&#34;&gt;&lt;strong&gt;Mid-Ocean Ridge Dynamics&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:red; font-size:25px;&#34;&gt;&lt;strong&gt;New Project Coming Fall 2026!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;enfaim.png&#34; width=&#34;100%&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rayleigh Wave Attenuation and Amplification Measured at Ocean-Bottom Seismometer Arrays using Helmholtz Tomography</title>
       <link>https://jbrussell.github.io/publication/russell_dalton_2022_jgr/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 -0400</pubDate>
@@ -124,24 +301,6 @@
       <pubDate>Thu, 02 Dec 2021 00:00:00 -0500</pubDate>
       
       <guid>https://jbrussell.github.io/publication/russell_et_al_2021_jgr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Pacific OBS Research into Convecting Asthenosphere (ORCA) Experiment</title>
-      <link>https://jbrussell.github.io/publication/eilon_et_al_2021_srl/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/publication/eilon_et_al_2021_srl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charles Drew</title>
-      <link>https://jbrussell.github.io/team/charles_drew/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://jbrussell.github.io/team/charles_drew/</guid>
       <description></description>
     </item>
     

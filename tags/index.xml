@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
-    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jbrussell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>3D Imaging</title>
+      <link>https://jbrussell.github.io/tags/3d-imaging/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/3d-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ambient Noise</title>
       <link>https://jbrussell.github.io/tags/ambient-noise/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/tags/ambient-noise/</guid>
       <description></description>
@@ -105,7 +114,7 @@
     <item>
       <title>OBS</title>
       <link>https://jbrussell.github.io/tags/obs/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/tags/obs/</guid>
       <description></description>
@@ -168,9 +177,18 @@
     <item>
       <title>Seismic Anisotropy</title>
       <link>https://jbrussell.github.io/tags/seismic-anisotropy/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0400</pubDate>
       
       <guid>https://jbrussell.github.io/tags/seismic-anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic Attenuation</title>
+      <link>https://jbrussell.github.io/tags/seismic-attenuation/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/tags/seismic-attenuation/</guid>
       <description></description>
     </item>
     

@@ -36,6 +36,14 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/research/oceanic_las/</loc>
+      <lastmod>2025-10-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/publication/janiszewski_russell_2025_srl/</loc>
       <lastmod>2025-03-04T00:00:00-05:00</lastmod>
     </url>
@@ -78,6 +86,14 @@
     
       <loc>https://jbrussell.github.io/publication/janiszewski_et_al_2023_gji/</loc>
       <lastmod>2023-03-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/research/extensional_environments/</loc>
+      <lastmod>2023-02-16T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -252,7 +268,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/youngorca/</loc>
+      <loc>https://jbrussell.github.io/research_old/youngorca/</loc>
       <lastmod>2020-02-16T00:00:00-05:00</lastmod>
     </url>
     
@@ -308,7 +324,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/nomelt/</loc>
+      <loc>https://jbrussell.github.io/research_old/nomelt/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -316,7 +332,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/obs_range/</loc>
+      <loc>https://jbrussell.github.io/research_old/obs_range/</loc>
       <lastmod>2018-10-30T00:00:00-04:00</lastmod>
     </url>
     
@@ -364,7 +380,7 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/enam/</loc>
+      <loc>https://jbrussell.github.io/research_old/enam/</loc>
       <lastmod>2018-10-29T00:00:00-04:00</lastmod>
     </url>
     
@@ -396,6 +412,14 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/research/environmental_seismology_noise/</loc>
+      <lastmod>2018-10-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/outreach/research_as_art/</loc>
       <lastmod>2018-10-28T00:00:00-04:00</lastmod>
     </url>
@@ -404,8 +428,16 @@
     
     <url>
     
-      <loc>https://jbrussell.github.io/research/love_overtones/</loc>
+      <loc>https://jbrussell.github.io/research_old/love_overtones/</loc>
       <lastmod>2018-10-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/research/methods_development/</loc>
+      <lastmod>2017-10-30T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -437,8 +469,17 @@
     
     <url>
     
+      <loc>https://jbrussell.github.io/tags/3d-imaging/</loc>
+      <lastmod>2023-02-16T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://jbrussell.github.io/tags/ambient-noise/</loc>
-      <lastmod>2020-02-16T00:00:00-05:00</lastmod>
+      <lastmod>2025-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -545,7 +586,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/obs/</loc>
-      <lastmod>2025-03-04T00:00:00-05:00</lastmod>
+      <lastmod>2025-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -626,6 +667,15 @@
     <url>
     
       <loc>https://jbrussell.github.io/research/</loc>
+      <lastmod>2025-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/research_old/</loc>
       <lastmod>2020-02-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -644,7 +694,16 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/seismic-anisotropy/</loc>
-      <lastmod>2020-02-16T00:00:00-05:00</lastmod>
+      <lastmod>2025-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://jbrussell.github.io/tags/seismic-attenuation/</loc>
+      <lastmod>2025-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -671,7 +730,7 @@
     <url>
     
       <loc>https://jbrussell.github.io/tags/</loc>
-      <lastmod>2020-02-16T00:00:00-05:00</lastmod>
+      <lastmod>2023-02-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

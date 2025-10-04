@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Imaging on Joshua Russell</title>
+    <link>https://jbrussell.github.io/tags/3d-imaging/</link>
+    <description>Recent content in 3D Imaging on Joshua Russell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022</copyright>
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jbrussell.github.io/tags/3d-imaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continental Breakup &amp; Mid-Ocean Ridge Dynamics</title>
+      <link>https://jbrussell.github.io/research/extensional_environments/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/extensional_environments/</guid>
+      <description>Rift-to-Drift  Continental breakup leads to the formation of spreading centers, which are the factories that generate new oceanic lithosphere, are key contributors to the release of heat and volatiles from the planet’s interior, and are drivers of plate tectonics. Yet, questions remain regarding the fundamental rift-to-drift process, modes of mantle deformation in extensional settings, crustal accretion processes, and extent and degree of melting. Oceanic lithosphere provides a window into mid-ocean ridge processes via structures preserved within it.</description>
+    </item>
+    
+    <item>
+      <title>Inverse Theory, Imaging Methods, and Community Tools</title>
+      <link>https://jbrussell.github.io/research/methods_development/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jbrussell.github.io/research/methods_development/</guid>
+      <description>Imaging Methods &amp;amp; Inverse Theory  Making new discoveries about Earth&#39;s interior requires innovating methods to probe regions deep within the Earth that are otherwise inaccessible. Our group leverages multiple seismological datatypes to better image Earth structure. Bayesian inversion for seismic attenuation.    Figure 4 from Russell &amp; Dalton (2022) showing corrections for elastic focusing.    Wave travel-time information is commonly used to produce models of seismic velocity, which are sensitive to temperature and composition, but an observed change in seismic velocity can be explained equally well by multiple physical mechanisms.</description>
+    </item>
+    
+  </channel>
+</rss>
